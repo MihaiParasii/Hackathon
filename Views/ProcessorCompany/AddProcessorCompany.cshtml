@@ -1,0 +1,12 @@
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Add Processor Company</h2>
+
+<form class="form" asp-controller="ProcessorCompany" asp-action="AddProcessorCompanyToDb">
+    <input class="input-group-text" style="width: 30%;" type="text" name="name" placeholder="Input company name" required>
+    <br>
+    <button class="btn btn-success" type="submit">Add processor company</button>
+</form>

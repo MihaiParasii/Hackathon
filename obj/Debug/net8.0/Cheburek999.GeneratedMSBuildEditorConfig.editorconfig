@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cheburek999
+build_property.RootNamespace = Cheburek999
+build_property.ProjectDir = /Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Display/AddDisplay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlzcGxheS9BZGREaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Notebook/AddNotebook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90ZWJvb2svQWRkTm90ZWJvb2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Notebook/DetailedView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90ZWJvb2svRGV0YWlsZWRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Notebook/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90ZWJvb2svSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Notebook/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90ZWJvb2svVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/NotebookCategory/AddNotebookCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90ZWJvb2tDYXRlZ29yeS9BZGROb3RlYm9va0NhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/NotebookCompany/AddNotebookCompany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90ZWJvb2tDb21wYW55L0FkZE5vdGVib29rQ29tcGFueS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/OperationSystem/AddOperationSystem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmF0aW9uU3lzdGVtL0FkZE9wZXJhdGlvblN5c3RlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Processor/AddProcessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvY2Vzc29yL0FkZFByb2Nlc3Nvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/ProcessorCompany/AddProcessorCompany.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvY2Vzc29yQ29tcGFueS9BZGRQcm9jZXNzb3JDb21wYW55LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/admin/Downloads/Hackathon/Cheburek999/Cheburek999/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bllrs7d9xy

@@ -1,0 +1,20 @@
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>title</h2>
+
+
+@{
+    List<int> a = (List<int>)ViewData["manufacturesId"]!;
+    List<int> b = (List<int>)ViewData["selectedCategories"]!;
+    <h1>a count- @a.Count</h1>
+    <h1>b count- @b.Count</h1>
+}
+<h1>manufacturesId: @ViewData["manufacturesId"]!.ToString()</h1>
+<h1>selectedCategories: @ViewData["selectedCategories"]!.ToString()</h1>
+<h1>batteryLife: @ViewData["batteryLife"]</h1>
+<h1>os: @ViewData["os"]</h1>
+<h1>screenSize: @ViewData["screenSize"]</h1>
+<h1>priceRange: @ViewData["priceRange"]</h1>

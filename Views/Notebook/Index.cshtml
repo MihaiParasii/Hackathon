@@ -1,0 +1,28 @@
+@model List<Notebook>
+
+@{
+    ViewBag.Title = "All Notebooks";
+    Layout = "_Layout";
+}
+
+
+<div class="container">
+    <div class="row row-cols-1 row-cols-2 g-3">
+        @foreach (Notebook notebook in Model)
+        {
+            <div class="col">
+                <div class="card" style="background-color: #ffc107">
+                    <div class="card-body">
+                        <h5 class="card-title">@notebook.Company.Name @notebook.Model</h5>
+                        <h6 class="card-subtitle">@notebook.Price €</h6>
+                        <br>
+                        <form asp-area="" asp-controller="Notebook" asp-action="DetailedView" method="get">
+                            <input type="number" name="id" hidden="hidden" value="@notebook.Id">
+                            <button class="btn btn-outline-dark" type="submit">Get Details</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

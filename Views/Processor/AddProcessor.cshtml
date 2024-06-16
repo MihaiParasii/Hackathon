@@ -1,0 +1,33 @@
+@model IEnumerable<ProcessorCompany>
+@{
+ViewBag.Title = "title";
+Layout = "_Layout";
+}
+
+<h2>Add Processor</h2>
+
+<form class="form" asp-controller="Processor" asp-action="AddProcessorToDb">
+    <input class="input-group-text" style="width: 30%;" type="text" name="name" placeholder="Input name" required>
+    <br>
+    <input class="input-group-text" style="width: 30%;" type="number" name="coresCount" placeholder="Input count of cores" required>
+    <br>
+    <input class="input-group-text" style="width: 30%;" type="number" name="frequency" placeholder="Input frequency" required>
+    <br>
+    <label class="align-content-center" for="processorsCompany">Select Processor Company:</label>
+    <div class="form-text" id="processorsCompany">
+        <select class="form-select" name="processorCompanyId" style="width: 30%;" aria-label="select example" required>
+            <div class="dropdown-menu">
+                <ul>
+                    @foreach (ProcessorCompany processorCompany in Model)
+                    {
+                    <li>
+                        <option class="dropdown-item" value="@processorCompany.Id">@processorCompany.Name @processorCompany.Id</option>
+                    </li>
+                    }
+                </ul>
+            </div>
+        </select>
+    </div>
+    <br>
+    <button class="btn btn-success" type="submit">Add</button>
+</form>

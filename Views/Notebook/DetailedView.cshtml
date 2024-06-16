@@ -1,0 +1,78 @@
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model Notebook
+
+@{
+    ViewBag.Title = "Detailed View";
+    Layout = "_Layout";
+}
+
+<style>
+    p {
+        font-size: 1.1em;
+        margin: 10px 0;
+    }
+
+    p strong {
+        display: inline-block;
+        width: 150px;
+    }
+
+    .card-body {
+        border-bottom-width: 0;
+        background-color: #ffc107;
+        border-radius: 10px;
+    }
+
+</style>
+
+<div class="card-body border-0">
+    <h4>
+        <strong>Base parameters:</strong>
+    </h4>
+    <p>
+        <strong>Model:</strong>@Model.Company.Name @Model.Model
+    </p>
+    <p>
+        <strong>Price:</strong>@Model.Price $
+    </p>
+    <p>
+        <strong>Processor:</strong>@Model.Processor.ProcessorCompany.Name @Model.Processor.Name
+    </p>
+    <p>
+        <strong>RAM:</strong>@Model.RamMemory GB
+    </p>
+    <p>
+        <strong>ROM:</strong>@(Model.RomMemory) GB
+    </p>
+</div>
+<br>
+<div class="card-body border-0">
+    <h4>
+        <strong>Display:</strong>
+    </h4>
+    <p><strong>Resolution:</strong>@Model.Display.PixelsY x @Model.Display.PixelsX</p>
+    <p><strong>Size:</strong>@(Model.Display.Diagonal)"</p>
+    <p><strong>Refresh Rate:</strong>@Model.Display.RefreshRate Hz</p>
+</div>
+<br>
+<div class="card-body border-0">
+    <h4>
+        <strong>Categories:</strong>
+    </h4>
+    <ul>
+        @{
+            foreach (NotebookCategory category in Model.Categories)
+            {
+                <li>
+                    @(category.Name)
+                    <br>
+                </li>
+            }
+        }
+    </ul>
+</div>
+<br>
+<form asp-controller="" asp-action="" method="get">
+    <input type="text" name="movieId" value="@Model.Id" hidden="hidden">
+    <button class="btn btn-outline-warning" type="submit">Buy</button>
+</form>

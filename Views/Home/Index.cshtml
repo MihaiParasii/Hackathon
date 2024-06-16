@@ -1,0 +1,495 @@
+﻿@*@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <style>
+        h1 {
+            color: #fff;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .question {
+            margin-bottom: 20px;
+            background-color: #ffc107;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .question h2 {
+            margin-bottom: 10px;
+            color: #fff;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .buttons button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: 2px solid #fd7e14;
+            background-color: transparent;
+            color: #fd7e14;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+
+        .buttons button:hover {
+            background-color: #fd7e14;
+            color: #000;
+        }
+
+        #results {
+            /*margin-top: 20px;*/
+            border-top: 1px solid #ccc;
+            /*padding-top: 20px;*/
+            background-color: #333;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        #results h2 {
+            color: #fff;
+        }
+
+        #results ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        #results ul li {
+            margin-bottom: 10px;
+            padding: 10px;
+            background-color: #444;
+            border-radius: 5px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border: 2px solid #ccc;
+            background-color: #555;
+            color: #fff;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border: 2px solid #ccc;
+            background-color: #555;
+            color: #fff;
+        }
+
+        input[type="submit"] {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            background-color: #28a745;
+            color: #fff;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #218838;
+        }
+        
+        .select-items {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: 2px solid #fd7e14;
+            background-color: transparent;
+            color: #fd7e14;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        
+    </style>
+    <form id="quizForm" asp-controller="Notebook" asp-action="FilteringNotebooks">
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="categories">
+                <h4>What will be notebook used for:</h4>
+                <div class="buttons">
+                    <select name="selectedCategories" id="selectedCategories" multiple="multiple">
+                        @{
+                            var a = (List<NotebookCategory>)ViewData["categories"]!;
+                            <h1>9@a.Count</h1>
+
+                            foreach (NotebookCategory category in (List<NotebookCategory>)ViewData["categories"]!)
+                            {
+                                <option value="@category.Id">
+                                    <button class="btn btn-outline-dark" type="button" value="@category.Id" onclick="selectMultipleAnswer1(this)">
+                                        @category.Name
+                                    </button>
+                                </option>
+                            }
+                        }
+                    </select>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="priceRange">
+                <h4>Select price range:</h4>
+                <div class="buttons">
+                    <select name="priceRange" id="priceRangeId">
+                        <option value="1">
+                            <button class="btn btn-outline-dark" type="button" name="priceRange" value="1" onclick="selectAnswer(this, '-7h')"> &#60 1000 €</button>
+                        </option>
+                        <option value="2">
+                            <button class="btn btn-outline-dark" type="button" name="priceRange" value="2" onclick="selectAnswer(this, '7h - 12h')">1000 € - 1500 €</button>
+                        </option>
+                        <option value="3">
+                            <button class="btn btn-outline-dark" type="button" name="priceRange" value="3" onclick="selectAnswer(this, '12h - 16h')">1500 € - 2000 €</button>
+                        </option>
+                        <option value="4">
+                            <button class="btn btn-outline-dark" type="button" name="priceRange" value="4" onclick="selectAnswer(this, '+16h')"> &#62 2000 €</button>
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="question" id="manufactures">
+            <h4>Select your preferred manufactures:</h4>
+            <select name="manufacturesId" multiple aria-label="select example" required>
+                <div class="buttons">
+                    @{
+                        foreach (NotebookCompany company in (List<NotebookCompany>)ViewData["companies"]!)
+                        {
+                            <option value="@company.Id">
+                                <button type="button" name="@company.Id" onclick="selectOneAnswer(this)">
+                                    @company.Name
+                                </button>
+                            </option>
+                        }
+                    }
+                </div>
+            </select>
+        </div>
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="batteryLife">
+                <h4>Select expected battery life:</h4>
+                <div class="buttons">
+                    <select name="batteryLife" id="batteryLifeId">
+                        <option value="1">
+                            <button class="btn btn-outline-dark" type="button" name="batteryLife" value="1" onclick="selectAnswer(this, '-7h')">&#60 7h</button>
+                        </option>
+                        <option value="2">
+                            <button class="btn btn-outline-dark" type="button" name="batteryLife" value="2" onclick="selectAnswer(this, '7h - 12h')">7h - 12h</button>
+                        </option>
+                        <option value="3">
+                            <button class="btn btn-outline-dark" type="button" name="batteryLife" value="3" onclick="selectAnswer(this, '12h - 16h')">12h - 16h</button>
+                        </option>
+                        <option value="4">
+                            <button class="btn btn-outline-dark" type="button" name="batteryLife" value="4" onclick="selectAnswer(this, '+16h')">&#62 16h</button>
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="os">
+                <h4>Select operating system: </h4>
+                <div class="buttons">
+                    <select name="os" id="os">
+                        <option value="Windows">
+                            <button class="btn btn-outline-dark" type="button" name="os" value="Windows" onclick="selectAnswer(this, '-7h')">Windows</button>
+                        </option>
+                        <option value="MacOS">
+                            <button class="btn btn-outline-dark" type="button" name="os" value="MacOS" onclick="selectAnswer(this, '7h - 12h')">MacOS</button>
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="screenSize">
+                <h4>Select screen size: </h4>
+                <div class="buttons">
+                    <select name="screenSize" id="screenSizeId">
+                        <option value="1">
+                            <button class="btn btn-outline-dark" type="button" name="screenSize" value="1" onclick="selectAnswer(this, '-7h')">&#60 14"</button>
+                        </option>
+                        <option value="2">
+                            <button class="btn btn-outline-dark" type="button" name="screenSize" value="2" onclick="selectAnswer(this, '7h - 12h')">14" - 16"</button>
+                        </option>
+                        <option value="3">
+                            <button class="btn btn-outline-dark" type="button" name="screenSize" value="3" onclick="selectAnswer(this, '7h - 12h')">&#62 16"</button>
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <button class="btn btn-success" type="submit">Recommend a notebook</button>
+    </form>
+
+    <script>
+        function selectMultipleAnswer(button) {
+            button.classList.toggle('active');
+        }
+        
+        let selectedBatteryLife = '';
+        let selectedOption = '';
+
+        function selectAnswer(button, value) {
+            // Get the parent container of the button
+            const container = button.closest('.buttons');
+            // Deselect all buttons in the container
+            const buttons = container.querySelectorAll('button');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            // Select the clicked button
+            button.classList.add('active');
+
+            // Update the selected value based on the button name
+            if (button.name === 'batteryLife') {
+                selectedBatteryLife = value;
+            } else if (button.name === 'anotherOption') {
+                selectedOption = value;
+            }
+        }
+    </script>
+</div>*@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <style>
+        h1 {
+            color: #fff;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .question {
+            margin-bottom: 20px;
+            background-color: #ffc107;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .question h4 {
+            margin-bottom: 10px;
+            color: #000000;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .buttons select {
+            display: none; /* Hide the actual select element */
+        }
+
+        .buttons .option-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: 2px solid #000000;
+            background-color: transparent;
+            color: #000000;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            margin-bottom: 10px;
+            display: inline-block;
+        }
+
+        .buttons .option-button:hover {
+            background-color: #fd7e14;
+            color: #000;
+        }
+
+        /* Custom styling for selected options */
+        .buttons .option-button.selected {
+            background-color: #fd7e14;
+            color: #000;
+        }
+    </style>
+    <form id="quizForm" method="post" asp-controller="Notebook" asp-action="FilteringNotebooks">
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="categories">
+                <h4>What will the notebook be used for:</h4>
+                <div class="buttons">
+                    <select name="selectedCategories" multiple required="required">
+                        @{
+                            var categories = (List<NotebookCategory>)ViewData["categories"];
+
+                            if (categories != null)
+                            {
+                                foreach (var category in categories)
+                                {
+                                    <option value="@category.Id">@category.Name</option>
+                                }
+                            }
+                        }
+                    </select>
+                    <div class="option-buttons">
+                        @{
+                            if (categories != null)
+                            {
+                                foreach (var category in categories)
+                                {
+                                    <div class="option-button" data-value="@category.Id">@category.Name</div>
+                                }
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="priceRange">
+                <h4>Select price range:</h4>
+                <div class="buttons">
+                    <select name="priceRange" required="required">
+                        <option value="1">&#60; 1000 €</option>
+                        <option value="2">1000 € - 1500 €</option>
+                        <option value="3">1500 € - 2000 €</option>
+                        <option value="4">&#62; 2000 €</option>
+                    </select>
+                    <div class="option-buttons">
+                        <div class="option-button" data-value="1">&#60; 1000 €</div>
+                        <div class="option-button" data-value="2">1000 € - 1500 €</div>
+                        <div class="option-button" data-value="3">1500 € - 2000 €</div>
+                        <div class="option-button" data-value="4">&#62; 2000 €</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="question" id="manufactures">
+            <h4>Select your preferred manufacturers:</h4>
+            <div class="buttons">
+                <select name="manufacturesId" multiple required="required">
+                    @{
+                        var companies = (List<NotebookCompany>)ViewData["companies"];
+
+                        if (companies != null)
+                        {
+                            foreach (var company in companies)
+                            {
+                                <option value="@company.Id">@company.Name</option>
+                            }
+                        }
+                    }
+                </select>
+                <div class="option-buttons">
+                    @{
+                        if (companies != null)
+                        {
+                            foreach (var company in companies)
+                            {
+                                <div class="option-button" data-value="@company.Id">@company.Name</div>
+                            }
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="batteryLife">
+                <h4>Select expected battery life:</h4>
+                <div class="buttons">
+                    <select name="batteryLife" required="required">
+                        <option value="1">&#60; 7h</option>
+                        <option value="2">7h - 12h</option>
+                        <option value="3">12h - 16h</option>
+                        <option value="4">&#62; 16h</option>
+                    </select>
+                    <div class="option-buttons">
+                        <div class="option-button" data-value="1">&#60; 7h</div>
+                        <div class="option-button" data-value="2">7h - 12h</div>
+                        <div class="option-button" data-value="3">12h - 16h</div>
+                        <div class="option-button" data-value="4">&#62; 16h</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="os">
+                <h4>Select operating system:</h4>
+                <div class="buttons">
+                    <select name="os" required="required">
+                        <option value="Windows">Windows</option>
+                        <option value="MacOS">MacOS</option>
+                    </select>
+                    <div class="option-buttons">
+                        <div class="option-button" data-value="Windows">Windows</div>
+                        <div class="option-button" data-value="MacOS">MacOS</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="align-content-center" style="align-content: center;">
+            <div class="question" id="screenSize">
+                <h4>Select screen size:</h4>
+                <div class="buttons">
+                    <select name="screenSize" required="required">
+                        <option value="1">&#60; 14"</option>
+                        <option value="2">14" - 16"</option>
+                        <option value="3">&#62; 16"</option>
+                    </select>
+                    <div class="option-buttons">
+                        <div class="option-button" data-value="1">&#60; 14"</div>
+                        <div class="option-button" data-value="2">14" - 16"</div>
+                        <div class="option-button" data-value="3">&#62; 16"</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <button class="btn btn-success" type="submit">Recommend a notebook</button>
+    </form>
+
+    <script>
+        // JavaScript to handle the selection of options as buttons
+        document.addEventListener('DOMContentLoaded', function () {
+            const optionButtons = document.querySelectorAll('.option-button');
+
+            optionButtons.forEach(button => {
+                button.addEventListener('click', function () {
+                    const value = button.getAttribute('data-value');
+                    const select = button.closest('.buttons').querySelector('select');
+                    const option = select.querySelector(`option[value="${value}"]`);
+
+                    if (option) {
+                        option.selected = !option.selected;
+                    }
+
+                    button.classList.toggle('selected');
+                });
+            });
+        });
+    </script>
+</div>

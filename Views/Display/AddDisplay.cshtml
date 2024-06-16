@@ -1,0 +1,18 @@
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Add Display</h2>
+
+<form class="form" asp-controller="Display" asp-action="AddDisplayToDb">
+    <input class="input-group-text" style="width: 30%;" type="number" name="pixelX" placeholder="Input pixelX count" required>
+    <br>
+    <input class="input-group-text" style="width: 30%;" type="number" name="pixelY" placeholder="Input pixelY count" required>
+    <br>
+    <input class="input-group-text" style="width: 30%;" type="number" name="refreshRate" placeholder="Input refresh rate" required>
+    <br>
+    <input class="input-group-text" style="width: 30%;" type="number" name="diagonal" placeholder="Input diagonal" required>
+    <br>
+    <button class="btn btn-success" type="submit">Add</button>
+</form>

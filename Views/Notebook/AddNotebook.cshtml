@@ -1,0 +1,103 @@
+@model ICollection<OperationSystem>
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Add Notebook</h2>
+
+<form class="form" asp-controller="Notebook" asp-action="AddNotebookToDb">
+    <input class="input-group-text" style="width: 30%;" type="text" name="model" placeholder="Input model" required>
+    <br>
+    <input class="input-group-text" style="width: 30%;" type="number" name="batteryLife" placeholder="Input battery life" required>
+    <br>
+    <input class="input-group-text" style="width: 30%;" type="number" name="price" placeholder="Input price" required>
+    <br>
+    <input class="input-group-text" style="width: 30%;" type="number" name="ram" placeholder="Input RAM Memory" required>
+    <br>
+    <input class="input-group-text" style="width: 30%;" type="number" name="rom" placeholder="Input ROM Memory" required>
+    <br>
+
+    <label class="align-content-center" for="operationSystem">Select Operation System:</label>
+    <div class="form-text" id="operationSystem">
+        <select class="form-select" name="operationSystemId" style="width: 30%;" aria-label="select example" required>
+            <div class="dropdown-menu">
+                <ul>
+                    @foreach (OperationSystem operationSystem in Model)
+                    {
+                        <li>
+                            <option class="dropdown-item" value="@operationSystem.Id">@operationSystem.Name</option>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </select>
+    </div>
+
+
+    <label class="align-content-center" for="notebookCompany">Select Notebook Company:</label>
+    <div class="form-text" id="notebookCompany">
+        <select class="form-select" name="notebookCompanyId" style="width: 30%;" aria-label="select example" required>
+            <div class="dropdown-menu">
+                <ul>
+                    @foreach (NotebookCompany notebookCompany in (IEnumerable<NotebookCompany>)ViewData["notebookCompany"]!)
+                    {
+                        <li>
+                            <option class="dropdown-item" value="@notebookCompany.Id">@notebookCompany.Name</option>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </select>
+    </div>
+
+    <label class="align-content-center" for="processor">Select Processor:</label>
+    <div class="form-text" id="processor">
+        <select class="form-select" name="processorId" style="width: 30%;" aria-label="select example" required>
+            <div class="dropdown-menu">
+                <ul>
+                    @foreach (Processor processor in (IEnumerable<Processor>)ViewData["processor"]!)
+                    {
+                        <li>
+                            <option class="dropdown-item" value="@processor.Id">@processor.ToString()</option>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </select>
+    </div>
+
+    <label class="align-content-center" for="display">Select Display:</label>
+    <div class="form-text" id="display">
+        <select class="form-select" name="displayId" style="width: 30%;" aria-label="select example" required>
+            <div class="dropdown-menu">
+                <ul>
+                    @foreach (Display display in (IEnumerable<Display>)ViewData["display"]!)
+                    {
+                        <li>
+                            <option class="dropdown-item" value="@display.Id">@display.ToString()</option>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </select>
+    </div>
+
+    <label class="align-content-center" for="category">Select Category:</label>
+    <div class="form-text" id="category">
+        <select class="form-select" name="categoriesId" style="width: 30%;" multiple aria-label="select example" required>
+            <div class="dropdown-menu">
+                <ul>
+                    @foreach (NotebookCategory category in (IEnumerable<NotebookCategory>)ViewData["category"]!)
+                    {
+                        <li>
+                            <option class="dropdown-item" value="@category.Id">@category.ToString()</option>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </select>
+    </div>
+
+    <button class="btn btn-success" type="submit">Add</button>
+</form>
