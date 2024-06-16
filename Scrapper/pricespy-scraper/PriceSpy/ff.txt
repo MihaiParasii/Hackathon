@@ -1,0 +1,2 @@
+Error occurred while reading the JSON file: [Errno 2] No such file or directory: 'PriceSpy/spiders/config/shop_config.json'
+can't read

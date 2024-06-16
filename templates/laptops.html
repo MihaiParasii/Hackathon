@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>List of Laptops</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #1b1b1b;
+            color: #ffffff;
+            margin: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #333;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .laptop {
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #444;
+            border-radius: 5px;
+        }
+
+        .laptop img {
+            max-width: 100px;
+            height: auto;
+            float: right;
+        }
+
+        .laptop-details {
+            margin-bottom: 10px;
+        }
+
+        .laptop-details strong {
+            color: #ff9900;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>List of Laptops</h1>
+        <div class="laptops">
+            {% for laptop in laptops %}
+            <div class="laptop">
+                <div class="laptop-details">
+                    <strong>{{ laptop.name }}</strong><br>
+                    Processor: {{ laptop.processor }}<br>
+                    RAM: {{ laptop.ram }}<br>
+                    Video Card: {{ laptop.video_card }}<br>
+                    Storage: {{ laptop.storage }}<br>
+                    Category: {{ laptop.category }}<br>
+                    Price: ${{ laptop.price }}<br>
+                    <a href="{{ laptop.url }}" style="color: #ffc107;">More info</a>
+                </div>
+                <img src="{{ laptop.photo }}" alt="{{ laptop.name }}">
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

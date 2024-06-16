@@ -1,0 +1,46 @@
+{
+  "event": "select_item",
+  "ecommerce": {
+    "currency": "MDL",
+    "value": 29990,
+    "items": [
+      {
+        "item_id": "00-01002546-001",
+        "item_name": "Laptop Asus ROG Strix G15 G513RM Eclipse Gray",
+        "discount": 2000,
+        "index": 0,
+        "item_brand": "Asus",
+        "item_category": "Laptopuri gaming",
+        "item_list_id": 865,
+        "item_list_name": "Laptopuri gaming",
+        "item_variant": "15.6\" | 16 GB | 1 TB | AMD Ryzen 7 6800H | GeForce RTX 3060 6 GB",
+        "price": 29990,
+        "quantity": 1
+      }
+    ]
+  }
+}
+
+{
+  "event": "select_item",
+  "ecommerce": {
+    "currency": "MDL",
+    "value": 0,
+    "items": [
+      {
+        "item_id": "00-00029730-001",
+        "item_name": "Laptop Asus VivoBook Max X541SA Black",
+        "discount": 0,
+        "index": 0,
+        "item_brand": "Asus",
+        "item_category": "Laptop-uri",
+        "item_list_id": 104,
+        "item_list_name": "Laptop-uri",
+        "item_variant": "15.6\" | 4 GB | | Intel Pentium N3710 | VGA Integrată",
+        "price": 0,
+        "quantity": 1
+      }
+    ]
+  }
+}
+

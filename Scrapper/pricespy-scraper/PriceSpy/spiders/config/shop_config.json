@@ -1,0 +1,60 @@
+{
+  "shop": [
+    {
+      "name": "ultra",
+      "url": "https://ultra.md/category",
+      "javascript": false,
+      "category": {
+        "PHONE": "smartphones",
+        "TABLET": "tablets",
+        "SMARTWATCH": "smartwatches-activity-trackers",
+        "TV": "tv-televizory",
+        "LAPTOP": "notebooks",
+        "CONSOLE": "gaming-consoles",
+        "MONITOR": "monitors"
+      }
+    },
+    {
+      "name": "smart",
+      "url": "https://www.smart.md",
+      "javascript": true,
+      "category": {
+        "PHONE": "smartphone",
+        "TABLET": "tablete",
+        "SMARTWATCH": "smart-watch",
+        "TV": "televizoare",
+        "LAPTOP": "laptopuri",
+        "CONSOLE": "console-gaming",
+        "MONITOR": "monitoare"
+      }
+    },
+    {
+      "name": "darwin",
+      "url": "https://darwin.md",
+      "javascript": false,
+      "category": {
+        "PHONE": "telefoane",
+        "TABLET": "tablete",
+        "SMARTWATCH": "gadgets",
+        "TV": "tv-si-accesorii/televizoare",
+        "LAPTOP": "laptopuri",
+        "CONSOLE": "gaming/console",
+        "MONITOR": "monitoare"
+      }
+    },
+    {
+      "name": "enter",
+      "url": "https://enter.online",
+      "javascript": false,
+      "category": {
+        "PHONE": "telefoane/smartphone-uri",
+        "TABLET": "tablete",
+        "SMARTWATCH": "gadgets",
+        "TV": "televizoare",
+        "LAPTOP": "laptopuri",
+        "CONSOLE": "gaming/console",
+        "MONITOR": "monitoare"
+      }
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+name,model,link,price,discount,brand,category,specs,new,shop
+Samsung Galaxy S23+ 256 GB Light Pink,Galaxy S23+,https://darwin.md/samsung-galaxy-s23-8-gb-256-gb-light-pink.html,20499,19699,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A14 128 GB Black,Galaxy A14,https://darwin.md/samsung-galaxy-a14-a145-4-gb-128-gb-dual-sim-4g-black.html,3999,3599,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy S23+ 256 GB Black,Galaxy S23+,https://darwin.md/samsung-galaxy-s23-8-gb-256-gb-blackhtml-ram-8gb.html,20499,19699,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A14 128 GB Silver,Galaxy A14,https://darwin.md/samsung-galaxy-a14-a145-4-gb-128-gb-dual-sim-4g-silver.html,3999,3599,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A14 64 GB Silver,Galaxy A14,https://darwin.md/samsung-galaxy-a14-4-gb-64-gb-silver.html,3599,3299,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy A14 64 GB Black,Galaxy A14,https://darwin.md/samsung-galaxy-a14-4-gb-64-gb-black.html,3599,3299,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy S23+ 256 GB Green,Galaxy S23+,https://darwin.md/samsung-galaxy-s23-s916-8-gb-256-gb-dual-sim-5g-green.html,20499,19699,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A14 128 GB Green Light,Galaxy A14,https://darwin.md/samsung-galaxy-a14-a145-4-gb-128-gb-dual-sim-4glight-green.html,3999,3599,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A14 64 GB Green Light,Galaxy A14,https://darwin.md/samsung-galaxy-a14-4-gb-64-gb-light-green.html,3599,3299,Samsung,PHONE,64gb,True,DARWIN
+Apple iPhone 11 64 GB Black,iPhone 11,https://darwin.md/smartphone_apple-iphone-11-64gb-black.html,9999,8199,Apple,PHONE,64gb,True,DARWIN
+Apple iPhone 11 128 GB White,iPhone 11,https://darwin.md/smartphone_apple-iphone-11-128gb-white.html,10999,9299,Apple,PHONE,128gb,True,DARWIN
+Samsung Galaxy S21 FE 128 GB Gray,Galaxy S21 FE,https://darwin.md/samsung-galaxy-s21-fe-6-gb-128-gb-gray.html,12899,12499,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 13 128 GB Midnight,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-128-gb-midnight.html,14199,12699,Apple,PHONE,128gb,True,DARWIN
+Apple iPhone 11 128 GB Black,iPhone 11,https://darwin.md/smartphone_apple-iphone-11-128gb-black.html,10999,9299,Apple,PHONE,128gb,True,DARWIN
+Apple iPhone 12 128 GB Black,iPhone 12,https://darwin.md/iphone-12-apple-128-gb-black.html,14999,12999,Apple,PHONE,128gb,True,DARWIN
+Apple iPhone 11 64 GB White,iPhone 11,https://darwin.md/smartphone_apple-iphone-11-64gb-white.html,9999,8199,Apple,PHONE,64gb,True,DARWIN
+Apple iPhone 13 128 GB Starlight,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-128-gb-starlight.html,14199,12699,Apple,PHONE,128gb,True,DARWIN
+Apple iPhone 13 128 GB Green,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-128-gb-green.html,14199,12699,Apple,PHONE,128gb,True,DARWIN
+Apple iPhone 13 128 GB Pink,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-128-gb-pink.html,14199,12699,Apple,PHONE,128gb,True,DARWIN
+Xiaomi Redmi 9C 32 GB Gray,Redmi 9C,https://darwin.md/redmi-9c-xiaomi-gray-2-32-gb-dual.html,2999,2999,Xiaomi,PHONE,32gb,True,DARWIN
+Apple iPhone 11 64 GB Red,iPhone 11,https://darwin.md/smartphone_apple-iphone-11-64gb-red.html,9999,8199,Apple,PHONE,64gb,True,DARWIN
+Apple iPhone 13 256 GB Midnight,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-256-gb-midnight.html,16599,14999,Apple,PHONE,256gb,True,DARWIN
+Apple iPhone 13 128 GB Blue,iPhone 13,https://darwin.md/apple-iphone-13-128-gb-blue.html,14199,12699,Apple,PHONE,128gb,True,DARWIN
+Apple iPhone 13 256 GB Green,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-256-gb-green.html,16599,14999,Apple,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 9C 64 GB Gray,Redmi 9C,https://darwin.md/redmi-9c-xiaomi-gray-3-64-gb-dual.html,3399,3399,Xiaomi,PHONE,64gb,True,DARWIN
+Apple iPhone 13 256 GB Starlight,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-256-gb-starlight.html,16599,14999,Apple,PHONE,256gb,True,DARWIN
+Xiaomi Redmi Note 9 64 GB Green,Redmi Note 9,https://darwin.md/redmi-note-9-xiaomi-green-3-64-gb-dual.html,4199,4199,Xiaomi,PHONE,64gb,True,DARWIN
+Apple iPhone 13 256 GB Pink,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-256-gb-pink.html,16599,14999,Apple,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 9 32 GB Gray,Redmi 9,https://darwin.md/redmi-9-xiaomi-gray-3-32-gb-dual.html,3499,3499,Xiaomi,PHONE,32gb,True,DARWIN
+Apple iPhone 14 128 GB Midnight,iPhone 14,https://darwin.md/apple-iphone-14-4-gb-128-gb-midnight.html,16699,14999,Apple,PHONE,128gb,True,DARWIN
+Apple iPhone 13 128 GB Red,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-128-gb-red.html,14199,12699,Apple,PHONE,128gb,True,DARWIN
+Apple iPhone 13 256 GB Blue,iPhone 13,https://darwin.md/apple-iphone-13-4-gb-256-gb-blue.html,16599,14999,Apple,PHONE,256gb,True,DARWIN
+Xiaomi Redmi Note 12 Pro 4G 8 GB/ 256 GB Gray,Redmi Note 12 Pro,https://darwin.md/xiaomi-redmi-note-12-pro-8-gb-256-gb-gray.html,5999,5299,Xiaomi,PHONE,8gb,True,DARWIN
+Samsung Galaxy S22 256 GB Black Phantom,Galaxy S22,https://darwin.md/samsung-galaxy-s22-8-gb-256-gb-blackhtml-ram-8gb.html,15599,11499,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A33 128 GB Black,Galaxy A33,https://darwin.md/samsung-galaxy-a33-6-gb-128-gb-black.html,7299,6999,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 14 Pro 256 GB Deep Purple,iPhone 14 Pro,https://darwin.md/apple-iphone-14-pro-6-gb-256-gb-single-sim-5gdeep-purple.html,27499,26999,Apple,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro Max 512 GB White Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-512-gb-single-sim-5gtitanium-white.html,35999,32499,Apple,PHONE,512gb,True,DARWIN
+Samsung Galaxy A12 32 GB Red,Galaxy A12,https://darwin.md/a125-galaxy-a12-samsung-red-32-gb-dual.html,3699,3699,Samsung,PHONE,32gb,True,DARWIN
+Samsung Galaxy A53 128 GB Black,Galaxy A53,https://darwin.md/samsung-a53-6-gb-128-gb-black.html,8299,7999,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 13 128 GB Starlight,iPhone 13,https://darwin.md/iphone-13-apple-128-gb-starlight-dual.html,21999,20999,Apple,PHONE,128gb,True,DARWIN
+Samsung Galaxy S23 Ultra 256 GB Green,Galaxy S23 Ultra,https://darwin.md/samsung-galaxy-s23-ultra-12-gb-256-gb-green.html,25999,24999,Samsung,PHONE,256gb,True,DARWIN
+Apple iPhone 14 Pro 256 GB Space Black,iPhone 14 Pro,https://darwin.md/apple-iphone-14-pro-6-gb-256-gb-single-sim-5gspace-black.html,27499,26999,Apple,PHONE,256gb,True,DARWIN
+Ulefone Armor 8 64 GB Black,Armor 8,https://darwin.md/armor-8-ulefone-black-64-gb-dual.html,3899,3899,Ulefone,PHONE,64gb,True,DARWIN
+Xiaomi Redmi Note 12 Pro 256 GB Blue,Redmi Note 12 Pro,https://darwin.md/xiaomi-redmi-note-12-pro-8-gb-256-gb-blue.html,5999,5299,Xiaomi,PHONE,256gb,True,DARWIN
+Apple iPhone 13 Pro 1 TB Graphite,iPhone 13 Pro,https://darwin.md/apple-iphone-13-pro-8-gb-1-tb-graphite.html,34999,34999,Apple,PHONE,1tb,True,DARWIN
+Samsung Galaxy S22 128 GB Black Phantom,Galaxy S22,https://darwin.md/samsung-galaxy-s22-8-gb-128-gb-black.html,14699,9999,Samsung,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 11 Pro 128 GB Star Blue,Redmi Note 11 Pro,https://darwin.md/xiaomi-redmi-note-11-pro-6-gb-128-gb-blue.html,6799,6499,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy S22 Ultra 512 GB Phantom White,Galaxy S22 Ultra,https://darwin.md/samsung-galaxy-s22-ultra-12-gb-512-gb-white.html,27099,27099,Samsung,PHONE,512gb,True,DARWIN
+Samsung Galaxy A54 256 GB Black,Galaxy A54,https://darwin.md/samsung-galaxy-a54-8-gb-256-gb-black.html,9699,8199,Samsung,PHONE,256gb,True,DARWIN
+Poco M4 Pro 5G 64 GB Cool Blue,M4 Pro,https://darwin.md/poco-m4-pro-5g-4-gb-64-gb-blue.html,4299,3799,Poco,PHONE,64gb,True,DARWIN
+Ulefone Armor 13 256 GB Silver Black,Armor 13,https://darwin.md/ulefone-armor-13-8-gb-256-gb-black.html,7999,5999,Ulefone,PHONE,256gb,True,DARWIN
+Samsung Galaxy A03 32 GB Black,Galaxy A03,https://darwin.md/samsung-galaxy-a03-3-gb-32-gb-black.html,2099,1799,Samsung,PHONE,32gb,True,DARWIN
+Samsung Galaxy S23 Ultra 512 GB Black,Galaxy S23 Ultra,https://darwin.md/samsung-galaxy-s23-ultra-12-gb-512-gb-black.html,28399,26999,Samsung,PHONE,512gb,True,DARWIN
+Apple iPhone 15 Pro Max 256 GB Natural Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-256-gb-single-sim-5gtitanium-natural.html,30999,27499,Apple,PHONE,256gb,True,DARWIN
+Apple iPhone 14 128 GB Purple,iPhone 14,https://darwin.md/apple-iphone-14-6-gb-128-gb-single-sim-5g-purple.html,16699,14999,Apple,PHONE,128gb,True,DARWIN
+Xiaomi Redmi 10C 128 GB Gray,Redmi 10C,https://darwin.md/xiaomi-redmi-10c-4-gb-128-gb-gray.html,4199,4199,Xiaomi,PHONE,128gb,True,DARWIN
+Apple iPhone 14 128 GB Starlight,iPhone 14,https://darwin.md/apple-iphone-14-6-gb-128-gb-single-sim-5g-starlight.html,16699,14999,Apple,PHONE,128gb,True,DARWIN
+Samsung Galaxy S23 256 GB Black,Galaxy S23,https://darwin.md/samsung-galaxy-s23-8-gb-256-gb-black.html,18999,17399,Samsung,PHONE,256gb,True,DARWIN
+Poco M4 Pro 5G 64 GB Power Black,M4 Pro,https://darwin.md/poco-m4-pro-5g-4-gb-64-gb-black.html,4299,3799,Poco,PHONE,64gb,True,DARWIN
+Nokia 5310 (2020) Black,Nokia 5310 (2020) Black,https://darwin.md/5310-2020-nokia-red-black-dual.html,1349,1349,Nokia,PHONE,"2.4&quot;, Dual SIM, 2G",True,DARWIN
+"Graphic Tablet Wacom Intuos Pro M PTH-660-N, Black","Graphic Tablet Wacom Intuos Pro M PTH-660-N, Black",https://darwin.md/graphic-tablet-wacom-intuos-pro-m-pth-660-n.html,9499,7999,Wacom,PHONE,,True,DARWIN
+Samsung Galaxy A03 Core 32 GB Black,Galaxy A03 Core,https://darwin.md/samsung-galaxy-a03-core-2-gb-32-gb-black.html,1899,1699,Samsung,PHONE,32gb,True,DARWIN
+Apple iPhone 14 Pro Max 512 GB Silver,iPhone 14 Pro Max,https://darwin.md/apple-iphone-14-pro-max-6-gb-512-gb-silver.html,45999,44999,Apple,PHONE,512gb,True,DARWIN
+Xiaomi Redmi 10C 64 GB Gray,Redmi 10C,https://darwin.md/xiaomi-redmi-10c-4-gb-64-gb-gray.html,3899,3699,Xiaomi,PHONE,64gb,True,DARWIN
+Samsung Galaxy Flip 3 128 GB Phantom Black,Galaxy Flip 3,https://darwin.md/samsung-galaxy-z-flip-3-8-gb-128-gb-black.html,21899,16099,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A34 256 GB Silver,Galaxy A34,https://darwin.md/samsung-galaxy-a34-8-gb-256-gb-silver.html,7499,6499,Samsung,PHONE,256gb,True,DARWIN
+Apple iPhone 14 Pro 256 GB Space Black,iPhone 14 Pro,https://darwin.md/apple-iphone-14-pro-6-gb-256-gb-space-blackhtml-ram-6gb.html,33999,32999,Apple,PHONE,256gb,True,DARWIN
+Xiaomi Redmi Note 12 128 GB Onyx Gray,Redmi Note 12,https://darwin.md/xiaomi-redmi-note-12-4-gb-128-gb-onyx-gray.html,3999,3699,Xiaomi,PHONE,128gb,True,DARWIN
+Apple iPhone 15 128 GB Black,iPhone 15,https://darwin.md/apple-iphone-15-128-gb-single-sim-5g-black.html,19499,17499,Apple,PHONE,128gb,True,DARWIN
+"Graphic Tablet Wacom One 13, Black White","Graphic Tablet Wacom One 13, Black White",https://darwin.md/graphic-tablet-wacom-one-13-black-white.html,9999,9999,Wacom,PHONE,,True,DARWIN
+Samsung Galaxy A34 128 GB Black,Galaxy A34,https://darwin.md/samsung-galaxy-a34-6-gb-128-gb-black.html,6399,5399,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 14 Pro Max 128 GB Space Black Space,iPhone 14 Pro Max,https://darwin.md/apple-iphone-14-pro-max-6-gb-128-gb-space-blackhtml-ram-6gb.html,36999,35499,Apple,PHONE,128gb,True,DARWIN
+Realme C21Y 64 GB Cross Blue,C21Y,https://darwin.md/realme-c21y-4-gb-64-gb-blue.html,3199,1999,Realme,PHONE,64gb,True,DARWIN
+Realme C21 64 GB Blue,C21,https://darwin.md/realme-c21-blue-4-64-gb-dual.html,3199,1999,Realme,PHONE,64gb,True,DARWIN
+Apple iPhone 14 256 GB Midnight,iPhone 14,https://darwin.md/apple-iphone-14-6-gb-256-gb-single-sim-5g-midnight.html,18999,17499,Apple,PHONE,256gb,True,DARWIN
+Ulefone Armor 8 Pro 128 GB Black,Armor 8 Pro,https://darwin.md/ulefone-armor-8-pro-6-gb-128-gb-black.html,4299,4299,Ulefone,PHONE,128gb,True,DARWIN
+Samsung Galaxy A54 128 GB Black,Galaxy A54,https://darwin.md/samsung-galaxy-a54-6-gb-128-gb-black.html,8599,7099,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy Fold 3 256 GB Phantom Black,Galaxy Fold 3,https://darwin.md/samsung-galaxy-z-fold-3-12-gb-256-gb-black.html,38699,28599,Samsung,PHONE,256gb,True,DARWIN
+Ulefone X8 64 GB Black,X8,https://darwin.md/armor-x8-ulefone-black-4-64-gb-dual.html,3399,3399,Ulefone,PHONE,64gb,True,DARWIN
+Xiaomi Redmi Note 11 64 GB Twilight Blue,Redmi Note 11,https://darwin.md/xiaomi-redmi-note-11-4-gb-64-gb-12-blue.html,4499,4499,Xiaomi,PHONE,64gb,True,DARWIN
+Samsung Galaxy S22 256 GB Green,Galaxy S22,https://darwin.md/samsung-galaxy-s22-8-gb-256-gb-greenhtml-ram-8gb.html,15599,11499,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 12 4G 128 GB Midnight Black,Redmi 12,https://darwin.md/xiaomi-redmi-12-4-gb-128-gb-dual-sim-4gmidnight-black.html,3299,2999,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy S23 Ultra 256 GB Black,Galaxy S23 Ultra,https://darwin.md/samsung-galaxy-s23-ultra-12-gb-256-gb-black.html,25999,24999,Samsung,PHONE,256gb,True,DARWIN
+Apple iPhone 14 Pro Max 128 GB Silver,iPhone 14 Pro Max,https://darwin.md/apple-iphone-14-pro-max-6-gb-128-gb-silverhtml-ram-6gb.html,36999,35499,Apple,PHONE,128gb,True,DARWIN
+"Graphic Tablet Wacom Intuos Pro S PTH-460, Black","Graphic Tablet Wacom Intuos Pro S PTH-460, Black",https://darwin.md/graphic-tablet-wacom-intuos-pro-s-pth-460k0b.html,5999,4999,Wacom,PHONE,,True,DARWIN
+Xiaomi 13T Pro 512 GB Black,13T Pro,https://darwin.md/xiaomi-13t-pro-12-gb-512-gb-dual-sim-black.html,13499,12999,Xiaomi,PHONE,512gb,True,DARWIN
+Xiaomi Redmi Note 12S 256 GB Black,Redmi Note 12S,https://darwin.md/xiaomi-redmi-note-12s-256-gb-black.html,4799,4399,Xiaomi,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro Max 256 GB Blue Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-256-gb-single-sim-5gtitanium-blue.html,30999,27499,Apple,PHONE,256gb,True,DARWIN
+Samsung Galaxy A13 32 GB Black,Galaxy A13,https://darwin.md/samsung-galaxy-a13-3-gb-32-gb-black.html,3299,3199,Samsung,PHONE,32gb,True,DARWIN
+Nokia 110 (2019) Black,Nokia 110 (2019) Black,https://darwin.md/nokia-110-ds-black.html,729,729,Nokia,PHONE,"1.77&quot;, Dual SIM, 2G",True,DARWIN
+Samsung Galaxy A03 32 GB Blue,Galaxy A03,https://darwin.md/samsung-galaxy-a03-3-gb-32-gb-blue.html,2099,1799,Samsung,PHONE,32gb,True,DARWIN
+Apple iPhone 15 Pro 128 GB Black Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-8-gb-128-gb-single-sim-5gtitanium-black.html,25699,22499,Apple,PHONE,128gb,True,DARWIN
+Xiaomi Redmi 10 2022 64 GB Gray,Redmi 10 2022,https://darwin.md/xiaomi-redmi-10-2022-4-gb-64-gb-gray.html,4399,3999,Xiaomi,PHONE,64gb,True,DARWIN
+Samsung Galaxy S22 256 GB Violet Light,Galaxy S22,https://darwin.md/samsung-galaxy-s22-sm-s901-8-gb-256-gb-dual-sim-5glight-violet.html,15599,11499,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy S23 Ultra 512 GB Green,Galaxy S23 Ultra,https://darwin.md/samsung-galaxy-s23-ultra-512-gb-green.html,28399,26999,Samsung,PHONE,512gb,True,DARWIN
+Samsung Galaxy S22 128 GB Green,Galaxy S22,https://darwin.md/samsung-galaxy-s22-8-gb-128-gb-green.html,14699,9999,Samsung,PHONE,128gb,True,DARWIN
+Realme GT 2 Pro 256 GB Steel Black,GT 2 Pro,https://darwin.md/realme-gt-2-pro-12-gb-256-gb-black.html,15999,15999,Realme,PHONE,256gb,True,DARWIN
+Realme C25Y 128 GB Blue,C25Y,https://darwin.md/realme-c25y-4-gb-128-gb-blue.html,3999,2699,Realme,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 12 4G 256 GB Onyx Gray,Redmi Note 12,https://darwin.md/xiaomi-redmi-note-12-8-gb-256-gb-dual-sim-4gonyx-gray.html,4999,4599,Xiaomi,PHONE,256gb,True,DARWIN
+Samsung Galaxy A34 256 GB Black,Galaxy A34,https://darwin.md/samsung-galaxy-a34-8-gb-256-gb-black.html,7499,6499,Samsung,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro Max 512 GB Natural Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-512-gb-single-sim-5gtitanium-natural.html,35999,32499,Apple,PHONE,512gb,True,DARWIN
+Dect Phone Panasonic KX-TG1711UAB Black,Dect Phone Panasonic KX-TG1711UAB Black,https://darwin.md/dect-panasonic-kx-tg1711uab-black.html,659,659,Panasonic,PHONE,,True,DARWIN
+Samsung Galaxy S23 5G 128 GB Black,Galaxy S23,https://darwin.md/samsung-galaxy-s23-s911-8-gb-128-gb-dual-sim-5g-black.html,15999,15999,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy M52 128 GB Blue,Galaxy M52,https://darwin.md/samsung-m52-6-gb-128-gb-blue.html,9899,9899,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A34 128 GB Silver,Galaxy A34,https://darwin.md/samsung-galaxy-a34-6-gb-128-gb-silver.html,6399,5399,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy S22 128 GB Violet Light,Galaxy S22,https://darwin.md/samsung-galaxy-s22-sm-s901-8-gb-128-gb-dual-sim-5glight-violet.html,14699,9999,Samsung,PHONE,128gb,True,DARWIN
+Dect Phone Panasonic KX-TG1611UAH Gray,Dect Phone Panasonic KX-TG1611UAH Gray,https://darwin.md/panasonic-kx-tg1611uah-grey.html,599,599,Panasonic,PHONE,,True,DARWIN
+Nokia 225 (2020) Black,Nokia 225 (2020) Black,https://darwin.md/225-2020-nokia-black-dual-4g.html,1449,1449,Nokia,PHONE,"2.4"", Dual SIM, 4G",True,DARWIN
+Samsung Galaxy S23 Ultra 256 GB Lite Pink,Galaxy S23 Ultra,https://darwin.md/samsung-galaxy-s23-ultra-256-gb-lite-pink.html,25999,24999,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A22 64 GB White,Galaxy A22,https://darwin.md/samsung-galaxy-a22-4-gb-64-gb-white.html,5299,5299,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy S23 256 GB Beige,Galaxy S23,https://darwin.md/samsung-galaxy-s23-8-gb-256-gb-beige.html,18999,17399,Samsung,PHONE,256gb,True,DARWIN
+Ulefone Armor 14 64 GB Black,Armor 14,https://darwin.md/ulefone-armor-14-4-gb-64-gb-black.html,4499,4499,Ulefone,PHONE,64gb,True,DARWIN
+Samsung Galaxy A04 64 GB Black,Galaxy A04,https://darwin.md/samsung-galaxy-a04-sm-a045-4-gb-64-gb-dual-sim-4g-black.html,2999,2599,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy Fold 3 256 GB Phantom Silver,Galaxy Fold 3,https://darwin.md/samsung-galaxy-z-fold-3-12-gb-256-gb-silver.html,38699,28599,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 10C 64 GB Ocean Blue,Redmi 10C,https://darwin.md/xiaomi-redmi-10c-4-gb-64-gb-blue.html,3699,3699,Xiaomi,PHONE,64gb,True,DARWIN
+Samsung Galaxy A24 128 GB Light Green,Galaxy A24,https://darwin.md/samsung-galaxy-a24-6-gb-128-gb-light-green.html,4499,3999,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro Max 256 GB Black Titanium,iPhone 15 Pro Max,https://darwin.md/smartphone-apple-iphone-15-pro-max-mu773rx-a-8-gb-256-gb-single-sim-5g-black-titanium.html,30999,27499,Apple,PHONE,256gb,True,DARWIN
+Samsung Galaxy A04s 64 GB Black,Galaxy A04s,https://darwin.md/samsung-galaxy-a04s-4-gb-64-gb-dual-sim-4g-black.html,3299,2899,Samsung,PHONE,64gb,True,DARWIN
+Apple iPhone 15 Pro 128 GB Blue Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-8-gb-128-gb-single-sim-5gtitanium-blue.html,25699,22499,Apple,PHONE,128gb,True,DARWIN
+Huawei P50 Pro 256 GB Cacao Gold,P50 Pro,https://darwin.md/huawei-p50-pro-8-gb-256-gb-gold.html,22499,22499,Huawei,PHONE,256gb,True,DARWIN
+Samsung Galaxy S22 256 GB Pink,Galaxy S22,https://darwin.md/samsung-galaxy-s22-8-gb-256-gb-pink.html,15599,11499,Samsung,PHONE,256gb,True,DARWIN
+Corded Phone Panasonic KX-TS2350UAB Black,Corded Phone Panasonic KX-TS2350UAB Black,https://darwin.md/panasonic-kx-ts2350uab-black.html,329,329,Panasonic,PHONE,,True,DARWIN
+Apple iPhone 15 Pro 128 GB Natural Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-8-gb-128-gb-single-sim-5gtitanium-natural.html,25699,22499,Apple,PHONE,128gb,True,DARWIN
+Samsung Galaxy A54 256 GB Violet,Galaxy A54,https://darwin.md/samsung-galaxy-a54-8-gb-256-gb-violet.html,9699,8199,Samsung,PHONE,256gb,True,DARWIN
+Dect Phone Panasonic KX-TG2511UAS Silver,Dect Phone Panasonic KX-TG2511UAS Silver,https://darwin.md/panasonic-kx-tg2511uas-silver.html,749,749,Panasonic,PHONE,,True,DARWIN
+Realme C21Y 64 GB Cross Black,C21Y,https://darwin.md/realme-c21y-4-gb-64-gb-black.html,3199,1999,Realme,PHONE,64gb,True,DARWIN
+Xiaomi 12 Pro 256 GB Gray,12 Pro,https://darwin.md/xiaomi-12-pro-8-gb-256-gb-gray.html,19899,19899,Xiaomi,PHONE,256gb,True,DARWIN
+Apple iPhone 14 Pro 1 TB Silver,iPhone 14 Pro,https://darwin.md/apple-iphone-14-pro-6-gb-1-tb-single-sim-5g-silver.html,39999,36499,Apple,PHONE,1tb,True,DARWIN
+Xiaomi Redmi Note 11 128 GB Twilight Blue,Redmi Note 11,https://darwin.md/xiaomi-redmi-note-11-4-gb-128-gb-12-blue.html,4999,4999,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy A23 64 GB Orange,Galaxy A23,https://darwin.md/samsung-galaxy-a23-4-gb-64-gb-orange.html,5099,3799,Samsung,PHONE,64gb,True,DARWIN
+Xiaomi 13T 256 GB Black,13T,https://darwin.md/xiaomi-13t-8-gb-256-gb-dual-sim-black.html,9199,8999,Xiaomi,PHONE,256gb,True,DARWIN
+Xiaomi Redmi Note 12 128 GB Ice Blue,Redmi Note 12,https://darwin.md/xiaomi-redmi-note-12-4-gb-128-gb-ice-blue.html,3999,3699,Xiaomi,PHONE,128gb,True,DARWIN
+OnePlus Nord CE 5G 128 GB Void Blue,Nord CE,https://darwin.md/oneplus-nord-ce-5g-8-gb-128-gb-blue.html,8999,8999,OnePlus,PHONE,128gb,True,DARWIN
+Apple iPhone 15 128 GB Pink,iPhone 15,https://darwin.md/apple-iphone-15-128-gb-single-sim-5g-pink.html,19499,17499,Apple,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 12 4G 256 GB Ice Blue,Redmi Note 12,https://darwin.md/xiaomi-redmi-note-12-8-gb-256-gb-dual-sim-4gice-blue.html,4999,4599,Xiaomi,PHONE,256gb,True,DARWIN
+Samsung Galaxy A24 128 GB Black,Galaxy A24,https://darwin.md/samsung-galaxy-a24-6-gb-128-gb-black.html,4499,3999,Samsung,PHONE,128gb,True,DARWIN
+Dect Phone Panasonic KX-TG2511UAT Titanium,Dect Phone Panasonic KX-TG2511UAT Titanium,https://darwin.md/panasonic-kx-tg2511uat-titanium-.html,749,749,Panasonic,PHONE,,True,DARWIN
+Xiaomi Redmi 10 2022 128 GB Gray,Redmi 10 2022,https://darwin.md/xiaomi-redmi-10-2022-4-gb-128-gb-dual-sim-4g-gray.html,4999,4499,Xiaomi,PHONE,128gb,True,DARWIN
+Xiaomi 13 Lite 256 GB Pink,13 Lite,https://darwin.md/xiaomi-13-lite-8-gb-256-gb-pink.html,9399,9299,Xiaomi,PHONE,256gb,True,DARWIN
+Asus Zenfone 9 256 GB Midnight Black,Zenfone 9,https://darwin.md/asus-zenfone-9-ai2202-8-gb-256-gb-dual-sim-5gmidnight-black.html,15999,14999,Asus,PHONE,256gb,True,DARWIN
+Sony Xperia 1 III 512 GB Black,Xperia 1 III,https://darwin.md/sony-xperia-1-iii-12-gb-512-gb-gold.html,22999,15999,Sony,PHONE,512gb,True,DARWIN
+Apple iPhone 13 Pro 1 TB Alpine Silver,iPhone 13 Pro,https://darwin.md/iphone-13-pro-apple-1-tb-silver-dual.html,42999,41999,Apple,PHONE,1tb,True,DARWIN
+Samsung Galaxy Flip4 256 GB Graphite,Galaxy Flip4,https://darwin.md/samsung-galaxy-flip4-8-gb-256-gb-graphite.html,17799,14499,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 10A 128 GB Gray,Redmi 10A,https://darwin.md/xiaomi-redmi-10a-4-gb-128-gb-gray.html,3799,3799,Xiaomi,PHONE,128gb,True,DARWIN
+Apple iPhone 14 256 GB Starlight,iPhone 14,https://darwin.md/apple-iphone-14-6-gb-256-gb-single-sim-5g-starlight.html,18999,17499,Apple,PHONE,256gb,True,DARWIN
+Nokia 2660 Flip Black,Nokia 2660 Flip Black,https://darwin.md/nokia-2660-flip-black.html,1649,1649,Nokia,PHONE,"2.8&quot;, Dual SIM, 4G",True,DARWIN
+Realme C35 128 GB Black,C35,https://darwin.md/realme-c35-4-gb-128-gb-black.html,4399,4399,Realme,PHONE,128gb,True,DARWIN
+Dect Phone Panasonic KX-TS2350UAS Silver,Dect Phone Panasonic KX-TS2350UAS Silver,https://darwin.md/panasonic-kxts2350uas-silver.html,329,329,Panasonic,PHONE,,True,DARWIN
+Dect Phone Panasonic KX-TS2352UAB Black,Dect Phone Panasonic KX-TS2352UAB Black,https://darwin.md/panasonic-kx--ts2352uab-black.html,399,399,Panasonic,PHONE,,True,DARWIN
+Samsung Galaxy S24 Ultra 512 GB Gray Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-512-gb-dual-sim-5gtitanium-gray.html,30299,27299,Samsung,PHONE,512gb,True,DARWIN
+Nokia 5710 XpressAudio Black,Nokia 5710 XpressAudio Black,https://darwin.md/nokia-5710-xpressaudio-black.html,1849,1849,Nokia,PHONE,"2.4&quot;, Dual SIM, 4G",True,DARWIN
+Apple iPhone 15 Pro Max 512 GB Blue Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-512-gb-single-sim-5gtitanium-blue.html,35999,32499,Apple,PHONE,512gb,True,DARWIN
+Nokia 150 Black,Nokia 150 Black,https://darwin.md/nokia-150-black.html,899,899,Nokia,PHONE,"2.4&quot;, Dual SIM, 2G",True,DARWIN
+Ulefone Armor 8 Pro 128 GB Black,Armor 8 Pro,https://darwin.md/ulefone-armor-8-pro-8-gb-128-gb-4g-black.html,4499,3499,Ulefone,PHONE,128gb,True,DARWIN
+Samsung Galaxy A54 256 GB Green,Galaxy A54,https://darwin.md/samsung-galaxy-a54-8-gb-256-gb-green.html,9699,8199,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A34 256 GB Light Violet,Galaxy A34,https://darwin.md/samsung-galaxy-a34-8-gb-256-gb-light-violet.html,7499,6499,Samsung,PHONE,256gb,True,DARWIN
+Dect Phone Panasonic KX-TG2512UAT Kit Black,Dect Phone Panasonic KX-TG2512UAT Kit Black,https://darwin.md/panasonic-kx-tg2512uat-titanium.html,1199,1199,Panasonic,PHONE,,True,DARWIN
+Nokia 6310 Black,Nokia 6310 Black,https://darwin.md/nokia-6310-black.html,1499,1499,Nokia,PHONE,"2.8&quot;, Dual SIM, 2G",True,DARWIN
+Apple iPhone 15 Pro Max 256 GB White Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-256-gb-single-sim-5gtitanium-white.html,30999,27499,Apple,PHONE,256gb,True,DARWIN
+"Maxcom Comfort MM428BB, Black","Maxcom Comfort MM428BB, Black",https://darwin.md/mm428bb-comfort-maxcom-black-dual.html,699,699,Maxcom,PHONE,"1.8"", Dual SIM, microSD",True,DARWIN
+Samsung Galaxy A24 128 GB Dark Red,Galaxy A24,https://darwin.md/samsung-galaxy-a24-6-gb-128-gb-dark-red.html,4499,3999,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy M23 64 GB Light Blue,Galaxy M23,https://darwin.md/samsung-galaxy-m23-4-gb-64-gb-light-blue.html,5999,5199,Samsung,PHONE,64gb,True,DARWIN
+OnePlus 11 256 GB Eternal Green,11,https://darwin.md/oneplus-11-16-gb-256-gb-eternal-green.html,19999,17999,OnePlus,PHONE,256gb,True,DARWIN
+Corded Phone Panasonic KX-TS2350UAT Titanium,Corded Phone Panasonic KX-TS2350UAT Titanium,https://darwin.md/panasonic-kxts2350uat-titanium.html,329,329,Panasonic,PHONE,,True,DARWIN
+OnePlus 10 Pro 256 GB Forest Emerald,10 Pro,https://darwin.md/oneplus-10-pro-12-gb-256-gb-forest-emerald.html,21499,21499,OnePlus,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro 256 GB Natural Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-8-gb-256-gb-single-sim-5gtitanium-natural.html,27999,24999,Apple,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 12 4G 256 GB Midnight Black,Redmi 12,https://darwin.md/xiaomi-redmi-12-8-gb-256-gb-dual-sim-4gmidnight-black.html,4299,3899,Xiaomi,PHONE,256gb,True,DARWIN
+Sony Xperia 5 III 256 GB Black,Xperia 5 III,https://darwin.md/sony-xperia-5-iii-8-gb-256-gb-black.html,18999,12999,Sony,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 10A 64 GB Gray,Redmi 10A,https://darwin.md/xiaomi-redmi-10a-3-gb-64-gb-gray.html,3399,3399,Xiaomi,PHONE,64gb,True,DARWIN
+OnePlus 9 256 GB Winter Mist Purple,9,https://darwin.md/oneplus-9-12-gb-256-gb-purple.html,16999,15999,OnePlus,PHONE,256gb,True,DARWIN
+Dect Phone Panasonic KX-TG2512UAM Marble,Dect Phone Panasonic KX-TG2512UAM Marble,https://darwin.md/panasonic-kx-tg2512uam-marble.html,1199,1199,Panasonic,PHONE,,True,DARWIN
+Xiaomi 12 Pro 256 GB Blue,12 Pro,https://darwin.md/xiaomi-12-pro-8-gb-256-gb-blue.html,19899,19899,Xiaomi,PHONE,256gb,True,DARWIN
+Realme C25Y 64 GB Blue,C25Y,https://darwin.md/realme-c25y-4-gb-64-gb-blue.html,3599,2299,Realme,PHONE,64gb,True,DARWIN
+Apple iPhone 15 128 GB Green,iPhone 15,https://darwin.md/apple-iphone-15-128-gb-single-sim-5g-green.html,19499,17499,Apple,PHONE,128gb,True,DARWIN
+Xiaomi Redmi 10A 64 GB Silver,Redmi 10A,https://darwin.md/xiaomi-redmi-10a-3-gb-64-gb-silver.html,3399,3399,Xiaomi,PHONE,64gb,True,DARWIN
+Xiaomi Redmi Note 12S 256 GB Blue,Redmi Note 12S,https://darwin.md/xiaomi-redmi-note-12s-256-gb-blue.html,4799,4399,Xiaomi,PHONE,256gb,True,DARWIN
+Realme C21 64 GB Cross Black,C21,https://darwin.md/realme-c21-4-gb-64-gb-black.html,3199,1999,Realme,PHONE,64gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro 512 GB Green Forest,Redmi Note 13 Pro,https://darwin.md/xiaomi-redmi-note-13-pro-12-gb-512-gb-dual-sim-4gforest-green.html,7999,7999,Xiaomi,PHONE,512gb,True,DARWIN
+Apple iPhone 15 Pro Max 1 TB White Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-1-tb-single-sim-5gtitanium-white.html,39999,36999,Apple,PHONE,1tb,True,DARWIN
+Samsung Galaxy A54 256 GB Beige,Galaxy A54,https://darwin.md/samsung-galaxy-a54-8-gb-256-gb-beige.html,9699,8199,Samsung,PHONE,256gb,True,DARWIN
+OnePlus Nord N20 SE 64 GB Celestial Black,Nord N20 SE,https://darwin.md/oneplus-nord-n20-se-4-gb-64-gb-dual-sim-4gcelestial-black.html,3899,3899,OnePlus,PHONE,64gb,True,DARWIN
+Samsung Galaxy A23 64 GB White,Galaxy A23,https://darwin.md/a235-galaxy-a23-samsung-white-4-64-gb-dual.html,5099,3799,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy M34 128 GB Silver,Galaxy M34,https://darwin.md/samsung-galaxy-m34-m346-8-gb-128-gb-dual-sim-5g-silver.html,6499,4199,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro Max 1 TB Natural Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-1-tb-single-sim-5gtitanium-natural.html,39999,36999,Apple,PHONE,1tb,True,DARWIN
+Xiaomi Redmi 12C 128 GB Ocean Blue,Redmi 12C,https://darwin.md/xiaomi-redmi-12c-4-gb-128-gb-ocean-blue.html,2799,2499,Xiaomi,PHONE,128gb,True,DARWIN
+Corded Phone Panasonic KX-TS2382UAW White,Corded Phone Panasonic KX-TS2382UAW White,https://darwin.md/panasonic-kx-ts2382uaw--white.html,549,549,Panasonic,PHONE,,True,DARWIN
+Samsung Galaxy M22 128 GB Blue,Galaxy M22,https://darwin.md/samsung-galaxy-m22-4-gb-128-gb-blue.html,5099,4299,Samsung,PHONE,128gb,True,DARWIN
+Realme C35 64 GB Black,C35,https://darwin.md/realme-c35-4-gb-64-gb-black.html,3999,3999,Realme,PHONE,64gb,True,DARWIN
+Samsung Galaxy S23 256 GB Pink,Galaxy S23,https://darwin.md/samsung-galaxy-s23-256-gb-pink.html,18999,17399,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 12 4G 128 GB Sky Blue,Redmi 12,https://darwin.md/xiaomi-redmi-12-4-gb-128-gb-dual-sim-4gsky-blue.html,3299,2999,Xiaomi,PHONE,128gb,True,DARWIN
+Apple iPhone 14 256 GB Red,iPhone 14,https://darwin.md/apple-iphone-14-4-gb-256-gb-redhtml-ram-4gb.html,25999,25999,Apple,PHONE,256gb,True,DARWIN
+Samsung Galaxy A04s 32 GB Black,Galaxy A04s,https://darwin.md/samsung-galaxy-a04s-3-gb-32-gb-dual-sim-4g-black.html,3099,2499,Samsung,PHONE,32gb,True,DARWIN
+OnePlus Nord CE 2 Lite 128 GB Tide Blue,Nord CE 2 Lite,https://darwin.md/oneplus-nord-ce-2-lite-8-gb-128-gb-dual-sim-5gtide-blue.html,6999,6999,OnePlus,PHONE,128gb,True,DARWIN
+Xiaomi Redmi 12C 64 GB Graphite Gray,Redmi 12C,https://darwin.md/xiaomi-redmi-12c-3-gb-64-gb-graphite-gray.html,2399,2299,Xiaomi,PHONE,64gb,True,DARWIN
+Realme C11 (2021) 32 GB Gray,C11 (2021),https://darwin.md/realme-c11-2-gb-32-gb-gray.html,2499,1899,Realme,PHONE,32gb,True,DARWIN
+Ulefone Armor 12 128 GB Black,Armor 12,https://darwin.md/ulefone-armor-12-8-gb-128-gb-black.html,7999,7999,Ulefone,PHONE,128gb,True,DARWIN
+Corded Phone Panasonic KX-TS2350UAJ Beige,Corded Phone Panasonic KX-TS2350UAJ Beige,https://darwin.md/panasonic-kx--ts2350uaj-beige.html,329,329,Panasonic,PHONE,,True,DARWIN
+Samsung Galaxy A03 Core 32 GB Cooper,Galaxy A03 Core,https://darwin.md/samsung-galaxy-a03-core-2-gb-32-gb-copper.html,1899,1699,Samsung,PHONE,32gb,True,DARWIN
+Apple iPhone 14 512 GB Yellow,iPhone 14,https://darwin.md/apple-iphone-14-6-gb-512-gb-yellow.html,23499,21499,Apple,PHONE,512gb,True,DARWIN
+Samsung Galaxy S23 256 GB Green,Galaxy S23,https://darwin.md/samsung-galaxy-s23-256-gb-green.html,18999,17399,Samsung,PHONE,256gb,True,DARWIN
+Ulefone Armor X10 Pro 64 GB Black,Armor X10 Pro,https://darwin.md/ulefone-armor-x10-pro-4-gb-64-gb-black.html,3449,3449,Ulefone,PHONE,64gb,True,DARWIN
+Ulefone Armor X6 Pro 32 GB Black,Armor X6 Pro,https://darwin.md/ulefone-armor-x6-pro-4-gb-32-gb-dual-sim-4g-black.html,2599,2599,Ulefone,PHONE,32gb,True,DARWIN
+Xiaomi 12 Lite 128 GB Green,12 Lite,https://darwin.md/xiaomi-12-lite-8-gb-128-gb-dual-sim-5g-green.html,9499,9499,Xiaomi,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro+ 256 GB Black Midnight,Redmi Note 13 Pro+,https://darwin.md/xiaomi-redmi-note-13-pro-8-gb-256-gb-dual-sim-5gmidnight-black.html,8799,8499,Xiaomi,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 10A 64 GB Blue,Redmi 10A,https://darwin.md/xiaomi-redmi-10a-3-gb-64-gb-dual-sim-4g-blue.html,3399,3399,Xiaomi,PHONE,64gb,True,DARWIN
+Apple iPhone 15 Pro Max 512 GB Black Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-512-gb-dual-sim-5gtitanium-black.html,42599,32999,Apple,PHONE,512gb,True,DARWIN
+Samsung Galaxy Flip4 128 GB Graphite,Galaxy Flip4,https://darwin.md/samsung-galaxy-flip4-f721-8-gb-128-gb-single-sim-5g-graphite.html,16199,13999,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A13 32 GB White,Galaxy A13,https://darwin.md/samsung-galaxy-a13-3-gb-32-gb-white.html,3299,3199,Samsung,PHONE,32gb,True,DARWIN
+Corded Phone Panasonic KX-TS2382UAB Black,Corded Phone Panasonic KX-TS2382UAB Black,https://darwin.md/panasonic-kx--ts2382uab-black.html,549,549,Panasonic,PHONE,,True,DARWIN
+Samsung Galaxy A34 128 GB Light Violet,Galaxy A34,https://darwin.md/samsung-galaxy-a34-6-gb-128-gb-light-violet.html,6399,5399,Samsung,PHONE,128gb,True,DARWIN
+Sony Xperia 1 III 256 GB Gray,Xperia 1 III,https://darwin.md/sony-xperia-1-iii-12-gb-256-gb-gray.html,21999,14999,Sony,PHONE,256gb,True,DARWIN
+Samsung Galaxy A04e 32 GB Black,Galaxy A04e,https://darwin.md/samsung-galaxy-a04e-3-gb-32-gb-black.html,2399,1999,Samsung,PHONE,32gb,True,DARWIN
+Samsung Galaxy A54 128 GB Beige,Galaxy A54,https://darwin.md/samsung-galaxy-a54-6-gb-128-gb-beige.html,8599,7099,Samsung,PHONE,128gb,True,DARWIN
+Nokia 210 Black,Nokia 210 Black,https://darwin.md/nokia-210-black.html,999,999,Nokia,PHONE,"2.4&quot;, Dual SIM, 2G",True,DARWIN
+Dect Phone Panasonic KX-TS2365UAB Black,Dect Phone Panasonic KX-TS2365UAB Black,https://darwin.md/panasonic-kx-ts2365uab-black.html,749,749,Panasonic,PHONE,,True,DARWIN
+Samsung Galaxy S23 Ultra 256 GB Beige,Galaxy S23 Ultra,https://darwin.md/samsung-galaxy-s23-ultra-12-gb-256-gb-beige.html,25999,24999,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi 12 Lite 128 GB Purple,12 Lite,https://darwin.md/xiaomi-12-lite-8-gb-128-gb-dual-sim-5g-purple.html,9499,9499,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy A55 128 GB Ice blue Awesome,Galaxy A55,https://darwin.md/samsung-galaxy-a55-a556-8-gb-128-gb-dual-sim-5g-awesome-ice-blue.html,8999,8999,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 14 Pro Max 1 TB Silver,iPhone 14 Pro Max,https://darwin.md/apple-iphone-14-pro-max-6-gb-1-tb-single-sim-5g-silver.html,42999,39499,Apple,PHONE,1tb,True,DARWIN
+Sony Xperia 10 III 128 GB Pink,Xperia 10 III,https://darwin.md/sony-xperia-10-iii-6-gb-128-gb-pink.html,8999,5899,Sony,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro 256 GB Blue Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-8-gb-256-gb-single-sim-5gtitanium-blue.html,27999,24999,Apple,PHONE,256gb,True,DARWIN
+Realme C25Y 128 GB Gray,C25Y,https://darwin.md/realme-c25y-4-gb-128-gb-gray.html,3999,2699,Realme,PHONE,128gb,True,DARWIN
+Motorola Edge 30 Ultra 256 GB Interstellar White,Edge 30 Ultra,https://darwin.md/motorola-edge-30-ultra-12-gb-256-gb-dual-sim-5ginterstellar-white.html,18499,18499,Motorola,PHONE,256gb,True,DARWIN
+Samsung Galaxy M22 128 GB White,Galaxy M22,https://darwin.md/samsung-galaxy-m22-4-gb-128-gb-white.html,5099,4299,Samsung,PHONE,128gb,True,DARWIN
+Dect Phone Panasonic KX-TG2511UAM Marble,Dect Phone Panasonic KX-TG2511UAM Marble,https://darwin.md/panasonic-kx-tg2511uam-marble.html,749,749,Panasonic,PHONE,,True,DARWIN
+Motorola Moto G54 5G Power Edition 256 GB Blue Midnight,Moto G54  Power Edition,https://darwin.md/motorola-moto-g54-12-gb-256-gb-dual-sim-5gblue-midnight.html,4999,4999,Motorola,PHONE,256gb,True,DARWIN
+Ulefone Power Armor 16 Pro 64 GB Black,Power Armor 16 Pro,https://darwin.md/ulefone-power-armor-16-pro-4-gb-64-gb-dual-sim-4g-black.html,4199,4199,Ulefone,PHONE,64gb,True,DARWIN
+Xiaomi Redmi 10A 128 GB Blue,Redmi 10A,https://darwin.md/xiaomi-redmi-10a-4-gb-128-gb-blue.html,3799,3799,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy A04e 64 GB Black,Galaxy A04e,https://darwin.md/samsung-galaxy-a04e-3-gb-64-gb-black.html,2599,2299,Samsung,PHONE,64gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro 256 GB Black,Redmi Note 13 Pro,https://darwin.md/xiaomi-redmi-note-13-pro-8-gb-256-gb-dual-sim-4g-black.html,6399,6299,Xiaomi,PHONE,256gb,True,DARWIN
+Realme C31 64 GB Dark Green,C31,https://darwin.md/realme-c31-4-gb-64-gb-green.html,3399,3399,Realme,PHONE,64gb,True,DARWIN
+Xiaomi Redmi 10 2022 128 GB White,Redmi 10 2022,https://darwin.md/xiaomi-redmi-10-2022-4-gb-128-gb-dual-sim-4g-white.html,4499,4499,Xiaomi,PHONE,128gb,True,DARWIN
+Xiaomi 12 128 GB Blue,12,https://darwin.md/xiaomi-12-8-gb-128-gb-blue.html,15799,15799,Xiaomi,PHONE,128gb,True,DARWIN
+Realme C11 (2021) 32 GB Blue,C11 (2021),https://darwin.md/realme-c11-2-gb-32-gb-blue.html,2499,1899,Realme,PHONE,32gb,True,DARWIN
+Apple iPhone 15 Pro Max 512 GB Black Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-512-gb-single-sim-5gtitanium-black.html,35999,32499,Apple,PHONE,512gb,True,DARWIN
+Google Pixel 7 Pro 128 GB Snow,Pixel 7 Pro,https://darwin.md/google-pixel-7-pro-12-gb-128-gb-snow.html,21499,14999,Google,PHONE,128gb,True,DARWIN
+Motorola Razr 2022 256 GB Satin Black,Razr 2022,https://darwin.md/motorola-razr-2022-xt2251-1-8-gb-256-gb-single-sim-5gsatin-black.html,23999,23999,Motorola,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro 256 GB Black Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-8-gb-256-gb-single-sim-5gtitanium-black.html,27999,24999,Apple,PHONE,256gb,True,DARWIN
+Samsung Galaxy A34 256 GB Light Green,Galaxy A34,https://darwin.md/samsung-galaxy-a34-8-gb-256-gb-light-green.html,7499,6499,Samsung,PHONE,256gb,True,DARWIN
+Ulefone Armor 15 128 GB Black,Armor 15,https://darwin.md/ulefone-armor-15-6-gb-128-gb-dual-sim-4g-black.html,5199,5199,Ulefone,PHONE,128gb,True,DARWIN
+Samsung Galaxy A04s 64 GB Copper,Galaxy A04s,https://darwin.md/samsung-galaxy-a04s-4-gb-64-gb-dual-sim-4g-copper.html,3299,2899,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy A54 128 GB Violet,Galaxy A54,https://darwin.md/samsung-galaxy-a54-6-gb-128-gb-violet.html,8599,7099,Samsung,PHONE,128gb,True,DARWIN
+Ulefone Note 13P 64 GB Blue,Note 13P,https://darwin.md/ulefone-note-13p-4-gb-64-gb-blue.html,2999,2699,Ulefone,PHONE,64gb,True,DARWIN
+Motorola Moto G50 5G 128 GB Steel Gray,Moto G50,https://darwin.md/motorola-moto-g50-5g-4-gb-128-gb-gray.html,5699,5699,Motorola,PHONE,128gb,True,DARWIN
+Realme C25Y 64 GB Gray,C25Y,https://darwin.md/realme-c25y-4-gb-64-gb-gray.html,3599,2399,Realme,PHONE,64gb,True,DARWIN
+Xiaomi 12 256 GB Purple,12,https://darwin.md/xiaomi-12-8-gb-256-gb-purple.html,16399,13999,Xiaomi,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 9C 64 GB Green,Redmi 9C,https://darwin.md/xiaomi-redmi-9c-3-gb-64-gb-green.html,3399,3399,Xiaomi,PHONE,64gb,True,DARWIN
+OnePlus 10T 256 GB Jade Green,10T,https://darwin.md/oneplus-10t-16-gb-256-gb-dual-sim-5gjade-green.html,17999,17999,OnePlus,PHONE,256gb,True,DARWIN
+Allview D3 Senior Black,Allview D3 Senior Black,https://darwin.md/allview-d3-senior-black.html,899,899,Allview,PHONE,"2.3&quot;, Dual SIM, 3G",True,DARWIN
+Poco X6 Pro 512 GB Gray,X6 Pro,https://darwin.md/poco-x6-pro-12-gb-512-gb-dual-sim-5g-gray.html,8999,8999,Poco,PHONE,512gb,True,DARWIN
+Ulefone Note 13P 64 GB Black,Note 13P,https://darwin.md/ulefone-note-13p-4-gb-64-gb-black.html,2999,2699,Ulefone,PHONE,64gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro 256 GB Green Forest,Redmi Note 13 Pro,https://darwin.md/xiaomi-redmi-note-13-pro-8-gb-256-gb-dual-sim-4gforest-green.html,6399,6299,Xiaomi,PHONE,256gb,True,DARWIN
+Samsung Galaxy A03 Core 32 GB Ceramic Black,Galaxy A03 Core,https://darwin.md/samsung-galaxy-a03-core-2-gb-32-gb-dual-sim-4gceramic-black.html,1899,1699,Samsung,PHONE,32gb,True,DARWIN
+Xiaomi Redmi Note 12 64 GB Onyx Gray,Redmi Note 12,https://darwin.md/xiaomi-redmi-note-12-4-gb-64-gb-onyx-gray.html,4399,4399,Xiaomi,PHONE,64gb,True,DARWIN
+OnePlus Nord CE 2 128 GB Bahama Blue,Nord CE 2,https://darwin.md/oneplus-nord-ce-2-8-gb-128-gb-blue.html,8999,8999,OnePlus,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro Max 256 GB Blue Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-256-gb-dual-sim-5gtitanium-blue.html,37999,27999,Apple,PHONE,256gb,True,DARWIN
+Motorola Moto G41 128 GB Meteorite Black,Moto G41,https://darwin.md/motorola-moto-g41-6-gb-128-gb-black.html,5999,5999,Motorola,PHONE,128gb,True,DARWIN
+Xiaomi 14 512 GB Black,14,https://darwin.md/xiaomi-14-12-gb-512-gb-dual-sim-5g-black.html,18999,18999,Xiaomi,PHONE,512gb,True,DARWIN
+Xiaomi Redmi Note 12 64 GB Ice Blue,Redmi Note 12,https://darwin.md/xiaomi-redmi-note-12-4-gb-64-gb-ice-blue.html,4399,4399,Xiaomi,PHONE,64gb,True,DARWIN
+Asus Zenfone 10 5G 256 GB Black,Zenfone 10,https://darwin.md/asus-zenfone-10-8-gb-256-gb-dual-sim-5g-black.html,19999,19999,Asus,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro 512 GB Black Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-512-gb-dual-sim-5gtitanium-black.html,36999,29499,Apple,PHONE,512gb,True,DARWIN
+Apple iPhone 14 Plus 512 GB Yellow,iPhone 14 Plus,https://darwin.md/apple-iphone-14-plus-6-gb-512-gb-yellow.html,25999,23999,Apple,PHONE,512gb,True,DARWIN
+Samsung Galaxy A25 128 GB Black,Galaxy A25,https://darwin.md/samsung-galaxy-a25-sm-a256ezkdmea-6-gb-128-gb-dual-sim-5g-black.html,5899,5099,Samsung,PHONE,128gb,True,DARWIN
+Ulefone Armor 17 Pro 256 GB Black,Armor 17 Pro,https://darwin.md/ulefone-armor-17-pro-8-gb-256-gb-dual-sim-4g-black.html,6799,6799,Ulefone,PHONE,256gb,True,DARWIN
+Samsung Galaxy A05 128 GB Black,Galaxy A05,https://darwin.md/samsung-galaxy-a05-sm-a055fzkgsek-4-gb-128-gb-dual-sim-black.html,2699,2499,Samsung,PHONE,128gb,True,DARWIN
+Nokia 8210 Blue,Nokia 8210 Blue,https://darwin.md/nokia-8210-blue.html,1649,1649,Nokia,PHONE,"2.8&quot;, Dual SIM, 4G",True,DARWIN
+Apple iPhone 15 Pro 128 GB White Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-8-gb-128-gb-single-sim-5gtitanium-white.html,25699,22499,Apple,PHONE,128gb,True,DARWIN
+Realme C21Y 32 GB Blue,C21Y,https://darwin.md/realme-c21y-3-gb-32-gb-blue.html,2799,1699,Realme,PHONE,32gb,True,DARWIN
+Xiaomi Redmi 10A 128 GB Silver,Redmi 10A,https://darwin.md/xiaomi-redmi-10a-4-gb-128-gb-silver.html,3799,3799,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy A34 128 GB Light Green,Galaxy A34,https://darwin.md/samsung-galaxy-a34-6-gb-128-gb-light-green.html,6399,5399,Samsung,PHONE,128gb,True,DARWIN
+Motorola Edge 30 Fusion 128 GB Cosmic Gray,Edge 30 Fusion,https://darwin.md/motorola-edge-30-fusion-8-gb-128-gb-dual-sim-5gcosmic-gray.html,12799,12799,Motorola,PHONE,128gb,True,DARWIN
+Samsung Galaxy A54 128 GB Green,Galaxy A54,https://darwin.md/samsung-galaxy-a54-6-gb-128-gb-green.html,8599,7099,Samsung,PHONE,128gb,True,DARWIN
+Realme C35 128 GB Green,C35,https://darwin.md/realme-c35-4-gb-128-gb-green.html,4399,4399,Realme,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro 128 GB Black Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-128-gb-dual-sim-5gtitanium-black.html,29499,22999,Apple,PHONE,128gb,True,DARWIN
+OnePlus Nord N20 SE 64 GB Oasis Blue,Nord N20 SE,https://darwin.md/oneplus-nord-n20-se-4-gb-64-gb-dual-sim-4goasis-blue.html,3899,3899,OnePlus,PHONE,64gb,True,DARWIN
+Samsung Galaxy A04 32 GB Green,Galaxy A04,https://darwin.md/samsung-galaxy-a04-sm-a045-3-gb-32-gb-dual-sim-4g-green.html,2699,2199,Samsung,PHONE,32gb,True,DARWIN
+Samsung Galaxy A04 64 GB Copper,Galaxy A04,https://darwin.md/samsung-galaxy-a04-sm-a045-4-gb-64-gb-dual-sim-4g-copper.html,2999,2599,Samsung,PHONE,64gb,True,DARWIN
+Ulefone Armor 14 Pro 128 GB Black,Armor 14 Pro,https://darwin.md/ulefone-armor-14-pro-8-gb-128-gb-dual-sim-4g-black.html,5599,5599,Ulefone,PHONE,128gb,True,DARWIN
+Samsung Galaxy A04 32 GB Black,Galaxy A04,https://darwin.md/samsung-galaxy-a04-sm-a045-3-gb-32-gb-dual-sim-4g-black.html,2699,2199,Samsung,PHONE,32gb,True,DARWIN
+Motorola Edge 40 Neo 256 GB Black Beauty,Edge 40 Neo,https://darwin.md/motorola-edge-40-neo-12-gb-256-gb-dual-sim-5gbeauty-black.html,6999,5999,Motorola,PHONE,256gb,True,DARWIN
+Samsung Galaxy M33 128 GB Blue,Galaxy M33,https://darwin.md/samsung-galaxy-m33-6-gb-128-gb-blue.html,5899,4899,Samsung,PHONE,128gb,True,DARWIN
+Xiaomi 12 Pro 256 GB Purple,12 Pro,https://darwin.md/xiaomi-12-pro-8-gb-256-gb-purple.html,19899,19899,Xiaomi,PHONE,256gb,True,DARWIN
+Sony Xperia 5 IV 256 GB Black,Xperia 5 IV,https://darwin.md/sony-xperia-5-iv-8-gb-256-gb-dual-sim-5g-black.html,20999,20999,Sony,PHONE,256gb,True,DARWIN
+Xiaomi 12 128 GB Gray,12,https://darwin.md/xiaomi-12-8-gb-128-gb-black.html,15799,15799,Xiaomi,PHONE,128gb,True,DARWIN
+Nokia 110 Black,Nokia 110 Black,https://darwin.md/nokia-110-black.html,999,999,Nokia,PHONE,"1.8&quot;, Dual SIM, 4G",True,DARWIN
+Xiaomi Redmi 9C 32 GB Green,Redmi 9C,https://darwin.md/xiaomi-redmi-9c-2-gb-32-gb-green.html,2999,2999,Xiaomi,PHONE,32gb,True,DARWIN
+Realme 10 128 GB Black,10,https://darwin.md/realme-10-4-gb-128-gb-black.html,4999,4999,Realme,PHONE,128gb,True,DARWIN
+Realme 11 Pro 256 GB Black,11 Pro,https://darwin.md/realme-11-pro-8-gb-256-gb-dual-sim-5g-black.html,7999,6299,Realme,PHONE,256gb,True,DARWIN
+Xiaomi 13T Pro 512 GB Green,13T Pro,https://darwin.md/xiaomi-13t-pro-12-gb-512-gb-dual-sim-5g-green.html,13499,12999,Xiaomi,PHONE,512gb,True,DARWIN
+Realme C35 64 GB Green,C35,https://darwin.md/realme-c35-4-gb-64-gb-green.html,3999,3999,Realme,PHONE,64gb,True,DARWIN
+Samsung Galaxy Flip4 256 GB Bora Purple,Galaxy Flip4,https://darwin.md/samsung-galaxy-flip4-8-gb-256-gb-bora-purple.html,17799,14499,Samsung,PHONE,256gb,True,DARWIN
+Motorola Edge 30 Pro 256 GB White,Edge 30 Pro,https://darwin.md/motorola-edge-30-pro-12-gb-256-gb-white.html,18499,18499,Motorola,PHONE,256gb,True,DARWIN
+Motorola Moto G82 128 GB Meteorite Gray,Moto G82,https://darwin.md/motorola-moto-g82-6-gb-128-gb-meteorite-gray.html,7699,7699,Motorola,PHONE,128gb,True,DARWIN
+Xiaomi 13T 256 GB Blue Alpine,13T,https://darwin.md/xiaomi-13t-8-gb-256-gb-dual-sim-alpine-blue.html,9199,8999,Xiaomi,PHONE,256gb,True,DARWIN
+Samsung Galaxy M33 128 GB Green,Galaxy M33,https://darwin.md/samsung-galaxy-m33-6-gb-128-gb-green.html,5899,4899,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy Flip 5 256 GB Gray,Galaxy Flip 5,https://darwin.md/samsung-galaxy-flip-5-f731-8-gb-256-gb-dual-sim-5g-gray.html,21399,19999,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy M34 128 GB Dark Blue,Galaxy M34,https://darwin.md/samsung-galaxy-m34-m346-6-gb-128-gb-dual-sim-5gdark-blue.html,6499,4199,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro Max 1 TB Natural Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-1-tb-dual-sim-5gtitanium-natural.html,48599,36999,Apple,PHONE,1tb,True,DARWIN
+Apple iPhone 15 Pro Max 1 TB Blue Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-1-tb-single-sim-5gtitanium-blue.html,39999,36999,Apple,PHONE,1tb,True,DARWIN
+Samsung Galaxy S24 Ultra 256 GB Gray Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-dual-sim-5gtitanium-gray.html,27899,25099,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 12C 64 GB Ocean Blue,Redmi 12C,https://darwin.md/xiaomi-redmi-12c-3-gb-64-gb-ocean-blue.html,2399,2299,Xiaomi,PHONE,64gb,True,DARWIN
+Xiaomi Redmi Note 12 Pro 5G 256 GB White,Redmi Note 12 Pro,https://darwin.md/xiaomi-redmi-note-12-pro-8-gb-256-gb-dual-sim-5g-white.html,7799,6999,Xiaomi,PHONE,256gb,True,DARWIN
+Realme GT 2 Pro 256 GB Paper White,GT 2 Pro,https://darwin.md/realme-gt-2-pro-12-gb-256-gb-paper-white.html,15999,15999,Realme,PHONE,256gb,True,DARWIN
+Asus Zenfone 9 256 GB Midnight Black,Zenfone 9,https://darwin.md/asus-zenfone-9-ai2202-16-gb-256-gb-dual-sim-5gmidnight-black.html,18999,17999,Asus,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro 256 GB White Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-8-gb-256-gb-single-sim-5gtitanium-white.html,27999,24999,Apple,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro 256 GB Black Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-256-gb-dual-sim-5gtitanium-black.html,31999,25499,Apple,PHONE,256gb,True,DARWIN
+Realme C21 32 GB Cross Black,C21,https://darwin.md/realme-c21-3-gb-32-gb-black.html,2999,1699,Realme,PHONE,32gb,True,DARWIN
+Realme C21 32 GB Blue,C21,https://darwin.md/realme-c21-3-gb-32-gb-blue.html,2999,1699,Realme,PHONE,32gb,True,DARWIN
+Samsung Galaxy S24 Ultra 512 GB Black Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-512-gb-dual-sim-5gtitanium-black.html,30299,27299,Samsung,PHONE,512gb,True,DARWIN
+Samsung Galaxy A04s 32 GB Green,Galaxy A04s,https://darwin.md/samsung-galaxy-a04s-3-gb-32-gb-dual-sim-4g-green.html,3099,2499,Samsung,PHONE,32gb,True,DARWIN
+Samsung Galaxy A04s 64 GB Green,Galaxy A04s,https://darwin.md/samsung-galaxy-a04s-4-gb-64-gb-dual-sim-4g-green.html,3299,2899,Samsung,PHONE,64gb,True,DARWIN
+Google Pixel 8 256 GB Black Obsidian,Pixel 8,https://darwin.md/google-pixel-8-8-gb-256-gb-single-sim-5gobsidian-black.html,20999,20999,Google,PHONE,256gb,True,DARWIN
+Motorola Moto G54 5G Power Edition 256 GB Green Mint,Moto G54  Power Edition,https://darwin.md/motorola-moto-g54-12-gb-256-gb-dual-sim-5gmint-green.html,4999,4999,Motorola,PHONE,256gb,True,DARWIN
+Motorola Moto G31 64 GB Dark Gray,Moto G31,https://darwin.md/motorola-moto-g31-4-gb-64-gb-dark-gray.html,4299,4299,Motorola,PHONE,64gb,True,DARWIN
+Apple iPhone 15 Pro Max 256 GB Black Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-256-gb-dual-sim-5gtitanium-black.html,37999,27999,Apple,PHONE,256gb,True,DARWIN
+Samsung Galaxy A04e 32 GB Copper,Galaxy A04e,https://darwin.md/samsung-galaxy-a04e-3-gb-32-gb-copper.html,2399,1999,Samsung,PHONE,32gb,True,DARWIN
+Xiaomi Redmi Note 13 256 GB Green Mint,Redmi Note 13,https://darwin.md/xiaomi-redmi-note-13-8-gb-256-gb-dual-sim-4gmint-green.html,4999,4899,Xiaomi,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 12C 32 GB Graphite Gray,Redmi 12C,https://darwin.md/xiaomi-redmi-12c-3-gb-32-gb-dual-sim-graphite-gray.html,2199,2099,Xiaomi,PHONE,32gb,True,DARWIN
+Motorola Edge 40 Neo 256 GB Blue Caneel Bay,Edge 40 Neo,https://darwin.md/motorola-edge-40-neo-12-gb-256-gb-dual-sim-5gbay-caneel.html,6999,5999,Motorola,PHONE,256gb,True,DARWIN
+Samsung Galaxy A25 128 GB Yellow,Galaxy A25,https://darwin.md/samsung-galaxy-a25-sm-a256ezydmea-6-gb-128-gb-dual-sim-5g-yellow.html,5899,5099,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A04 64 GB Green,Galaxy A04,https://darwin.md/samsung-galaxy-a04-sm-a045-4-gb-64-gb-dual-sim-4g-green.html,2999,2599,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy S24 Ultra 256 GB Black Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-dual-sim-5gtitanium-black.html,27899,25099,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi 12 128 GB Pink,12,https://darwin.md/xiaomi-12-8-gb-128-gb-pink.html,15799,15799,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy Fold 5 512 GB Black,Galaxy Fold 5,https://darwin.md/samsung-galaxy-fold-5-f946-12-gb-512-gb-dual-sim-5g-black.html,37899,34999,Samsung,PHONE,512gb,True,DARWIN
+Motorola Moto G52 128 GB Charcoal Gray,Moto G52,https://darwin.md/motorola-moto-g52-4-gb-128-gb-charcoal-gray.html,5999,5999,Motorola,PHONE,128gb,True,DARWIN
+Ulefone Armor 12S 128 GB Black,Armor 12S,https://darwin.md/ulefone-armor-12s-8-gb-128-gb-black.html,4999,4999,Ulefone,PHONE,128gb,True,DARWIN
+Ulefone Armor 21 4G 256 GB Black,Armor 21,https://darwin.md/ulefone-armor-21-8-gb-256-gb-dual-sim-4g-black.html,5899,5899,Ulefone,PHONE,256gb,True,DARWIN
+"Sticla de protectie Xiaomi Redmi Note 8T, Color Looks Good, Black","Sticla de protectie Xiaomi Redmi Note 8T, Color Looks Good, Black",https://darwin.md/sticla-de-protectie-xiaomi-redmi-note-8t-color-looks-good-black.html,249,99,Canon,PHONE,,True,DARWIN
+Samsung Galaxy M34 128 GB Blue,Galaxy M34,https://darwin.md/samsung-galaxy-m34-m346-6-gb-128-gb-dual-sim-5g-blue.html,6499,4199,Samsung,PHONE,128gb,True,DARWIN
+Xiaomi Redmi 12 256 GB Blue Sky,Redmi 12,https://darwin.md/xiaomi-redmi-12-8-gb-256-gb-dual-sim-4gsky-blue.html,4299,3899,Xiaomi,PHONE,256gb,True,DARWIN
+Ulefone Note 10P 128 GB Black,Note 10P,https://darwin.md/ulefone-note-10p-3-gb-128-gb-dual-sim-4g-black.html,3299,3299,Ulefone,PHONE,128gb,True,DARWIN
+Motorola Moto G84 256 GB Red Viva Magenta,Moto G84,https://darwin.md/motorola-moto-g84-12-gb-128-gb-dual-sim-5gmagneta-viva.html,5899,5899,Motorola,PHONE,256gb,True,DARWIN
+Xiaomi Redmi A2 64 GB Black,Redmi A2,https://darwin.md/xiaomi-redmi-a2-3-gb-64-gb-dual-sim-black.html,1899,1799,Xiaomi,PHONE,64gb,True,DARWIN
+Samsung Galaxy A04 32 GB Copper,Galaxy A04,https://darwin.md/samsung-galaxy-a04-sm-a045-3-gb-32-gb-dual-sim-4g-copper.html,2699,2199,Samsung,PHONE,32gb,True,DARWIN
+Samsung Galaxy A04s 32 GB Copper,Galaxy A04s,https://darwin.md/samsung-galaxy-a04s-3-gb-32-gb-dual-sim-4g-copper.html,3099,2499,Samsung,PHONE,32gb,True,DARWIN
+Google Pixel 8 Pro 256 GB Black Obsidian,Pixel 8 Pro,https://darwin.md/google-pixel-8-pro-12-gb-256-gb-single-sim-5gobsidian-black.html,26999,26999,Google,PHONE,256gb,True,DARWIN
+Realme C33 128 GB Aqua Blue,C33,https://darwin.md/realme-c33-4-gb-128-gb-aqua-blue.html,3699,3699,Realme,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro Max 1 TB Black Titanium,iPhone 15 Pro Max,https://darwin.md/apple-iphone-15-pro-max-8-gb-1-tb-single-sim-5gtitanium-black.html,39999,36999,Apple,PHONE,1tb,True,DARWIN
+Dect Phone Panasonic KX-TS2350UAW White,Dect Phone Panasonic KX-TS2350UAW White,https://darwin.md/kx-ts2350uaw-panasonic-white.html,329,329,Panasonic,PHONE,,True,DARWIN
+Sony Xperia 10 IV 128 GB Lavender,Xperia 10 IV,https://darwin.md/sony-xperia-10-iv-6-gb-128-gb-lavender.html,11499,11499,Sony,PHONE,128gb,True,DARWIN
+Ulefone Armor 19 256 GB Black,Armor 19,https://darwin.md/ulefone-armor-19-12-gb-256-gb-black.html,7799,7799,Ulefone,PHONE,256gb,True,DARWIN
+Ulefone Armor 24 256 GB Black,Armor 24,https://darwin.md/ulefone-armor-24-12-gb-256-gb-dual-sim-4g-black.html,6599,6599,Ulefone,PHONE,256gb,True,DARWIN
+Samsung Galaxy A04e 32 GB Blue,Galaxy A04e,https://darwin.md/samsung-galaxy-a04e-3-gb-32-gb-blue.html,2399,1999,Samsung,PHONE,32gb,True,DARWIN
+Allview D2 Senior Black,Allview D2 Senior Black,https://darwin.md/allview-d2-senior-black.html,849,849,Allview,PHONE,"2.31&quot;, Dual SIM, 2G",True,DARWIN
+Xiaomi Redmi Note 13 Pro 512 GB Black,Redmi Note 13 Pro,https://darwin.md/xiaomi-redmi-note-13-pro-12-gb-512-gb-dual-sim-4g-black.html,7999,7999,Xiaomi,PHONE,512gb,True,DARWIN
+OnePlus Nord N20 SE 128 GB Celestial Black,Nord N20 SE,https://darwin.md/oneplus-nord-n20-se-4-gb-128-gb-celestial-black.html,4299,4299,OnePlus,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro 512 GB Purple Lavender,Redmi Note 13 Pro,https://darwin.md/xiaomi-redmi-note-13-pro-12-gb-512-gb-dual-sim-4glavender-purple.html,7999,7999,Xiaomi,PHONE,512gb,True,DARWIN
+Motorola Moto G84 256 GB Blue Midnight,Moto G84,https://darwin.md/motorola-moto-g84-12-gb-256-gb-dual-sim-5gmidnight-blue.html,5899,5899,Motorola,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Plus 128 GB Black,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-128-gb-single-sim-5g-black.html,21999,19999,Apple,PHONE,128gb,True,DARWIN
+Sony Xperia 1 III 256 GB Purple,Xperia 1 III,https://darwin.md/sony-xperia-1-iii-12-gb-256-gb-purple.html,21999,14999,Sony,PHONE,256gb,True,DARWIN
+Samsung Galaxy S23 FE 128 GB Graphite,Galaxy S23 FE,https://darwin.md/samsung-galaxy-s23-fe-sm-s711bzadsek-8-gb-128-gb-dual-sim-5g-graphite.html,12999,11499,Samsung,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 12S 256 GB Green,Redmi Note 12S,https://darwin.md/xiaomi-redmi-note-12s-256-gb-green.html,4799,4399,Xiaomi,PHONE,256gb,True,DARWIN
+Ulefone Power Armor X11 Pro 64 GB Black,Power Armor X11 Pro,https://darwin.md/ulefone-power-armor-x11-pro-4-gb-64-gb-dual-sim-4g-black.html,3599,3599,Ulefone,PHONE,64gb,True,DARWIN
+Xiaomi Redmi 13C 256 GB Blue Ocean,Redmi 13C,https://darwin.md/xiaomi-redmi-13c-8-gb-256-gb-dual-sim-4gocean-blue.html,3499,3299,Xiaomi,PHONE,256gb,True,DARWIN
+Motorola Moto G82 128 GB Lily White,Moto G82,https://darwin.md/motorola-moto-g82-6-gb-128-gb-lily-white.html,7699,7699,Motorola,PHONE,128gb,True,DARWIN
+Sony Xperia 1 III 256 GB Green,Xperia 1 III,https://darwin.md/sony-xperia-1-iii-12-gb-256-gb-green.html,21999,14999,Sony,PHONE,256gb,True,DARWIN
+Ulefone Note 16 Pro 4G 128 GB Midnight Black,Note 16 Pro,https://darwin.md/ulefone-note-16-pro-8-gb-128-gb-dual-sim-4gmidnight-black.html,3699,3699,Ulefone,PHONE,128gb,True,DARWIN
+ZTE nubia RedMagic 9 Pro 256 GB Black,nubia RedMagic 9 Pro,https://darwin.md/zte-nubia-redmagic-9-pro-12-gb-256-gb-dual-sim-5g-silver.html,16999,16999,ZTE,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 12 256 GB Silver,Redmi 12,https://darwin.md/xiaomi-redmi-12-8-gb-256-gb-dual-sim-4g-silver.html,4299,3899,Xiaomi,PHONE,256gb,True,DARWIN
+Xiaomi Redmi A2 64 GB Blue,Redmi A2,https://darwin.md/xiaomi-redmi-a2-3-gb-64-gb-dual-sim-blue.html,1899,1799,Xiaomi,PHONE,64gb,True,DARWIN
+Samsung Galaxy A15 128 GB Blue,Galaxy A15,https://darwin.md/samsung-galaxy-a15-sm-a155-4-gb-128-gb-dual-sim-4g-blue.html,3799,3599,Samsung,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 13 256 GB Black,Redmi Note 13,https://darwin.md/xiaomi-redmi-note-13-8-gb-256-gb-dual-sim-4g-black.html,4999,4899,Xiaomi,PHONE,256gb,True,DARWIN
+Motorola Moto G14 128 GB Gray Steel,Moto G14,https://darwin.md/motorola-moto-g14-4-gb-128-gb-dual-sim-4ggray-steel.html,2899,2899,Motorola,PHONE,128gb,True,DARWIN
+Motorola Edge 30 128 GB Supermoon Silver,Edge 30,https://darwin.md/motorola-edge-30-pro-8-gb-128-gb-supermoon-silver.html,9999,9999,Motorola,PHONE,128gb,True,DARWIN
+Samsung Galaxy A04e 64 GB Copper,Galaxy A04e,https://darwin.md/samsung-galaxy-a04e-3-gb-64-gb-copper.html,2599,2299,Samsung,PHONE,64gb,True,DARWIN
+Nokia 6310 Green,Nokia 6310 Green,https://darwin.md/nokia-6310-green.html,1499,1499,Nokia,PHONE,"2.8&quot;, Dual SIM, 2G",True,DARWIN
+Samsung Galaxy S24 256 GB Black Onyx,Galaxy S24,https://darwin.md/samsung-galaxy-s24-s921-8-gb-256-gb-dual-sim-5gonyx-black.html,18899,16999,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy S23 FE 256 GB Graphite,Galaxy S23 FE,https://darwin.md/samsung-galaxy-s23-fe-sm-s711bzagsek-8-gb-256-gb-dual-sim-5g-graphite.html,13999,12599,Samsung,PHONE,256gb,True,DARWIN
+ZTE nubia Z50s Pro 256 GB Black,nubia Z50s Pro,https://darwin.md/zte-nubia-z50s-pro-12-gb-256-gb-dual-sim-5g-black.html,12799,12799,ZTE,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24 Ultra 1 TB Gray Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-1-tb-dual-sim-5gtitanium-gray.html,35199,31699,Samsung,PHONE,1tb,True,DARWIN
+Ulefone Armor 19T 256 GB Black,Armor 19T,https://darwin.md/ulefone-armor-19t-256-gb-black.html,9999,9999,Ulefone,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Plus 128 GB Pink,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-6-gb-128-gb-single-sim-5g-pink.html,21999,19999,Apple,PHONE,128gb,True,DARWIN
+Poco X6 256 GB Black,X6,https://darwin.md/poco-x6-8-gb-256-gb-dual-sim-5g-black.html,6999,6199,Poco,PHONE,256gb,True,DARWIN
+Xiaomi Redmi Note 13 128 GB Black,Redmi Note 13,https://darwin.md/xiaomi-redmi-note-13-6-gb-128-gb-dual-sim-4g-black.html,4299,4199,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy A05 64 GB Black,Galaxy A05,https://darwin.md/samsung-galaxy-a05-sm-a055fzkdsek-4-gb-64-gb-dual-sim-black.html,2399,1999,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy Fold 5 256 GB Black,Galaxy Fold 5,https://darwin.md/samsung-galaxy-fold-5-f946-12-gb-256-gb-dual-sim-5g-black.html,35999,32999,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A04e 64 GB Blue,Galaxy A04e,https://darwin.md/samsung-galaxy-a04e-3-gb-64-gb-blue.html,2599,2299,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy M33 128 GB Brown,Galaxy M33,https://darwin.md/samsung-galaxy-m33-6-gb-128-gb-brown.html,5899,4899,Samsung,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro+ 512 GB White Moonlight,Redmi Note 13 Pro+,https://darwin.md/xiaomi-redmi-note-13-pro-12-gb-512-gb-dual-sim-5gmoonlight-white.html,10999,10499,Xiaomi,PHONE,512gb,True,DARWIN
+Xiaomi Redmi A2 64 GB Light Green,Redmi A2,https://darwin.md/xiaomi-redmi-a2-3-gb-64-gb-dual-sim-light-green.html,1899,1799,Xiaomi,PHONE,64gb,True,DARWIN
+Nokia 2660 Flip Green,Nokia 2660 Flip Green,https://darwin.md/nokia-2660-flip-dual-sim-4g-green.html,1649,1649,Nokia,PHONE,"2.8&quot;, Dual SIM, 4G",True,DARWIN
+Samsung Galaxy A05s 128 GB Black,Galaxy A05s,https://darwin.md/samsung-galaxy-a05s-sm-a057fzkvser-4-gb-128-gb-dual-sim-4g-black.html,3199,2999,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro 128 GB White Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-128-gb-dual-sim-5gtitanium-white.html,29499,22999,Apple,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro 256 GB Purple Lavender,Redmi Note 13 Pro,https://darwin.md/xiaomi-redmi-note-13-pro-8-gb-256-gb-dual-sim-4glavender-purple.html,6399,6299,Xiaomi,PHONE,256gb,True,DARWIN
+Nokia 105 (2023) 3G Gray,Nokia 105 (2023) 3G Gray,https://darwin.md/nokia-105-2023-2023-dual-sim-charcoal-gray.html,729,729,Nokia,PHONE,"1.8&quot;, Dual SIM, 3G",True,DARWIN
+Realme C33 128 GB Night Sea Black,C33,https://darwin.md/realme-c33-4-gb-128-gb-night-sea-black.html,3699,3699,Realme,PHONE,128gb,True,DARWIN
+Poco C65 256 GB Black,C65,https://darwin.md/poco-c65-8-gb-256-gb-dual-sim-4g-black.html,3499,3499,Poco,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 12C 32 GB Ocean Blue,Redmi 12C,https://darwin.md/xiaomi-redmi-12c-3-gb-32-gb-dual-sim-ocean-blue.html,2199,2099,Xiaomi,PHONE,32gb,True,DARWIN
+Motorola Razr 40 256 GB Sage Green,Razr 40,https://darwin.md/motorola-razr-40-8-gb-256-gb-dual-sim-5ggreen-sage.html,14999,14999,Motorola,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro 128 GB Natural Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-128-gb-dual-sim-5gtitanium-natural.html,29499,22999,Apple,PHONE,128gb,True,DARWIN
+Realme Narzo 50A Prime 64 GB Blue,Narzo 50A Prime,https://darwin.md/realme-narzo-50a-prime-4-gb-64-gb-blue.html,4299,4299,Realme,PHONE,64gb,True,DARWIN
+Samsung Galaxy Fold 5 1 TB Black,Galaxy Fold 5,https://darwin.md/samsung-galaxy-fold-5-f946-12-gb-1-tb-dual-sim-5g-black.html,41799,37999,Samsung,PHONE,1tb,True,DARWIN
+Realme C31 64 GB Silver,C31,https://darwin.md/realme-c31-4-gb-64-gb-dual-sim-4g-silver.html,3399,3399,Realme,PHONE,64gb,True,DARWIN
+Realme Narzo 50A Prime 64 GB Black,Narzo 50A Prime,https://darwin.md/realme-narzo-50a-prime-4-gb-64-gb-black.html,4299,4299,Realme,PHONE,64gb,True,DARWIN
+Samsung Galaxy S23 FE 128 GB Cream,Galaxy S23 FE,https://darwin.md/samsung-galaxy-s23-fe-sm-s711bzwdsek-8-gb-128-gb-dual-sim-5g-cream.html,12999,12999,Samsung,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 13 128 GB Green Mint,Redmi Note 13,https://darwin.md/xiaomi-redmi-note-13-6-gb-128-gb-dual-sim-4gmint-green.html,4299,4199,Xiaomi,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro 128 GB Blue Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-128-gb-dual-sim-5gtitanium-blue.html,29499,22999,Apple,PHONE,128gb,True,DARWIN
+Ulefone Armor 20WT 256 GB Black,Armor 20WT,https://darwin.md/ulefone-armor-20wt-256-gb-black.html,6999,6999,Ulefone,PHONE,256gb,True,DARWIN
+Motorola Moto G14 128 GB Liliac Pale,Moto G14,https://darwin.md/motorola-moto-g14-4-gb-128-gb-dual-sim-4gliliac-pale.html,2899,2899,Motorola,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro 256 GB White Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-256-gb-dual-sim-5gtitanium-white.html,31999,25499,Apple,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24 Ultra 256 GB Yellow Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-dual-sim-5gtitanium-yellow.html,27899,25099,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24 Ultra 1 TB Black Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-1-tb-dual-sim-5gtitanium-black.html,35199,31699,Samsung,PHONE,1tb,True,DARWIN
+Ulefone Note 16 Pro 4G 128 GB Midnight Violet,Note 16 Pro,https://darwin.md/ulefone-note-16-pro-8-gb-128-gb-dual-sim-4gmidnight-violet.html,3699,3699,Ulefone,PHONE,128gb,True,DARWIN
+Samsung Galaxy A15 128 GB Black Blue,Galaxy A15,https://darwin.md/samsung-galaxy-a15-sm-a155-4-gb-128-gb-dual-sim-4g-black.html,3799,3599,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A05s 64 GB Black,Galaxy A05s,https://darwin.md/samsung-galaxy-a05s-sm-a057fzkuser-4-gb-64-gb-dual-sim-4g-black.html,2899,2599,Samsung,PHONE,64gb,True,DARWIN
+Sony Xperia 10 V 128 GB Black,Xperia 10 V,https://darwin.md/sony-xperia-10-v-8-gb-128-gb-dual-sim-5g-black.html,12499,12499,Sony,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro+ 512 GB Black Midnight,Redmi Note 13 Pro+,https://darwin.md/xiaomi-redmi-note-13-pro-12-gb-512-gb-dual-sim-5gmidnight-black.html,10999,10499,Xiaomi,PHONE,512gb,True,DARWIN
+Apple iPhone 15 Pro 256 GB Natural Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-256-gb-dual-sim-5gtitanium-natural.html,31999,25499,Apple,PHONE,256gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro+ 256 GB Purple Aurora,Redmi Note 13 Pro+,https://darwin.md/xiaomi-redmi-note-13-pro-8-gb-256-gb-dual-sim-5gaurora-purple.html,8799,8499,Xiaomi,PHONE,256gb,True,DARWIN
+Xiaomi Redmi Note 13 128 GB Blue Ice,Redmi Note 13,https://darwin.md/xiaomi-redmi-note-13-6-gb-128-gb-dual-sim-4gice-blue.html,4299,4199,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy Flip 5 512 GB Gray,Galaxy Flip 5,https://darwin.md/samsung-galaxy-flip-5-f731-8-gb-512-gb-dual-sim-5g-gray.html,23399,21499,Samsung,PHONE,512gb,True,DARWIN
+Apple iPhone 15 Plus 128 GB Blue,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-128-gb-dual-sim-5g-blue.html,24999,24999,Apple,PHONE,128gb,True,DARWIN
+Google Pixel 8 Pro 128 GB Black Obsidian,Pixel 8 Pro,https://darwin.md/google-pixel-8-pro-8-gb-128-gb-single-sim-5gobsidian-black.html,23599,23599,Google,PHONE,128gb,True,DARWIN
+Motorola Razr 40 Ultra 256 GB Blue Glacier,Razr 40 Ultra,https://darwin.md/motorola-razr-40-ultra-8-gb-256-gb-dual-sim-5gglacier-blue.html,20999,20999,Motorola,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24 Ultra 512 GB Violet Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-512-gb-dual-sim-5gtitanium-violet.html,30299,27299,Samsung,PHONE,512gb,True,DARWIN
+Samsung Galaxy A55 256 GB Ice blue Awesome,Galaxy A55,https://darwin.md/samsung-galaxy-a55-a556-8-gb-256-gb-dual-sim-5g-awesome-ice-blue.html,9999,9999,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 13C 128 GB Black,Redmi 13C,https://darwin.md/xiaomi-redmi-13c-4-gb-128-gb-4g-dual-sim-nfc-black.html,2699,2599,Xiaomi,PHONE,128gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro+ 256 GB White Moonlight,Redmi Note 13 Pro+,https://darwin.md/xiaomi-redmi-note-13-pro-8-gb-256-gb-dual-sim-5gmoonlight-white.html,8799,8499,Xiaomi,PHONE,256gb,True,DARWIN
+Xiaomi 14 512 GB Green Jade,14,https://darwin.md/xiaomi-14-12-gb-512-gb-dual-sim-5gjade-green.html,18999,18999,Xiaomi,PHONE,512gb,True,DARWIN
+Nothing Phone 2 5G 512 GB Dark Gray,Phone 2,https://darwin.md/nothing-phone-2-12-gb-512-gb-dual-sim-5gdark-gray.html,17599,15599,Nothing,PHONE,512gb,True,DARWIN
+Samsung Galaxy S24 256 GB Gray Marble,Galaxy S24,https://darwin.md/samsung-galaxy-s24-s921-8-gb-256-gb-dual-sim-5gmarble-gray.html,18899,16999,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi Note 13 256 GB Blue Ice,Redmi Note 13,https://darwin.md/xiaomi-redmi-note-13-8-gb-256-gb-dual-sim-4gice-blue.html,4999,4899,Xiaomi,PHONE,256gb,True,DARWIN
+Samsung Galaxy Fold 5 512 GB Beige,Galaxy Fold 5,https://darwin.md/samsung-galaxy-fold-5-f946-12-gb-512-gb-dual-sim-5g-beige.html,37899,34999,Samsung,PHONE,512gb,True,DARWIN
+Samsung Galaxy S24+ 256 GB Black Onix,Galaxy S24+,https://darwin.md/samsung-galaxy-s24-s926-12-gb-256-gb-dual-sim-5gonix-black.html,22299,20099,Samsung,PHONE,256gb,True,DARWIN
+Google Pixel 8 128 GB Rose,Pixel 8,https://darwin.md/google-pixel-8-8-gb-128-gb-single-sim-5g-rose.html,18999,18999,Google,PHONE,128gb,True,DARWIN
+Asus Zenfone 10 5G 256 GB White,Zenfone 10,https://darwin.md/asus-zenfone-10-8-gb-256-gb-dual-sim-5g-white.html,19999,19999,Asus,PHONE,256gb,True,DARWIN
+Motorola Moto G71 128 GB Neptune Green,Moto G71,https://darwin.md/motorola-moto-g71-6-gb-128-gb-neptune-green.html,6399,6399,Motorola,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Pro 1 TB Blue Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-1-tb-dual-sim-5gtitanium-blue.html,39499,33999,Apple,PHONE,1tb,True,DARWIN
+Nokia 2660 Flip Pink,Nokia 2660 Flip Pink,https://darwin.md/nokia-2660-flip-dual-sim-4g-pink.html,1649,1649,Nokia,PHONE,"2.8&quot;, Dual SIM, 4G",True,DARWIN
+Samsung Galaxy S23 FE 256 GB Cream,Galaxy S23 FE,https://darwin.md/samsung-galaxy-s23-fe-sm-s711bzwgsek-8-gb-256-gb-dual-sim-5g-cream.html,13999,12599,Samsung,PHONE,256gb,True,DARWIN
+Nokia 105 (2023) Green,Nokia 105 (2023) Green,https://darwin.md/nokia-105-2023-2023-dual-sim-cyan-green.html,729,729,Nokia,PHONE,"1.8&quot;, Dual SIM,",True,DARWIN
+Nokia 105 (2023) Red,Nokia 105 (2023) Red,https://darwin.md/nokia-105-2023-2023-dual-sim-red.html,729,729,Nokia,PHONE,"1.8&quot;, Dual SIM,",True,DARWIN
+Ulefone Power Armor 18 Ultra 512 GB Black,Power Armor 18 Ultra,https://darwin.md/ulefone-power-armor-18-ultra-12-gb-512-gb-dual-sim-5g-black.html,13299,11599,Ulefone,PHONE,512gb,True,DARWIN
+Xiaomi Redmi Note 13 Pro+ 512 GB Purple Aurora,Redmi Note 13 Pro+,https://darwin.md/xiaomi-redmi-note-13-pro-12-gb-512-gb-dual-sim-5gaurora-purple.html,10999,10499,Xiaomi,PHONE,512gb,True,DARWIN
+Motorola Razr 40 256 GB Vanilla Cream,Razr 40,https://darwin.md/motorola-razr-40-8-gb-256-gb-dual-sim-5gcream-vanilla.html,14999,14999,Motorola,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24 256 GB Yellow Amber,Galaxy S24,https://darwin.md/samsung-galaxy-s24-s921-8-gb-256-gb-dual-sim-5gamber-yellow.html,18899,16999,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 13C 256 GB Black,Redmi 13C,https://darwin.md/xiaomi-redmi-13c-8-gb-256-gb-dual-sim-4g-nfc-black.html,3499,3299,Xiaomi,PHONE,256gb,True,DARWIN
+"Sticla de protectie Xiaomi Mi 9T,Full Cover Looks Good, Black","Sticla de protectie Xiaomi Mi 9T,Full Cover Looks Good, Black",https://darwin.md/sticla-de-protectie-xiaomi-mi-9tfull-cover-looks-good-black.html,249,149,Canon,PHONE,,True,DARWIN
+Samsung Galaxy S24 Ultra 256 GB Violet Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-256-gb-dual-sim-5gtitanium-violet.html,27899,25099,Samsung,PHONE,256gb,True,DARWIN
+"Sticla de protectie Xiaomi Redmi Note 8T, Looks Good, Clear","Sticla de protectie Xiaomi Redmi Note 8T, Looks Good, Clear",https://darwin.md/sticla-de-protectie-xiaomi-redmi-note-8t-looks-good-clear.html,199,149,Looks Good,PHONE,,True,DARWIN
+Xiaomi 14 512 GB White,14,https://darwin.md/xiaomi-14-12-gb-512-gb-dual-sim-5g-white.html,18999,18999,Xiaomi,PHONE,512gb,True,DARWIN
+Samsung Galaxy A05 128 GB Green Light,Galaxy A05,https://darwin.md/samsung-galaxy-a05-sm-a055flggsek-4-gb-128-gb-dual-sim-light-green.html,2699,2499,Samsung,PHONE,128gb,True,DARWIN
+Xiaomi Redmi 12C 64 GB Mint Green,Redmi 12C,https://darwin.md/xiaomi-redmi-12c-64-gb-mint-green.html,2399,2299,Xiaomi,PHONE,64gb,True,DARWIN
+Google Pixel 8 128 GB Black Obsidian,Pixel 8,https://darwin.md/google-pixel-8-8-gb-128-gb-single-sim-5gobsidian-black.html,18999,18999,Google,PHONE,128gb,True,DARWIN
+Samsung Galaxy A05s 128 GB Silver,Galaxy A05s,https://darwin.md/samsung-galaxy-a05s-sm-a057fzsvser-4-gb-128-gb-dual-sim-4g-silver.html,3199,2999,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A05s 128 GB Green Light,Galaxy A05s,https://darwin.md/samsung-galaxy-a05s-sm-a057glgveuc-4-gb-128-gb-dual-sim-4glight-green.html,3199,2999,Samsung,PHONE,128gb,True,DARWIN
+Nokia 110 (2023) Black,Nokia 110 (2023) Black,https://darwin.md/nokia-110-2023-2023-dual-sim-4g-black.html,1099,1099,Nokia,PHONE,"1.8&quot;, Dual SIM, 4G",True,DARWIN
+"Sticla de protectie Xiaomi Mi 9T, Looks Good, Clear","Sticla de protectie Xiaomi Mi 9T, Looks Good, Clear",https://darwin.md/sticla-de-protectie-xiaomi-mi-9t-looks-good-clear.html,199,149,Looks Good,PHONE,,True,DARWIN
+Samsung Galaxy S24 128 GB Black Onyx,Galaxy S24,https://darwin.md/samsung-galaxy-s24-s921-8-gb-128-gb-dual-sim-5gonyx-black.html,17699,15899,Samsung,PHONE,128gb,True,DARWIN
+Sony Xperia 10 V 128 GB Lavender,Xperia 10 V,https://darwin.md/sony-xperia-10-v-8-gb-128-gb-dual-sim-5g-lavender.html,12499,12499,Sony,PHONE,128gb,True,DARWIN
+Samsung Galaxy S24 256 GB Violet Cobalt,Galaxy S24,https://darwin.md/samsung-galaxy-s24-s921-8-gb-256-gb-dual-sim-5gcobalt-violet.html,18899,16999,Samsung,PHONE,256gb,True,DARWIN
+Poco M6 Pro 256 GB Black,M6 Pro,https://darwin.md/poco-m6-pro-8-gb-256-gb-dual-sim-4g-black.html,4999,4999,Poco,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 13C 128 GB Green,Redmi 13C,https://darwin.md/xiaomi-redmi-13c-4-gb-128-gb-dual-sim-4g-nfc-green.html,2699,2599,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy A55 128 GB Navy Awesome,Galaxy A55,https://darwin.md/samsung-galaxy-a55-a556-8-gb-128-gb-dual-sim-5g-awesome-navy.html,8999,8999,Samsung,PHONE,128gb,True,DARWIN
+Nokia 105 (2023) 4G Gray,Nokia 105 (2023) 4G Gray,https://darwin.md/nokia-105-2023-2023-dual-sim-4g-charcoal-gray.html,929,929,Nokia,PHONE,"1.8&quot;, Dual SIM, 4G",True,DARWIN
+Sony Xperia 1 V 256 GB Black,Xperia 1 V,https://darwin.md/sony-xperia-1-v-12-gb-256-gb-dual-sim-5g-black.html,24599,24599,Sony,PHONE,256gb,True,DARWIN
+Dect Phone Panasonic KX-TG1611UAR Red,Dect Phone Panasonic KX-TG1611UAR Red,https://darwin.md/dect-phone-panasonic-kx-tg1611uar-red.html,599,599,Panasonic,PHONE,,True,DARWIN
+Samsung Galaxy S23 FE 256 GB Green Mint,Galaxy S23 FE,https://darwin.md/samsung-galaxy-s23-fe-sm-s711blggsek-8-gb-256-gb-dual-sim-5gmint-green.html,13999,12599,Samsung,PHONE,256gb,True,DARWIN
+"Sticla de protectie Xiaomi Redmi Note 8T, Full Cover Looks Good, Black","Sticla de protectie Xiaomi Redmi Note 8T, Full Cover Looks Good, Black",https://darwin.md/sticla-de-protectie-xiaomi-redmi-note-8t-full-cover-looks-good-black.html,249,149,Canon,PHONE,,True,DARWIN
+Motorola Moto G14 128 GB Cream Butter,Moto G14,https://darwin.md/motorola-moto-g14-4-gb-128-gb-dual-sim-4gbutter-cream.html,2899,2899,Motorola,PHONE,128gb,True,DARWIN
+Samsung Galaxy S23 FE 256 GB Purple,Galaxy S23 FE,https://darwin.md/samsung-galaxy-s23-fe-sm-s711bzpgsek-8-gb-256-gb-dual-sim-5g-purple.html,13999,12599,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A05 128 GB Silver,Galaxy A05,https://darwin.md/samsung-galaxy-a05-sm-a055fzsdsek-4-gb-128-gb-dual-sim-silver.html,2699,2499,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Plus 256 GB Blue,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-6-gb-256-gb-single-sim-5g-blue.html,24499,22499,Apple,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Pro 512 GB Blue Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-512-gb-dual-sim-5gtitanium-blue.html,36999,29499,Apple,PHONE,512gb,True,DARWIN
+Dect Phone Panasonic KX-TG1612UAH Gray,Dect Phone Panasonic KX-TG1612UAH Gray,https://darwin.md/dect-phone-panasonic-kx-tg1612uah-gray.html,949,949,Panasonic,PHONE,,True,DARWIN
+Xiaomi 14 Ultra 512 GB Black,14 Ultra,https://darwin.md/xiaomi-14-ultra-16-gb-512-gb-dual-sim-5g-black.html,25999,25999,Xiaomi,PHONE,512gb,True,DARWIN
+Samsung Galaxy A05 64 GB Green Light,Galaxy A05,https://darwin.md/samsung-galaxy-a05-sm-a055flgdsek-4-gb-64-gb-dual-sim-light-green.html,2399,1999,Samsung,PHONE,64gb,True,DARWIN
+Apple iPhone 15 Pro 256 GB Blue Titanium,iPhone 15 Pro,https://darwin.md/apple-iphone-15-pro-256-gb-dual-sim-5gtitanium-blue.html,31999,31999,Apple,PHONE,256gb,True,DARWIN
+Sony Xperia 10 V 128 GB Sage Green,Xperia 10 V,https://darwin.md/sony-xperia-10-v-8-gb-128-gb-dual-sim-5gsage-green.html,12499,12499,Sony,PHONE,128gb,True,DARWIN
+Samsung Galaxy Fold 5 256 GB Blue Light,Galaxy Fold 5,https://darwin.md/samsung-galaxy-fold-5-f946-12-gb-256-gb-dual-sim-5glight-blue.html,35999,32999,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy S23 FE 128 GB Purple,Galaxy S23 FE,https://darwin.md/samsung-galaxy-s23-fe-sm-s711bzpdsek-8-gb-128-gb-dual-sim-5g-purple.html,12999,11499,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy S24 128 GB Gray Marble,Galaxy S24,https://darwin.md/samsung-galaxy-s24-s921-8-gb-128-gb-dual-sim-5gmarble-gray.html,17699,15899,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A25 256 GB Black,Galaxy A25,https://darwin.md/samsung-galaxy-a25-sm-a256ezkhmea-8-gb-256-gb-dual-sim-5g-black.html,6899,6099,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 12 128 GB Silver,Redmi 12,https://darwin.md/xiaomi-redmi-12-4-gb-128-gb-dual-sim-4g-silver.html,2999,2999,Xiaomi,PHONE,128gb,True,DARWIN
+Motorola Edge 40 Neo 5G 256 GB Soothing Sea,Edge 40 Neo,https://darwin.md/motorola-edge-40-neo-5g-payh0081rs-12-gb-256-gb-dual-sim-5gsea-soothing.html,6999,5999,Motorola,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24+ 256 GB Gray Marble,Galaxy S24+,https://darwin.md/samsung-galaxy-s24-s926-12-gb-256-gb-dual-sim-5gmarble-gray.html,22299,20099,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 13C 128 GB Blue,Redmi 13C,https://darwin.md/xiaomi-redmi-13c-4-gb-128-gb-4g-dual-sim-nfc-blue.html,2699,2599,Xiaomi,PHONE,128gb,True,DARWIN
+Samsung Galaxy A55 256 GB Navy Awesome,Galaxy A55,https://darwin.md/samsung-galaxy-a55-a556-8-gb-256-gb-dual-sim-5g-awesome-navy.html,9999,9999,Samsung,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Plus 512 GB Pink,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-512-gb-dual-sim-5g-pink.html,32499,32499,Apple,PHONE,512gb,True,DARWIN
+Xiaomi Redmi 13C 256 GB Green,Redmi 13C,https://darwin.md/xiaomi-redmi-13c-8-gb-256-gb-dual-sim-4g-nfc-green.html,3499,3299,Xiaomi,PHONE,256gb,True,DARWIN
+Samsung Galaxy A05 64 GB Silver,Galaxy A05,https://darwin.md/samsung-galaxy-a05-sm-a055fzsdsek-4-gb-64-gb-dual-sim-silver.html,2399,1999,Samsung,PHONE,64gb,True,DARWIN
+Apple iPhone 15 Plus 512 GB Yellow,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-512-gb-dual-sim-5g-yellow.html,32499,32499,Apple,PHONE,512gb,True,DARWIN
+Samsung Galaxy A15 128 GB Yellow,Galaxy A15,https://darwin.md/samsung-galaxy-a15-sm-a155-4-gb-128-gb-dual-sim-4g-yellow.html,3799,3599,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy S24+ 512 GB Violet Cobalt,Galaxy S24+,https://darwin.md/samsung-galaxy-s24-s926-12-gb-512-gb-dual-sim-5gcobalt-violet.html,24799,22299,Samsung,PHONE,512gb,True,DARWIN
+Samsung Galaxy A05s 64 GB Silver,Galaxy A05s,https://darwin.md/samsung-galaxy-a05s-sm-a057fzsuser-4-gb-64-gb-dual-sim-4g-silver.html,2899,2599,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy S23 FE 128 GB Green Mint,Galaxy S23 FE,https://darwin.md/samsung-galaxy-s23-fe-sm-s711blgdsek-8-gb-128-gb-dual-sim-5gmint-green.html,12999,11499,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Plus 512 GB Black,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-512-gb-dual-sim-5g-black.html,32499,32499,Apple,PHONE,512gb,True,DARWIN
+Samsung Galaxy S24+ 512 GB Black Onix,Galaxy S24+,https://darwin.md/samsung-galaxy-s24-s926-12-gb-512-gb-dual-sim-5gonix-black.html,24799,22299,Samsung,PHONE,512gb,True,DARWIN
+Google Pixel 8 Pro 512 GB Black Obsidian,Pixel 8 Pro,https://darwin.md/google-pixel-8-pro-12-gb-512-gb-single-sim-5gobsidian-black.html,28499,28499,Google,PHONE,512gb,True,DARWIN
+Samsung Galaxy S24+ 512 GB Gray Marble,Galaxy S24+,https://darwin.md/samsung-galaxy-s24-s926-12-gb-512-gb-dual-sim-5gmarble-gray.html,24799,22299,Samsung,PHONE,512gb,True,DARWIN
+Sony Xperia 1 V 256 GB Green Khaki,Xperia 1 V,https://darwin.md/sony-xperia-1-v-12-gb-256-gb-dual-sim-5gkhaki-green.html,24599,24599,Sony,PHONE,256gb,True,DARWIN
+Nokia 105 (2023) Blue,Nokia 105 (2023) Blue,https://darwin.md/nokia-105-2023-2023-dual-sim-4g-ocean-blue.html,929,929,Nokia,PHONE,"1.8&quot;, Dual SIM,",True,DARWIN
+Samsung Galaxy A25 256 GB Yellow,Galaxy A25,https://darwin.md/samsung-galaxy-a25-sm-a256ezyhmea-6-gb-256-gb-dual-sim-5g-yellow.html,6899,6099,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi 13C 256 GB Blue,Redmi 13C,https://darwin.md/xiaomi-redmi-13c-8-gb-256-gb-dual-sim-4g-nfc-blue.html,3499,3299,Xiaomi,PHONE,256gb,True,DARWIN
+Sony Xperia 5 V 256 GB Black,Xperia 5 V,https://darwin.md/sony-xperia-5-v-8-gb-256-gb-dual-sim-5g-black.html,19999,19999,Sony,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24 Ultra 1 TB Violet Titanium,Galaxy S24 Ultra,https://darwin.md/samsung-galaxy-s24-ultra-s928-12-gb-1-tb-dual-sim-5g-titanium-violet.html,35199,31699,Samsung,PHONE,1tb,True,DARWIN
+Samsung Galaxy A05s 64 GB Green Light,Galaxy A05s,https://darwin.md/samsung-galaxy-a05s-sm-a057glgueuc-4-gb-64-gb-dual-sim-4glight-green.html,2899,2599,Samsung,PHONE,64gb,True,DARWIN
+Samsung Galaxy A35 128 GB Lemon Awesome,Galaxy A35,https://darwin.md/samsung-galaxy-a35-a356-6-gb-128-gb-dual-sim-5g-awesome-lemon.html,6999,6999,Samsung,PHONE,128gb,True,DARWIN
+Asus ROG Phone 8 Pro 512 GB Black Phantom,ROG Phone 8 Pro,https://darwin.md/asus-rog-phone-8-pro-16-gb-512-gb-dual-sim-5gphantom-black.html,25999,25999,Asus,PHONE,512gb,True,DARWIN
+Motorola Razr 40 256 GB Lilac Summer,Razr 40,https://darwin.md/motorola-razr-40-8-gb-256-gb-dual-sim-5gsummer-lilac.html,14999,14999,Motorola,PHONE,256gb,True,DARWIN
+Samsung Galaxy Fold 5 256 GB Beige,Galaxy Fold 5,https://darwin.md/samsung-galaxy-fold-5-f946-12-gb-256-gb-dual-sim-5g-beige.html,36999,35999,Samsung,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Plus 128 GB Yellow,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-128-gb-dual-sim-5g-yellow.html,24999,24999,Apple,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Plus 512 GB Blue,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-512-gb-dual-sim-5g-blue.html,32499,32499,Apple,PHONE,512gb,True,DARWIN
+Samsung Galaxy A25 128 GB Blue Light,Galaxy A25,https://darwin.md/samsung-galaxy-a25-sm-a256elbdmea-6-gb-128-gb-dual-sim-5glight-blue.html,5899,5099,Samsung,PHONE,128gb,True,DARWIN
+Sony Xperia 1 V 512 GB Green Khaki,Xperia 1 V,https://darwin.md/sony-xperia-1-v-12-gb-512-gb-dual-sim-5gkhaki-green.html,25599,25599,Sony,PHONE,512gb,True,DARWIN
+Samsung Galaxy A55 128 GB Liliac Awesome,Galaxy A55,https://darwin.md/samsung-galaxy-a55-a556-8-gb-128-gb-dual-sim-5g-awesome-liliac.html,8999,8999,Samsung,PHONE,128gb,True,DARWIN
+Apple iPhone 15 Plus 256 GB Yellow,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-256-gb-dual-sim-5g-yellow.html,27499,27499,Apple,PHONE,256gb,True,DARWIN
+Ulefone Armor 23 Ultra 512 GB Black,Armor 23 Ultra,https://darwin.md/ulefone-armor-23-ultra-12-gb-512-gb-dual-sim-5g-black.html,10999,9499,Ulefone,PHONE,512gb,True,DARWIN
+Dect Phone Maxcom KX-T100 Black,Dect Phone Maxcom KX-T100 Black,https://darwin.md/dect-phone-maxcom-kx-t100-black.html,429,429,Maxcom,PHONE,,True,DARWIN
+Nokia 150 Blue,Nokia 150 Blue,https://darwin.md/nokia-150-dual-sim-blue.html,949,949,Nokia,PHONE,"2.4&quot;, Dual SIM,",True,DARWIN
+ZTE nubia RedMagic 9 Pro 512 GB Black Transparent,nubia RedMagic 9 Pro,https://darwin.md/zte-nubia-redmagic-9-pro-16-gb-512-gb-dual-sim-5gtransparent-black.html,19999,19999,ZTE,PHONE,512gb,True,DARWIN
+Samsung Galaxy S24 128 GB Violet Cobalt,Galaxy S24,https://darwin.md/samsung-galaxy-s24-s921-8-gb-128-gb-dual-sim-5gcobalt-violet.html,17699,15899,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A35 128 GB Navy Awesome,Galaxy A35,https://darwin.md/samsung-galaxy-a35-a356-6-gb-128-gb-dual-sim-5g-awesome-navy.html,6999,6999,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy S24+ 256 GB Yellow Amber,Galaxy S24+,https://darwin.md/samsung-galaxy-s24-s926-12-gb-256-gb-dual-sim-5gamber-yellow.html,22299,20099,Samsung,PHONE,256gb,True,DARWIN
+Apple iPhone 15 Plus 512 GB Green,iPhone 15 Plus,https://darwin.md/apple-iphone-15-plus-512-gb-dual-sim-5g-green.html,32499,32499,Apple,PHONE,512gb,True,DARWIN
+Samsung Galaxy A25 256 GB Blue Light,Galaxy A25,https://darwin.md/samsung-galaxy-a25-sm-a256elbdmea-8-gb-256-gb-dual-sim-5glight-blue.html,6899,6099,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24 128 GB Yellow Amber,Galaxy S24,https://darwin.md/samsung-galaxy-s24-s921-8-gb-128-gb-dual-sim-5g-amber-yellow.html,17699,15899,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A35 128 GB Ice blue Awesome,Galaxy A35,https://darwin.md/samsung-galaxy-a35-a356-6-gb-128-gb-dual-sim-5g-awesome-ice-blue.html,6999,6999,Samsung,PHONE,128gb,True,DARWIN
+Samsung Galaxy A55 256 GB Liliac Awesome,Galaxy A55,https://darwin.md/samsung-galaxy-a55-a556-8-gb-256-gb-dual-sim-5g-awesome-liliac.html,9999,9999,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24+ 256 GB Violet Cobalt,Galaxy S24+,https://darwin.md/samsung-galaxy-s24-s926-12-gb-256-gb-dual-sim-5gcobalt-violet.html,22299,20099,Samsung,PHONE,256gb,True,DARWIN
+Sony Xperia 1 V 512 GB Silver Platinum,Xperia 1 V,https://darwin.md/sony-xperia-1-v-12-gb-512-gb-dual-sim-5gplatinum-silver.html,25599,25599,Sony,PHONE,512gb,True,DARWIN
+Nokia 110 (2023) Charcoal,Nokia 110 (2023) Charcoal,https://darwin.md/nokia-110-2023-2023-dual-sim-4g-charcoal.html,799,799,Nokia,PHONE,"1.8&quot;, Dual SIM, 2G",True,DARWIN
+Corded Phone Maxcom KX-T709 Black,Corded Phone Maxcom KX-T709 Black,https://darwin.md/corded-phone-maxcom-kx-t709-black.html,649,649,Maxcom,PHONE,,True,DARWIN
+Sony Xperia 1 V 512 GB Black,Xperia 1 V,https://darwin.md/sony-xperia-1-v-12-gb-512-gb-dual-sim-5g-black.html,25599,25599,Sony,PHONE,512gb,True,DARWIN
+Asus ROG Phone 8 256 GB Gray Rebel,ROG Phone 8,https://darwin.md/asus-rog-phone-8-16-gb-256-gb-dual-sim-5grebel-gray.html,23999,23999,Asus,PHONE,256gb,True,DARWIN
+Nokia 110 (2023) Cloudy Blue,Nokia 110 (2023) Cloudy Blue,https://darwin.md/nokia-110-2023-2023-dual-sim-4g-cloudy-blue.html,799,799,Nokia,PHONE,"1.8&quot;, Dual SIM, 2G",True,DARWIN
+Samsung Galaxy A35 256 GB Navy Awesome,Galaxy A35,https://darwin.md/samsung-galaxy-a35-a356-8-gb-256-gb-dual-sim-5g-awesome-navy.html,7999,7999,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi A3 128 GB Black Midnight,Redmi A3,https://darwin.md/xiaomi-redmi-a3-4-gb-128-gb-dual-sim-4g-midnight-black.html,2499,2499,Xiaomi,PHONE,128gb,True,DARWIN
+ZTE nubia Z60 Ultra 256 GB Black,nubia Z60 Ultra,https://darwin.md/zte-nubia-z60-ultra-12-gb-256-gb-dual-sim-5g-black.html,15599,12999,ZTE,PHONE,256gb,True,DARWIN
+Ulefone Armor X12 32 GB Black,Armor X12,https://darwin.md/ulefone-armor-x12-3-gb-32-gb-dual-sim-4g-black.html,2599,2599,Ulefone,PHONE,32gb,True,DARWIN
+Samsung Galaxy A35 128 GB Liliac Awesome,Galaxy A35,https://darwin.md/samsung-galaxy-a35-a356-6-gb-128-gb-dual-sim-5g-awesome-liliac.html,6999,6999,Samsung,PHONE,128gb,True,DARWIN
+Motorola Moto G24 Power 256 GB Blue Glacier,Moto G24 Power,https://darwin.md/motorola-moto-g24-power-8-gb-256-gb-dual-sim-4g-glacier-blue.html,3999,3399,Motorola,PHONE,256gb,True,DARWIN
+Corded Phone Maxcom KX-T480 Black,Corded Phone Maxcom KX-T480 Black,https://darwin.md/corded-phone-maxcom-kx-t480-black.html,529,529,Maxcom,PHONE,,True,DARWIN
+Xiaomi Redmi A3 128 GB Green Forest,Redmi A3,https://darwin.md/xiaomi-redmi-a3-4-gb-128-gb-dual-sim-4g-forest-green.html,2499,2499,Xiaomi,PHONE,128gb,True,DARWIN
+Poco C65 256 GB Blue,C65,https://darwin.md/poco-c65-8-gb-256-gb-dual-sim-4g-blue.html,3499,3499,Poco,PHONE,256gb,True,DARWIN
+Samsung Galaxy S24 Ultra 512 GB Yellow Titanium,Galaxy S24 Ultra,https://darwin.md/smartphone-samsung-galaxy-s24-ultra-s928-12-gb-512-gb-dual-sim-5g-titanium-yellow.html,30299,27299,Samsung,PHONE,512gb,True,DARWIN
+Poco X6 512 GB Black,X6,https://darwin.md/poco-x6-12-gb-512-gb-dual-sim-5g-black.html,7999,7499,Poco,PHONE,512gb,True,DARWIN
+Xiaomi Redmi A3 64 GB Black Midnight,Redmi A3,https://darwin.md/xiaomi-redmi-a3-3-gb-64-gb-dual-sim-4g-midnight-black.html,1999,1999,Xiaomi,PHONE,64gb,True,DARWIN
+Samsung Galaxy A15 256 GB Blue,Galaxy A15,https://darwin.md/samsung-galaxy-a15-sm-a155-8-gb-256-gb-dual-sim-4g-blue.html,4799,4399,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A55 256 GB Lemon Awesome,Galaxy A55,https://darwin.md/samsung-galaxy-a55-a556-8-gb-256-gb-dual-sim-5g-awesome-lemon.html,9999,9999,Samsung,PHONE,256gb,True,DARWIN
+Xiaomi Redmi A3 64 GB Green Forest,Redmi A3,https://darwin.md/xiaomi-redmi-a3-3-gb-64-gb-dual-sim-4g-forest-green.html,1999,1999,Xiaomi,PHONE,64gb,True,DARWIN
+Sony Xperia 5 V 256 GB Silver Platinum,Xperia 5 V,https://darwin.md/sony-xperia-5-v-8-gb-256-gb-dual-sim-5gplatinum-silver.html,19999,19999,Sony,PHONE,256gb,True,DARWIN
+Samsung Galaxy A15 256 GB Yellow,Galaxy A15,https://darwin.md/samsung-galaxy-a15-sm-a155-8-gb-256-gb-dual-sim-4g-yellow.html,4799,4399,Samsung,PHONE,256gb,True,DARWIN
+Motorola Moto G24 Power 256 GB Blue Ink,Moto G24 Power,https://darwin.md/motorola-moto-g24-power-8-gb-256-gb-dual-sim-4g-ink-blue.html,3999,3399,Motorola,PHONE,256gb,True,DARWIN
+OnePlus 12 256 GB Black,12,https://darwin.md/oneplus-12-12-gb-256-gb-dual-sim-5g-black.html,19999,19499,OnePlus,PHONE,256gb,True,DARWIN
+Samsung Galaxy A55 128 GB Lemon Awesome,Galaxy A55,https://darwin.md/samsung-galaxy-a55-a556-8-gb-128-gb-dual-sim-5g-awesome-lemon.html,8999,8999,Samsung,PHONE,128gb,True,DARWIN
+Xiaomi Redmi A3 128 GB Blue Star,Redmi A3,https://darwin.md/xiaomi-redmi-a3-4-gb-128-gb-dual-sim-4g-star-blue.html,2499,2499,Xiaomi,PHONE,128gb,True,DARWIN
+Xiaomi Redmi A3 64 GB Blue Star,Redmi A3,https://darwin.md/xiaomi-redmi-a3-3-gb-64-gb-dual-sim-4g-star-blue.html,1999,1999,Xiaomi,PHONE,64gb,True,DARWIN
+Samsung Galaxy A35 256 GB Liliac Awesome,Galaxy A35,https://darwin.md/samsung-galaxy-a35-a356-8-gb-256-gb-dual-sim-5g-awesome-liliac.html,7999,7999,Samsung,PHONE,256gb,True,DARWIN
+Samsung Galaxy A35 256 GB Lemon Awesome,Galaxy A35,https://darwin.md/samsung-galaxy-a35-a356-8-gb-256-gb-dual-sim-5g-awesome-lemon.html,7999,7999,Samsung,PHONE,256gb,True,DARWIN
+Asus ROG Phone 8 256 GB Black Phantom,ROG Phone 8,https://darwin.md/asus-rog-phone-8-16-gb-256-gb-dual-sim-5gphantom-black.html,23999,23999,Asus,PHONE,256gb,True,DARWIN
+Huawei Nova Y70 128 GB White Pearl,Nova Y70,https://darwin.md/huawei-nova-y70-51096yst-4-gb-128-gb-dual-sim-4gpearl-white.html,3999,3999,Huawei,PHONE,128gb,True,DARWIN
+Samsung Galaxy A35 256 GB Ice blue Awesome,Galaxy A35,https://darwin.md/samsung-galaxy-a35-a356-8-gb-256-gb-dual-sim-5g-awesome-ice-blue.html,7999,7999,Samsung,PHONE,256gb,True,DARWIN
+Motorola Edge 50 Pro 512 GB Lavender Luxe,Edge 50 Pro,https://darwin.md/smartphone-motorola-edge-50-pro-12-gb-512-gb-dual-sim-5g-luxe-lavender.html,12999,10999,Motorola,PHONE,512gb,True,DARWIN
+Motorola Edge 50 Pro 512 GB Black Beauty,Edge 50 Pro,https://darwin.md/smartphone-motorola-edge-50-pro-12-gb-512-gb-dual-sim-5g-beauty-black.html,12999,10999,Motorola,PHONE,512gb,True,DARWIN
+Samsung Galaxy A15 256 GB Black Blue,Galaxy A15,https://darwin.md/samsung-galaxy-a15-sm-a155-8-gb-256-gb-dual-sim-4g-blue-black.html,4799,4399,Samsung,PHONE,256gb,True,DARWIN
+Motorola Moto G04 64 GB Blue Satin,Moto G04,https://darwin.md/motorola-moto-g04-4-gb-64-gb-dual-sim-4g-satin-blue.html,2499,2499,Motorola,PHONE,64gb,True,DARWIN
+Poco C65 256 GB Purple,C65,https://darwin.md/poco-c65-8-gb-256-gb-dual-sim-4g-purple.html,3499,3499,Poco,PHONE,256gb,True,DARWIN
+Motorola Moto G04 64 GB Black Concord,Moto G04,https://darwin.md/motorola-moto-g04-4-gb-64-gb-dual-sim-4g-concord-black.html,2499,2499,Motorola,PHONE,64gb,True,DARWIN
+Motorola Moto G04 64 GB Green Sea,Moto G04,https://darwin.md/motorola-moto-g04-4-gb-64-gb-dual-sim-4g-sea-green.html,2499,2499,Motorola,PHONE,64gb,True,DARWIN
+Motorola Moto G04 64 GB Orange Sunrise,Moto G04,https://darwin.md/motorola-moto-g04-4-gb-64-gb-dual-sim-4g-sunrise-orange.html,2499,2499,Motorola,PHONE,64gb,True,DARWIN
+Poco M6 Pro 256 GB Purple,M6 Pro,https://darwin.md/smartphone-poco-m6-pro-8-gb-256-gb-dual-sim-4g-purple.html,4999,4999,Poco,PHONE,256gb,True,DARWIN
+Realme 11 Pro+ 256 GB Black,11 Pro+,https://darwin.md/realme-11-pro-8-gb-256-gb-dual-sim-5g-black.html,8599,7199,Realme,PHONE,256gb,True,DARWIN

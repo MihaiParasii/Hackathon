@@ -1,0 +1,370 @@
+id,name,processor,ram,video_card,storage,category,price,photo,url
+1,"HP Spectre x360 16""",Intel Evo Core i7,16GB,Intel Arc A370,1TB SSD,Convertible,1499.99,1,https://www.bestbuy.com/site/hp-spectre-2-in-1-16-uhd-oled-touch-screen-laptop-intel-evo-platform-core-i7-16gb-memory-intel-arc-a370-1tb-ssd-nightfall-black/6532339.p?skuId=6532339
+2,Samsung Galaxy Book3 Ultra,Intel Core i7-13700H,16GB,NVIDIA GeForce RTX 4050,1TB SSD,Ultrabook,2399.99,2,https://www.bestbuy.com/site/samsung-galaxy-book3-ultra-16-3k-amoled-laptop-intel-13th-gen-evo-core-i7-13700h-16gb-nvidia-geforce-rtx-4050-1tb-ssd-graphite/6531072.p?skuId=6531072
+3,"Apple MacBook Pro 13.3""",Intel Core i5,8GB,Intel Iris Plus Graphics,256GB SSD,Ultrabook,1299.99,3,https://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-macbook-pro-13-3-laptop-intel-core-i5-8gb-memory-256gb-ssd-silver/6549344.p?skuId=6549344
+4,"Apple MacBook Air 13.3""",Intel Core i5,8GB,Intel UHD Graphics 6000,256GB Flash Storage,Ultrabook,999.99,4,https://www.bestbuy.com/site/apple-macbook-air-13-3-certified-refurbished-intel-core-i5-8gb-memory-256gb-flash-storage-2015-silver/6461221.p?skuId=6461221
+5,Acer Chromebook 315,Intel Celeron N4020,4GB,Intel UHD Graphics 600,64GB eMMC,Everyday,299.99,5,https://www.bestbuy.com/site/acer-chromebook-315-15-6-hd-display-laptop-intel-celeron-n4020-with-4gb-lpddr4-64gb-emmc-silver/6544331.p?skuId=6544331
+6,"HP 14""",Intel Celeron,4GB,Intel UHD Graphics 600,64GB eMMC,Everyday,149.99,6,https://www.bestbuy.com/site/hp-14-laptop-intel-celeron-4gb-memory-64gb-emmc-snowflake-white/6499749.p?skuId=6499749
+7,"Lenovo Ideapad 3i 15.6""",Intel Core i5-1155G7,8GB,Intel Iris Xe Graphics,512GB SSD,Everyday,349.99,7,https://www.bestbuy.com/site/lenovo-ideapad-3i-15-6-fhd-touch-laptop-core-i5-1155g7-with-8gb-memory-512gb-ssd-abyss-blue/6549067.p?skuId=6549067
+8,"HP 15.6"" Touch-Screen Laptop",Intel Core i3,8GB,Intel UHD Graphics,256GB SSD,Everyday,329.99,8,https://www.bestbuy.com/site/hp-15-6-touch-screen-laptop-intel-core-i3-8gb-memory-256gb-ssd-natural-silver/6550428.p?skuId=6550428
+9,"Lenovo Ideapad 1 15.6""",AMD Ryzen 7 5700U,16GB,AMD Radeon Graphics,512GB SSD,Everyday,429.99,9,https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-laptop-ryzen-7-5700u-with-16gb-memory-amd-radeon-graphics-512gb-ssd-cloud-gray/6555683.p?skuId=6555683
+10,"Samsung Galaxy Book Flex2 Alpha 13.3""",Intel Core i7,16GB,Intel Iris Xe Graphics,512GB SSD,Convertible,849.99,10,https://www.bestbuy.com/site/samsung-galaxy-book-flex2-alpha-13-3-qled-touch-screen-laptop-intel-evo-platform-core-i7-16gb-memory-512gb-ssd/6454271.p?skuId=6454271
+11,Dell Inspiron 15 3000,Intel Core i3,8GB,Intel UHD Graphics,256GB SSD,Everyday,299.99,11,https://www.bestbuy.com/site/dell-inspiron-15-3000-15-6-laptop-intel-core-i3-8gb-memory-256gb-ssd-black/6469376.p?skuId=6469376
+12,Asus ROG Zephyrus G14,AMD Ryzen 9,16GB,NVIDIA GeForce RTX 3060,1TB SSD,Gaming,1499.99,12,https://www.bestbuy.com/site/asus-rog-zephyrus-g14-14-qhd-gaming-laptop-amd-ryzen-9-16gb-memory-nvidia-geforce-rtx-3060-1tb-ssd-moonlight-white/6449516.p?skuId=6449516
+13,Razer Blade 15,Intel Core i7-10750H,16GB,NVIDIA GeForce RTX 2070,512GB SSD,Gaming,1999.99,13,https://www.bestbuy.com/site/razer-blade-15-15-6-gaming-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-2070-max-q-512gb-ssd/6452731.p?skuId=6452731
+14,"HP Pavilion x360 14""",Intel Core i5,8GB,Intel UHD Graphics,256GB SSD,Convertible,699.99,14,https://www.bestbuy.com/site/hp-pavilion-x360-14-2-in-1-14-touch-screen-laptop-intel-core-i5-8gb-memory-256gb-ssd-natural-silver/6455279.p?skuId=6455279
+15,"Acer Nitro 5 15.6""",Intel Core i5-10300H,8GB,NVIDIA GeForce GTX 1650,256GB SSD,Gaming,729.99,15,https://www.bestbuy.com/site/acer-nitro-5-15-6-gaming-laptop-intel-core-i5-8gb-memory-nvidia-geforce-gtx-1650-256gb-ssd/6445621.p?skuId=6445621
+16,Microsoft Surface Pro 7+,Intel Core i5,8GB,Intel Iris Plus Graphics,128GB SSD,Convertible,799.99,16,https://www.bestbuy.com/site/microsoft-surface-pro-7-12-3-touch-screen-intel-core-i5-8gb-memory-128gb-ssd-with-black-type-cover-platinum/6436203.p?skuId=6436203
+17,"Apple MacBook Pro 16""",Intel Core i9,16GB,AMD Radeon Pro 5500M,1TB SSD,Ultrabook,2799.99,17,https://www.bestbuy.com/site/apple-macbook-pro-16-laptop-intel-core-i9-16gb-memory-1tb-ssd-silver/6373500.p?skuId=6373500
+18,"Dell XPS 13""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Ultrabook,1299.99,18,https://www.bestbuy.com/site/dell-xps-13-13-4-4k-uhd-touch-screen-laptop-intel-core-i7-16gb-memory-512gb-ssd-silver/6450324.p?skuId=6450324
+19,"Asus ZenBook 13""",Intel Core i5,8GB,Intel Iris Xe Graphics,256GB SSD,Ultrabook,849.99,19,https://www.bestbuy.com/site/asus-zenbook-13-13-3-oled-laptop-intel-evo-platform-core-i5-8gb-memory-256gb-ssd-pine-grey/6469360.p?skuId=6469360
+20,"HP Omen 15""",AMD Ryzen 7 4800H,16GB,NVIDIA GeForce GTX 1660 Ti,512GB SSD,Gaming,1049.99,20,https://www.bestbuy.com/site/hp-omen-15-15-6-gaming-laptop-amd-ryzen-7-16gb-memory-nvidia-geforce-gtx-1660-ti-512gb-ssd-shadow-black/6427569.p?skuId=6427569
+21,"Lenovo Yoga 7i 14""",Intel Core i5-1135G7,12GB,Intel Iris Xe Graphics,512GB SSD,Convertible,999.99,21,https://www.bestbuy.com/site/lenovo-yoga-7i-14-2-in-1-14-touch-screen-laptop-intel-evo-platform-core-i5-12gb-memory-512gb-ssd-dark-moss/6469390.p?skuId=6469390
+22,"Dell G15 15.6""",AMD Ryzen 5 5600H,8GB,NVIDIA GeForce GTX 1650,256GB SSD,Gaming,849.99,22,https://www.bestbuy.com/site/dell-g15-15-6-gaming-laptop-amd-ryzen-5-8gb-memory-nvidia-geforce-gtx-1650-256gb-ssd/6474730.p?skuId=6474730
+23,"Asus VivoBook 15""",Intel Core i3-1115G4,8GB,Intel UHD Graphics,256GB SSD,Everyday,399.99,23,https://www.bestbuy.com/site/asus-vivobook-15-15-6-laptop-intel-core-i3-8gb-memory-256gb-ssd-slate-gray/6469380.p?skuId=6469380
+24,"HP Envy x360 15.6""",AMD Ryzen 5 5500U,8GB,AMD Radeon Graphics,512GB SSD,Convertible,729.99,24,https://www.bestbuy.com/site/hp-envy-x360-2-in-1-15-6-touch-screen-laptop-amd-ryzen-5-8gb-memory-512gb-ssd-natural-silver/6477737.p?skuId=6477737
+25,"Acer Aspire 5 15.6""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,512GB SSD,Everyday,599.99,25,https://www.bestbuy.com/site/acer-aspire-5-15-6-full-hd-laptop-intel-core-i5-1135g7-8gb-memory-512gb-ssd/6469383.p?skuId=6469383
+26,Microsoft Surface Laptop 4,Intel Core i7,16GB,Intel Iris Xe Graphics,512GB SSD,Ultrabook,1299.99,26,https://www.bestbuy.com/site/microsoft-surface-laptop-4-13-5-touch-screen-intel-evo-platform-core-i7-16gb-memory-512gb-ssd-matte-black/6462404.p?skuId=6462404
+27,Apple MacBook Air M1,Apple M1,8GB,Apple M1 GPU,256GB SSD,Ultrabook,999.99,27,https://www.bestbuy.com/site/apple-macbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-latest-model/6418597.p?skuId=6418597
+28,"Lenovo Legion 5 15""",AMD Ryzen 7 5800H,16GB,NVIDIA GeForce RTX 3060,512GB SSD,Gaming,1299.99,28,https://www.bestbuy.com/site/lenovo-legion-5-15-6-gaming-laptop-amd-ryzen-7-16gb-memory-nvidia-geforce-rtx-3060-512gb-ssd-phantom-blue/6450338.p?skuId=6450338
+29,"HP Pavilion 15""",AMD Ryzen 5 5500U,8GB,AMD Radeon Graphics,256GB SSD,Everyday,549.99,29,https://www.bestbuy.com/site/hp-pavilion-15-6-laptop-amd-ryzen-5-8gb-memory-256gb-ssd-jet-black/6455612.p?skuId=6455612
+30,"Asus ZenBook Flip 13""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Convertible,1099.99,30,https://www.bestbuy.com/site/asus-zenbook-flip-13-13-3-oled-touch-laptop-intel-evo-platform-core-i7-16gb-memory-512gb-ssd-pine-grey/6454347.p?skuId=6454347
+31,"Razer Blade Stealth 13""",Intel Core i7-1065G7,16GB,NVIDIA GeForce GTX 1650 Ti,512GB SSD,Ultrabook,1799.99,31,https://www.bestbuy.com/site/razer-blade-stealth-13-13-3-4k-uhd-touch-screen-gaming-laptop-intel-core-i7-16gb-memory-nvidia-geforce-gtx-1650-ti-512gb-ssd-black/6469150.p?skuId=6469150
+32,Dell Inspiron 14 7000,Intel Core i5,8GB,Intel Iris Xe Graphics,512GB SSD,Everyday,849.99,32,https://www.bestbuy.com/site/dell-inspiron-14-7000-14-full-hd-laptop-intel-core-i5-8gb-memory-512gb-ssd-silver/6450301.p?skuId=6450301
+33,HP Elite Dragonfly,Intel Core i5-8265U,8GB,Intel UHD Graphics 620,256GB SSD,Ultrabook,1599.99,33,https://www.bestbuy.com/site/hp-elite-dragonfly-13-3-touch-screen-laptop-intel-core-i5-8gb-memory-256gb-ssd-4g-lte-sparkling-black/6424354.p?skuId=6424354
+34,Microsoft Surface Go 2,Intel Pentium Gold 4425Y,8GB,Intel UHD Graphics 615,128GB SSD,Convertible,549.99,34,https://www.bestbuy.com/site/microsoft-surface-go-2-10-5-touch-screen-intel-pentium-gold-8gb-memory-128gb-ssd-with-black-type-cover/6432759.p?skuId=6432759
+35,"HP Envy 13""",Intel Core i7-1165G7,8GB,Intel Iris Xe Graphics,256GB SSD,Ultrabook,999.99,35,https://www.bestbuy.com/site/hp-envy-13-13-3-touch-screen-laptop-intel-evo-platform-core-i7-8gb-memory-256gb-ssd-natural-silver/6469334.p?skuId=6469334
+36,Acer Predator Helios 300,Intel Core i7-10750H,16GB,NVIDIA GeForce RTX 2060,512GB SSD,Gaming,1299.99,36,https://www.bestbuy.com/site/acer-predator-helios-300-15-6-gaming-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-2060-512gb-ssd/6417677.p?skuId=6417677
+37,Lenovo ThinkPad X1 Carbon,Intel Core i5-10210U,8GB,Intel UHD Graphics,256GB SSD,Ultrabook,1349.99,37,https://www.bestbuy.com/site/lenovo-thinkpad-x1-carbon-14-laptop-intel-core-i5-8gb-memory-256gb-ssd-black/6450334.p?skuId=6450334
+38,Dell Alienware m15 R4,Intel Core i7-10870H,16GB,NVIDIA GeForce RTX 3070,1TB SSD,Gaming,2199.99,38,https://www.bestbuy.com/site/alienware-m15-r4-15-6-gaming-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-3070-1tb-ssd-lunar-light/6429538.p?skuId=6429538
+39,"HP Omen 15""",AMD Ryzen 7 4800H,16GB,NVIDIA GeForce GTX 1660 Ti,512GB SSD,Gaming,1049.99,20,https://www.bestbuy.com/site/hp-omen-15-15-6-gaming-laptop-amd-ryzen-7-16gb-memory-nvidia-geforce-gtx-1660-ti-512gb-ssd-shadow-black/6427569.p?skuId=6427569
+40,"Lenovo Yoga 7i 14""",Intel Core i5-1135G7,12GB,Intel Iris Xe Graphics,512GB SSD,Convertible,999.99,21,https://www.bestbuy.com/site/lenovo-yoga-7i-14-2-in-1-14-touch-screen-laptop-intel-evo-platform-core-i5-12gb-memory-512gb-ssd-dark-moss/6469390.p?skuId=6469390
+41,"Dell G15 15.6""",AMD Ryzen 5 5600H,8GB,NVIDIA GeForce GTX 1650,256GB SSD,Gaming,849.99,22,https://www.bestbuy.com/site/dell-g15-15-6-gaming-laptop-amd-ryzen-5-8gb-memory-nvidia-geforce-gtx-1650-256gb-ssd/6474730.p?skuId=6474730
+42,"Asus VivoBook 15""",Intel Core i3-1115G4,8GB,Intel UHD Graphics,256GB SSD,Everyday,399.99,23,https://www.bestbuy.com/site/asus-vivobook-15-15-6-laptop-intel-core-i3-8gb-memory-256gb-ssd-slate-gray/6469380.p?skuId=6469380
+43,"HP Envy x360 15.6""",AMD Ryzen 5 5500U,8GB,AMD Radeon Graphics,512GB SSD,Convertible,729.99,24,https://www.bestbuy.com/site/hp-envy-x360-2-in-1-15-6-touch-screen-laptop-amd-ryzen-5-8gb-memory-512gb-ssd-natural-silver/6477737.p?skuId=6477737
+44,"Acer Aspire 5 15.6""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,512GB SSD,Everyday,599.99,25,https://www.bestbuy.com/site/acer-aspire-5-15-6-full-hd-laptop-intel-core-i5-1135g7-8gb-memory-512gb-ssd/6469383.p?skuId=6469383
+45,Microsoft Surface Laptop 4,Intel Core i7,16GB,Intel Iris Xe Graphics,512GB SSD,Ultrabook,1299.99,26,https://www.bestbuy.com/site/microsoft-surface-laptop-4-13-5-touch-screen-intel-evo-platform-core-i7-16gb-memory-512gb-ssd-matte-black/6462404.p?skuId=6462404
+46,Apple MacBook Air M1,Apple M1,8GB,Apple M1 GPU,256GB SSD,Ultrabook,999.99,27,https://www.bestbuy.com/site/apple-macbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-latest-model/6418597.p?skuId=6418597
+47,"Lenovo Legion 5 15""",AMD Ryzen 7 5800H,16GB,NVIDIA GeForce RTX 3060,512GB SSD,Gaming,1299.99,28,https://www.bestbuy.com/site/lenovo-legion-5-15-6-gaming-laptop-amd-ryzen-7-16gb-memory-nvidia-geforce-rtx-3060-512gb-ssd-phantom-blue/6450338.p?skuId=6450338
+48,"HP Pavilion 15""",AMD Ryzen 5 5500U,8GB,AMD Radeon Graphics,256GB SSD,Everyday,549.99,29,https://www.bestbuy.com/site/hp-pavilion-15-6-laptop-amd-ryzen-5-8gb-memory-256gb-ssd-jet-black/6455612.p?skuId=6455612
+49,"Asus ZenBook Flip 13""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Convertible,1099.99,30,https://www.bestbuy.com/site/asus-zenbook-flip-13-13-3-oled-touch-laptop-intel-evo-platform-core-i7-16gb-memory-512gb-ssd-pine-grey/6454347.p?skuId=6454347
+50,"Razer Blade Stealth 13""",Intel Core i7-1065G7,16GB,NVIDIA GeForce GTX 1650 Ti,512GB SSD,Ultrabook,1799.99,31,https://www.bestbuy.com/site/razer-blade-stealth-13-13-3-4k-uhd-touch-screen-gaming-laptop-intel-core-i7-16gb-memory-nvidia-geforce-gtx-1650-ti-512gb-ssd-black/6469150.p?skuId=6469150
+51,Dell Inspiron 14 7000,Intel Core i5,8GB,Intel Iris Xe Graphics,512GB SSD,Everyday,849.99,32,https://www.bestbuy.com/site/dell-inspiron-14-7000-14-full-hd-laptop-intel-core-i5-8gb-memory-512gb-ssd-silver/6450301.p?skuId=6450301
+52,HP Elite Dragonfly,Intel Core i5-8265U,8GB,Intel UHD Graphics 620,256GB SSD,Ultrabook,1599.99,33,https://www.bestbuy.com/site/hp-elite-dragonfly-13-3-touch-screen-laptop-intel-core-i5-8gb-memory-256gb-ssd-4g-lte-sparkling-black/6424354.p?skuId=6424354
+53,Microsoft Surface Go 2,Intel Pentium Gold 4425Y,8GB,Intel UHD Graphics 615,128GB SSD,Convertible,549.99,34,https://www.bestbuy.com/site/microsoft-surface-go-2-10-5-touch-screen-intel-pentium-gold-8gb-memory-128gb-ssd-with-black-type-cover/6432759.p?skuId=6432759
+54,"HP Envy 13""",Intel Core i7-1165G7,8GB,Intel Iris Xe Graphics,256GB SSD,Ultrabook,999.99,35,https://www.bestbuy.com/site/hp-envy-13-13-3-touch-screen-laptop-intel-evo-platform-core-i7-8gb-memory-256gb-ssd-natural-silver/6469334.p?skuId=6469334
+55,Acer Predator Helios 300,Intel Core i7-10750H,16GB,NVIDIA GeForce RTX 2060,512GB SSD,Gaming,1299.99,36,https://www.bestbuy.com/site/acer-predator-helios-300-15-6-gaming-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-2060-512gb-ssd/6417677.p?skuId=6417677
+56,Lenovo ThinkPad X1 Carbon,Intel Core i5-10210U,8GB,Intel UHD Graphics,256GB SSD,Ultrabook,1349.99,37,https://www.bestbuy.com/site/lenovo-thinkpad-x1-carbon-14-laptop-intel-core-i5-8gb-memory-256gb-ssd-black/6450334.p?skuId=6450334
+57,Dell Alienware m15 R4,Intel Core i7-10870H,16GB,NVIDIA GeForce RTX 3070,1TB SSD,Gaming,2199.99,38,https://www.bestbuy.com/site/alienware-m15-r4-15-6-gaming-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-3070-1tb-ssd-lunar-light/6429538.p?skuId=6429538
+58,"HP Chromebook x360 14""",Intel Core i3-10110U,8GB,Intel UHD Graphics,64GB eMMC,Convertible,499.99,39,https://www.bestbuy.com/site/hp-chromebook-x360-14-intel-core-i3-8gb-memory-64gb-emmc-14/6453098.p?skuId=6453098
+59,"Asus TUF Dash 15""",Intel Core i7-11370H,8GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,Gaming,1099.99,40,https://www.bestbuy.com/site/asus-tuf-dash-15-6-gaming-laptop-intel-core-i7-11370h-8gb-memory-nvidia-geforce-rtx-3050-ti-512gb-ssd/6465624.p?skuId=6465624
+60,HP ZBook Firefly 15 G8,Intel Core i5-1135G7,16GB,Intel Iris Xe Graphics,512GB SSD,Workstation,1399.99,41,https://www.bestbuy.com/site/hp-zbook-firefly-15-g8-15-6-laptop-intel-core-i5-16gb-memory-512gb-ssd/6450343.p?skuId=6450343
+61,Lenovo ThinkBook 14s Yoga,Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Convertible,1199.99,42,https://www.bestbuy.com/site/lenovo-thinkbook-14s-yoga-2-in-1-14-touch-screen-laptop-intel-evo-platform-core-i7-16gb-memory-512gb-ssd/6454317.p?skuId=6454317
+62,Dell Precision 3551,Intel Core i5-10400H,8GB,NVIDIA Quadro P620,256GB SSD,Workstation,1299.99,43,https://www.bestbuy.com/site/dell-precision-3551-15-6-laptop-intel-core-i5-8gb-memory-256gb-ssd/6450382.p?skuId=6450382
+63,HP EliteBook 840 G7,Intel Core i5-10210U,16GB,Intel UHD Graphics,512GB SSD,Business,1399.99,44,https://www.bestbuy.com/site/hp-elitebook-840-g7-14-laptop-intel-core-i5-16gb-memory-512gb-ssd/6450319.p?skuId=6450319
+64,Microsoft Surface Pro X,Microsoft SQ1,8GB,Microsoft SQ1 Adreno 685 GPU,128GB SSD,Convertible,999.99,45,https://www.bestbuy.com/site/microsoft-surface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-with-black-type-cover/6432457.p?skuId=6432457
+65,HP ProBook 450 G7,Intel Core i5-10210U,8GB,Intel UHD Graphics,256GB SSD,Business,899.99,46,https://www.bestbuy.com/site/hp-probook-450-g7-15-6-laptop-intel-core-i5-8gb-memory-256gb-ssd/6450331.p?skuId=6450331
+66,"Asus ROG Strix Scar 15""",AMD Ryzen 9 5900HX,16GB,NVIDIA GeForce RTX 3080,1TB SSD,Gaming,2499.99,47,https://www.bestbuy.com/site/asus-rog-strix-scar-15-15-6-fhd-gaming-laptop-amd-ryzen-9-16gb-memory-nvidia-geforce-rtx-3080-1tb-ssd/6444315.p?skuId=6444315
+67,"Lenovo Flex 5 14""",AMD Ryzen 5 4500U,16GB,AMD Radeon Graphics,256GB SSD,Convertible,629.99,48,https://www.bestbuy.com/site/lenovo-flex-5-14-2-in-1-touch-screen-laptop-amd-ryzen-5-16gb-memory-256gb-ssd/6461949.p?skuId=6461949
+68,"HP Spectre x360 14""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Convertible,1399.99,49,https://www.bestbuy.com/site/hp-spectre-x360-14-2-in-1-14-touch-screen-laptop-intel-evo-platform-core-i7-16gb-memory-512gb-ssd-nightfall-black/6461942.p?skuId=6461942
+69,"Samsung Galaxy Book Ion 13.3""",Intel Core i7-10510U,8GB,Intel UHD Graphics,512GB SSD,Ultrabook,1199.99,50,https://www.bestbuy.com/site/samsung-galaxy-book-ion-13-3-qled-laptop-intel-core-i7-8gb-memory-512gb-ssd-aura-silver/6451903.p?skuId=6451903
+70,"HP Pavilion Gaming 15""",AMD Ryzen 5 4600H,8GB,NVIDIA GeForce GTX 1650,256GB SSD,Gaming,749.99,51,https://www.example.com/hp-pavilion-gaming-15
+71,"Dell XPS 13""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,512GB SSD,Ultrabook,1299.99,52,https://www.example.com/dell-xps-13
+72,"Acer Nitro 5 15.6""",Intel Core i5-9300H,8GB,NVIDIA GeForce GTX 1050,256GB SSD,Gaming,699.99,53,https://www.example.com/acer-nitro-5
+73,"Lenovo IdeaPad 3 15""",Intel Core i3-1005G1,4GB,Intel UHD Graphics,128GB SSD,Everyday,399.99,54,https://www.example.com/lenovo-ideapad-3
+74,"Asus ROG Zephyrus G14""",AMD Ryzen 9 5900HS,16GB,NVIDIA GeForce RTX 3060,1TB SSD,Gaming,1499.99,55,https://www.example.com/asus-rog-zephyrus-g14
+75,"Microsoft Surface Book 3""",Intel Core i7-1065G7,16GB,NVIDIA GeForce GTX 1660 Ti,512GB SSD,Convertible,1899.99,56,https://www.example.com/surface-book-3
+76,"HP Spectre x360 13""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,256GB SSD,Convertible,1199.99,57,https://www.example.com/hp-spectre-x360
+77,"Dell Inspiron 15 5000""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Everyday,899.99,58,https://www.example.com/dell-inspiron-15-5000
+78,"Lenovo ThinkPad E15""",AMD Ryzen 7 4700U,8GB,AMD Radeon Graphics,256GB SSD,Business,849.99,59,https://www.example.com/lenovo-thinkpad-e15
+79,"Asus VivoBook S15""",Intel Core i5-10210U,8GB,Intel UHD Graphics,512GB SSD,Everyday,749.99,60,https://www.example.com/asus-vivobook-s15
+80,"Acer Swift 3 14""",AMD Ryzen 7 4700U,8GB,AMD Radeon Graphics,512GB SSD,Ultrabook,679.99,61,https://www.example.com/acer-swift-3
+81,"HP Envy 17""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,1TB SSD,Ultrabook,1599.99,62,https://www.example.com/hp-envy-17
+82,"Dell Latitude 7420""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,256GB SSD,Business,1299.99,63,https://www.example.com/dell-latitude-7420
+83,"Lenovo Yoga C740 14""",Intel Core i5-10210U,8GB,Intel UHD Graphics,256GB SSD,Convertible,899.99,64,https://www.example.com/lenovo-yoga-c740
+84,"Asus ZenBook 14""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Ultrabook,1199.99,65,https://www.example.com/asus-zenbook-14
+85,"Acer Chromebook 314""",Intel Celeron N4000,4GB,Intel UHD Graphics 600,32GB eMMC,Chromebook,299.99,66,https://www.example.com/acer-chromebook-314
+86,"HP EliteBook 850 G7""",Intel Core i7-10510U,16GB,Intel UHD Graphics,512GB SSD,Business,1499.99,67,https://www.example.com/hp-elitebook-850-g7
+87,"Dell G3 15""",Intel Core i5-9300H,8GB,NVIDIA GeForce GTX 1660 Ti,512GB SSD,Gaming,999.99,68,https://www.example.com/dell-g3-15
+88,"Lenovo IdeaPad Flex 5""",AMD Ryzen 5 4500U,8GB,AMD Radeon Graphics,256GB SSD,Convertible,599.99,69,https://www.example.com/lenovo-ideapad-flex-5
+89,"Asus Chromebook Flip C434""",Intel Core m3-8100Y,4GB,Intel UHD Graphics 615,64GB eMMC,Convertible,549.99,70,https://www.example.com/asus-chromebook-flip-c434
+90,"HP Omen 17""",Intel Core i7-10750H,16GB,NVIDIA GeForce RTX 2070,1TB SSD,Gaming,1799.99,71,https://www.example.com/hp-omen-17
+91,"Dell Precision 5550""",Intel Core i7-10850H,16GB,NVIDIA Quadro T1000,512GB SSD,Workstation,2299.99,72,https://www.example.com/dell-precision-5550
+92,"Microsoft Surface Laptop Go""",Intel Core i5-1035G1,8GB,Intel UHD Graphics,128GB SSD,Ultrabook,749.99,73,https://www.example.com/surface-laptop-go
+93,"Apple MacBook Pro 16""",Intel Core i9,16GB,AMD Radeon Pro 5500M,1TB SSD,Ultrabook,2799.99,74,https://www.example.com/macbook-pro-16
+94,"Asus TUF Gaming A15""",AMD Ryzen 5 4600H,8GB,NVIDIA GeForce GTX 1650,512GB SSD,Gaming,899.99,75,https://www.example.com/asus-tuf-gaming-a15
+95,"HP Chromebook 14""",Intel Celeron N3350,4GB,Intel HD Graphics 500,32GB eMMC,Chromebook,249.99,76,https://www.example.com/hp-chromebook-14
+96,"Dell Vostro 15 3000""",Intel Core i3-1005G1,4GB,Intel UHD Graphics,128GB SSD,Business,499.99,77,https://www.example.com/dell-vostro-15-3000
+97,"Lenovo Legion Y540 15""",Intel Core i7-9750H,16GB,NVIDIA GeForce RTX 2060,512GB SSD,Gaming,1399.99,78,https://www.example.com/lenovo-legion-y540
+98,"Acer Spin 5""",Intel Core i5-1035G4,8GB,Intel Iris Plus Graphics,512GB SSD,Convertible,999.99,79,https://www.example.com/acer-spin-5
+99,"HP Envy 13""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,256GB SSD,Ultrabook,999.99,80,https://www.example.com/hp-envy-13
+100,"Dell XPS 15""",Intel Core i7-10750H,16GB,NVIDIA GeForce GTX 1650 Ti,1TB SSD,Ultrabook,1999.99,81,https://www.example.com/dell-xps-15
+101,"Lenovo ThinkPad X13""",AMD Ryzen 7 PRO 4750U,8GB,AMD Radeon Graphics,256GB SSD,Business,1299.99,82,https://www.example.com/lenovo-thinkpad-x13
+102,"Asus ZenBook Pro Duo""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 3070,1TB SSD,Ultrabook,2999.99,83,https://www.example.com/asus-zenbook-pro-duo
+103,"Acer Predator Triton 500""",Intel Core i7-10750H,16GB,NVIDIA GeForce RTX 2070 Super,1TB SSD,Gaming,2199.99,84,https://www.example.com/acer-predator-triton-500
+104,"HP Pavilion x360 14""",Intel Core i5-10210U,8GB,Intel UHD Graphics,256GB SSD,Convertible,749.99,85,https://www.example.com/hp-pavilion-x360
+105,"Dell Inspiron 13 7000""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,512GB SSD,Convertible,1099.99,86,https://www.example.com/dell-inspiron-13-7000
+106,"Lenovo Yoga 9i 14""",Intel Core i7-1185G7,16GB,Intel Iris Xe Graphics,1TB SSD,Convertible,1799.99,87,https://www.example.com/lenovo-yoga-9i
+107,"Asus ROG Strix G15""",AMD Ryzen 7 5800H,16GB,NVIDIA GeForce RTX 3060,512GB SSD,Gaming,1499.99,88,https://www.example.com/asus-rog-strix-g15
+108,"HP Elite Dragonfly Max""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Business,1999.99,89,https://www.example.com/hp-elite-dragonfly-max
+109,"Dell XPS 17""",Intel Core i9-10885H,32GB,NVIDIA GeForce RTX 2060,1TB SSD,Ultrabook,2999.99,90,https://www.example.com/dell-xps-17
+110,"Microsoft Surface Pro 7""",Intel Core i5-1035G4,8GB,Intel Iris Plus Graphics,128GB SSD,Convertible,899.99,91,https://www.example.com/surface-pro-7
+111,"Apple MacBook Pro 13""",Apple M1,8GB,Apple M1 GPU,256GB SSD,Ultrabook,1299.99,92,https://www.example.com/macbook-pro-13
+112,"Asus VivoBook 14""",AMD Ryzen 5 4500U,8GB,AMD Radeon Graphics,512GB SSD,Everyday,599.99,93,https://www.example.com/asus-vivobook-14
+113,"Acer ConceptD 7""",Intel Core i7-9750H,32GB,NVIDIA GeForce RTX 2080,1TB SSD,Workstation,2399.99,94,https://www.example.com/acer-conceptd-7
+114,"HP Chromebook x360 12""",Intel Celeron N4000,4GB,Intel UHD Graphics 600,32GB eMMC,Chromebook,349.99,95,https://www.example.com/hp-chromebook-x360-12
+115,"Dell Inspiron 14 5000""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,256GB SSD,Everyday,749.99,96,https://www.example.com/dell-inspiron-14-5000
+116,"Lenovo Legion 7i 15""",Intel Core i7-10875H,16GB,NVIDIA GeForce RTX 2070,512GB SSD,Gaming,1799.99,97,https://www.example.com/lenovo-legion-7i
+117,"Asus ZenBook 13""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,512GB SSD,Ultrabook,999.99,98,https://www.example.com/asus-zenbook-13
+118,"Acer Aspire 7 15.6""",AMD Ryzen 7 3750H,8GB,NVIDIA GeForce GTX 1650,512GB SSD,Gaming,799.99,99,https://www.example.com/acer-aspire-7
+119,"HP ProBook 430 G7""",Intel Core i5-10210U,8GB,Intel UHD Graphics,256GB SSD,Business,899.99,100,https://www.example.com/hp-probook-430-g7
+120,"Dell Alienware m17 R4""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 3080,2TB SSD,Gaming,3499.99,101,https://www.example.com/alienware-m17-r4
+121,"Lenovo IdeaPad 5 14""",AMD Ryzen 5 4500U,8GB,AMD Radeon Graphics,256GB SSD,Everyday,649.99,102,https://www.example.com/lenovo-ideapad-5
+122,"Asus VivoBook Flip 14""",Intel Core i3-1115G4,4GB,Intel UHD Graphics,128GB SSD,Convertible,549.99,103,https://www.example.com/asus-vivobook-flip-14
+123,"Acer Swift 5 14""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,512GB SSD,Ultrabook,1299.99,104,https://www.example.com/acer-swift-5
+124,"HP Pavilion 14""",AMD Ryzen 3 3200U,4GB,AMD Radeon Vega 3,128GB SSD,Everyday,429.99,105,https://www.example.com/hp-pavilion-14
+125,"Dell Precision 3541""",Intel Core i5-9400H,8GB,NVIDIA Quadro P620,256GB SSD,Workstation,1099.99,106,https://www.example.com/dell-precision-3541
+126,"Microsoft Surface Laptop 3""",Intel Core i5-1035G7,8GB,Intel Iris Plus Graphics,128GB SSD,Ultrabook,999.99,107,https://www.example.com/surface-laptop-3
+127,"Apple MacBook Air 13""",Intel Core i5,8GB,Intel Iris Plus Graphics,512GB SSD,Ultrabook,1199.99,108,https://www.example.com/macbook-air-13
+128,"Lenovo ThinkPad T490""",Intel Core i7-8565U,16GB,Intel UHD Graphics 620,512GB SSD,Business,1499.99,109,https://www.example.com/thinkpad-t490
+129,"Asus ROG Flow X13""",AMD Ryzen 9 5900HS,32GB,NVIDIA GeForce GTX 1650,1TB SSD,Convertible,2299.99,110,https://www.example.com/rog-flow-x13
+130,"Acer Nitro 7 15.6""",Intel Core i7-9750H,16GB,NVIDIA GeForce GTX 1650,512GB SSD,Gaming,999.99,111,https://www.example.com/acer-nitro-7
+131,"HP Envy x360 13""",AMD Ryzen 5 4500U,8GB,AMD Radeon Graphics,256GB SSD,Convertible,849.99,112,https://www.example.com/hp-envy-x360-13
+132,"Dell Inspiron 15 3000""",Intel Core i5-1035G1,8GB,Intel UHD Graphics,256GB SSD,Everyday,649.99,113,https://www.example.com/dell-inspiron-15-3000
+133,"Lenovo IdeaPad L340 15""",Intel Core i5-9300H,8GB,NVIDIA GeForce GTX 1650,512GB SSD,Gaming,799.99,114,https://www.example.com/lenovo-ideapad-l340
+134,"Asus TUF Gaming FX505""",AMD Ryzen 5 3550H,8GB,NVIDIA GeForce GTX 1650,256GB SSD,Gaming,699.99,115,https://www.example.com/asus-tuf-gaming-fx505
+135,"Acer Chromebook 15""",Intel Celeron N3060,4GB,Intel HD Graphics 400,16GB eMMC,Chromebook,199.99,116,https://www.example.com/acer-chromebook-15
+136,"HP Elite x2 G4""",Intel Core i7-8665U,16GB,Intel UHD Graphics 620,512GB SSD,Convertible,1899.99,117,https://www.example.com/hp-elite-x2
+137,"Dell Precision 7540""",Intel Core i7-9750H,16GB,NVIDIA Quadro T2000,512GB SSD,Workstation,2499.99,118,https://www.example.com/dell-precision-7540
+138,"Lenovo ThinkPad L14""",AMD Ryzen 7 4750U,8GB,AMD Radeon Graphics,256GB SSD,Business,1149.99,119,https://www.example.com/lenovo-thinkpad-l14
+139,"Asus ROG Zephyrus S17""",Intel Core i7-10875H,32GB,NVIDIA GeForce RTX 2080 Super,1TB SSD,Gaming,3499.99,120,https://www.example.com/asus-rog-zephyrus-s17
+140,"Acer Predator Helios 700""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 2080 Super,2TB SSD,Gaming,4199.99,121,https://www.example.com/acer-predator-helios-700
+141,"HP ProBook 455 G7""",AMD Ryzen 7 4700U,16GB,AMD Radeon Graphics,512GB SSD,Business,999.99,122,https://www.example.com/hp-probook-455-g7
+142,"Dell XPS 13 2-in-1""",Intel Core i5-1035G1,8GB,Intel UHD Graphics,256GB SSD,Convertible,1299.99,123,https://www.example.com/dell-xps-13-2-in-1
+143,"Lenovo IdeaPad 1 14""",AMD A6-9220e,4GB,AMD Radeon R4,64GB eMMC,Everyday,249.99,124,https://www.example.com/lenovo-ideapad-1
+144,"Asus ZenBook S 13.9""",Intel Core i7-8550U,16GB,Intel UHD Graphics 620,512GB SSD,Ultrabook,1499.99,125,https://www.example.com/asus-zenbook-s
+145,"Acer Aspire 3 15.6""",Intel Core i3-8130U,6GB,Intel UHD Graphics 620,1TB HDD,Everyday,399.99,126,https://www.example.com/acer-aspire-3
+146,"HP ZBook Studio G7""",Intel Core i9-10885H,32GB,NVIDIA Quadro RTX 5000,1TB SSD,Workstation,3999.99,127,https://www.example.com/hp-zbook-studio-g7
+147,"Dell Inspiron 17 7000""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,1TB SSD,Everyday,1499.99,128,https://www.example.com/dell-inspiron-17-7000
+148,"Microsoft Surface Pro 6""",Intel Core i5-8250U,8GB,Intel UHD Graphics 620,128GB SSD,Convertible,799.99,129,https://www.example.com/surface-pro-6
+149,"Apple MacBook Pro 15""",Intel Core i7-9750H,16GB,AMD Radeon Pro 555X,512GB SSD,Ultrabook,2399.99,130,https://www.example.com/macbook-pro-15
+150,"Asus VivoBook 15""",AMD Ryzen 7 3700U,8GB,AMD Radeon RX Vega 10,512GB SSD,Everyday,749.99,131,https://www.example.com/asus-vivobook-15
+151,"Acer Chromebook Spin 13""",Intel Core i5-8250U,8GB,Intel UHD Graphics 620,128GB eMMC,Convertible,899.99,132,https://www.example.com/acer-chromebook-spin-13
+152,"HP EliteBook x360 1040 G6""",Intel Core i7-8665U,16GB,Intel UHD Graphics 620,512GB SSD,Convertible,1799.99,133,https://www.example.com/hp-elitebook-x360-1040-g6
+153,"Dell Latitude 7410""",Intel Core i7-10610U,16GB,Intel UHD Graphics,512GB SSD,Business,2199.99,134,https://www.example.com/dell-latitude-7410
+154,"Lenovo IdeaPad 3 Chromebook 11""",Intel Celeron N4020,4GB,Intel UHD Graphics 600,64GB eMMC,Chromebook,299.99,135,https://www.example.com/lenovo-ideapad-3-chromebook-11
+155,"Asus ROG Zephyrus G15""",AMD Ryzen 9 5900HS,16GB,NVIDIA GeForce RTX 3080,1TB SSD,Gaming,2499.99,136,https://www.example.com/asus-rog-zephyrus-g15
+156,"Acer Aspire 5 Slim 15.6""",AMD Ryzen 3 3200U,4GB,AMD Radeon Vega 3,128GB SSD,Everyday,349.99,137,https://www.example.com/acer-aspire-5-slim
+157,"HP Omen X 2S 15""",Intel Core i9-9880H,32GB,NVIDIA GeForce RTX 2080,1TB SSD,Gaming,3999.99,138,https://www.example.com/hp-omen-x-2s
+158,"Dell G5 15 SE""",AMD Ryzen 5 4600H,8GB,AMD Radeon RX 5600M,512GB SSD,Gaming,899.99,139,https://www.example.com/dell-g5-15-se
+159,"Lenovo ThinkPad X1 Extreme""",Intel Core i7-10850H,32GB,NVIDIA GeForce GTX 1650 Ti,1TB SSD,Business,2999.99,140,https://www.example.com/thinkpad-x1-extreme
+160,"Asus ZenBook 14 Ultralight""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,1TB SSD,Ultrabook,1699.99,141,https://www.example.com/asus-zenbook-14-ultralight
+161,"Acer Swift 1 14""",Intel Pentium Silver N5030,4GB,Intel UHD Graphics 605,64GB eMMC,Everyday,349.99,142,https://www.example.com/acer-swift-1
+162,"HP Chromebook 11""",MediaTek MT8183,4GB,ARM Mali-G72 MP3,32GB eMMC,Chromebook,229.99,143,https://www.example.com/hp-chromebook-11
+163,"Dell XPS 13 9310""",Intel Core i7-1185G7,16GB,Intel Iris Xe Graphics,1TB SSD,Ultrabook,2299.99,144,https://www.example.com/dell-xps-13-9310
+164,"Microsoft Surface Book 2""",Intel Core i7-8650U,16GB,NVIDIA GeForce GTX 1060,512GB SSD,Convertible,2199.99,145,https://www.example.com/surface-book-2
+165,"Apple MacBook Pro 14""",Apple M1 Pro,16GB,Apple M1 Pro GPU,512GB SSD,Ultrabook,1999.99,146,https://www.example.com/macbook-pro-14
+166,"Asus ZenBook 15""",Intel Core i7-10510U,16GB,NVIDIA GeForce GTX 1650,512GB SSD,Ultrabook,1399.99,147,https://www.example.com/asus-zenbook-15
+167,"Acer Chromebook 514""",Intel Celeron N3450,4GB,Intel HD Graphics 500,64GB eMMC,Chromebook,399.99,148,https://www.example.com/acer-chromebook-514
+168,"HP EliteBook 830 G6""",Intel Core i5-8265U,8GB,Intel UHD Graphics 620,256GB SSD,Business,1299.99,149,https://www.example.com/hp-elitebook-830-g6
+169,"Dell Latitude 5510""",Intel Core i7-10610U,16GB,Intel UHD Graphics,512GB SSD,Business,1799.99,150,https://www.example.com/dell-latitude-5510
+170,"HP Pavilion Gaming 15""",AMD Ryzen 5 4600H,8GB,NVIDIA GeForce GTX 1650,256GB SSD,Gaming,749.99,51,https://www.example.com/hp-pavilion-gaming-15
+171,"Dell XPS 13""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,512GB SSD,Ultrabook,1299.99,52,https://www.example.com/dell-xps-13
+172,"Acer Nitro 5 15.6""",Intel Core i5-9300H,8GB,NVIDIA GeForce GTX 1050,256GB SSD,Gaming,699.99,53,https://www.example.com/acer-nitro-5
+173,"Lenovo IdeaPad 3 15""",Intel Core i3-1005G1,4GB,Intel UHD Graphics,128GB SSD,Everyday,399.99,54,https://www.example.com/lenovo-ideapad-3
+174,"Asus ROG Zephyrus G14""",AMD Ryzen 9 5900HS,16GB,NVIDIA GeForce RTX 3060,1TB SSD,Gaming,1499.99,55,https://www.example.com/asus-rog-zephyrus-g14
+175,"Microsoft Surface Book 3""",Intel Core i7-1065G7,16GB,NVIDIA GeForce GTX 1660 Ti,512GB SSD,Convertible,1899.99,56,https://www.example.com/surface-book-3
+176,"HP Spectre x360 13""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,256GB SSD,Convertible,1199.99,57,https://www.example.com/hp-spectre-x360
+177,"Dell Inspiron 15 5000""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Everyday,899.99,58,https://www.example.com/dell-inspiron-15-5000
+178,"Lenovo ThinkPad E15""",AMD Ryzen 7 4700U,8GB,AMD Radeon Graphics,256GB SSD,Business,849.99,59,https://www.example.com/lenovo-thinkpad-e15
+179,"Asus VivoBook S15""",Intel Core i5-10210U,8GB,Intel UHD Graphics,512GB SSD,Everyday,749.99,60,https://www.example.com/asus-vivobook-s15
+180,"Acer Swift 3 14""",AMD Ryzen 7 4700U,8GB,AMD Radeon Graphics,512GB SSD,Ultrabook,679.99,61,https://www.example.com/acer-swift-3
+181,"HP Envy 17""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,1TB SSD,Ultrabook,1599.99,62,https://www.example.com/hp-envy-17
+182,"Dell Latitude 7420""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,256GB SSD,Business,1299.99,63,https://www.example.com/dell-latitude-7420
+183,"Lenovo Yoga C740 14""",Intel Core i5-10210U,8GB,Intel UHD Graphics,256GB SSD,Convertible,899.99,64,https://www.example.com/lenovo-yoga-c740
+184,"Asus ZenBook 14""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Ultrabook,1199.99,65,https://www.example.com/asus-zenbook-14
+185,"Acer Chromebook 314""",Intel Celeron N4000,4GB,Intel UHD Graphics 600,32GB eMMC,Chromebook,299.99,66,https://www.example.com/acer-chromebook-314
+186,"HP EliteBook 850 G7""",Intel Core i7-10510U,16GB,Intel UHD Graphics,512GB SSD,Business,1499.99,67,https://www.example.com/hp-elitebook-850-g7
+187,"Dell G3 15""",Intel Core i5-9300H,8GB,NVIDIA GeForce GTX 1660 Ti,512GB SSD,Gaming,999.99,68,https://www.example.com/dell-g3-15
+188,"Lenovo IdeaPad Flex 5""",AMD Ryzen 5 4500U,8GB,AMD Radeon Graphics,256GB SSD,Convertible,599.99,69,https://www.example.com/lenovo-ideapad-flex-5
+189,"Asus Chromebook Flip C434""",Intel Core m3-8100Y,4GB,Intel UHD Graphics 615,64GB eMMC,Convertible,549.99,70,https://www.example.com/asus-chromebook-flip-c434
+190,"HP Omen 17""",Intel Core i7-10750H,16GB,NVIDIA GeForce RTX 2070,1TB SSD,Gaming,1799.99,71,https://www.example.com/hp-omen-17
+191,"Dell Precision 5550""",Intel Core i7-10850H,16GB,NVIDIA Quadro T1000,512GB SSD,Workstation,2299.99,72,https://www.example.com/dell-precision-5550
+192,"Microsoft Surface Laptop Go""",Intel Core i5-1035G1,8GB,Intel UHD Graphics,128GB SSD,Ultrabook,749.99,73,https://www.example.com/surface-laptop-go
+193,"Apple MacBook Pro 16""",Intel Core i9,16GB,AMD Radeon Pro 5500M,1TB SSD,Ultrabook,2799.99,74,https://www.example.com/macbook-pro-16
+194,"Asus TUF Gaming A15""",AMD Ryzen 5 4600H,8GB,NVIDIA GeForce GTX 1650,512GB SSD,Gaming,899.99,75,https://www.example.com/asus-tuf-gaming-a15
+195,"HP Chromebook 14""",Intel Celeron N3350,4GB,Intel HD Graphics 500,32GB eMMC,Chromebook,249.99,76,https://www.example.com/hp-chromebook-14
+196,"Dell Vostro 15 3000""",Intel Core i3-1005G1,4GB,Intel UHD Graphics,128GB SSD,Business,499.99,77,https://www.example.com/dell-vostro-15-3000
+197,"Lenovo Legion Y540 15""",Intel Core i7-9750H,16GB,NVIDIA GeForce RTX 2060,512GB SSD,Gaming,1399.99,78,https://www.example.com/lenovo-legion-y540
+198,"Acer Spin 5""",Intel Core i5-1035G4,8GB,Intel Iris Plus Graphics,512GB SSD,Convertible,999.99,79,https://www.example.com/acer-spin-5
+199,"HP Envy 13""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,256GB SSD,Ultrabook,999.99,80,https://www.example.com/hp-envy-13
+200,"Dell XPS 15""",Intel Core i7-10750H,16GB,NVIDIA GeForce GTX 1650 Ti,1TB SSD,Ultrabook,1999.99,81,https://www.example.com/dell-xps-15
+201,"Lenovo ThinkPad X13""",AMD Ryzen 7 PRO 4750U,8GB,AMD Radeon Graphics,256GB SSD,Business,1299.99,82,https://www.example.com/lenovo-thinkpad-x13
+202,"Asus ZenBook Pro Duo""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 3070,1TB SSD,Ultrabook,2999.99,83,https://www.example.com/asus-zenbook-pro-duo
+203,"Acer Predator Triton 500""",Intel Core i7-10750H,16GB,NVIDIA GeForce RTX 2070 Super,1TB SSD,Gaming,2199.99,84,https://www.example.com/acer-predator-triton-500
+204,"HP Pavilion x360 14""",Intel Core i5-10210U,8GB,Intel UHD Graphics,256GB SSD,Convertible,749.99,85,https://www.example.com/hp-pavilion-x360
+205,"Dell Inspiron 13 7000""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,512GB SSD,Convertible,1099.99,86,https://www.example.com/dell-inspiron-13-7000
+206,"Lenovo Yoga 9i 14""",Intel Core i7-1185G7,16GB,Intel Iris Xe Graphics,1TB SSD,Convertible,1799.99,87,https://www.example.com/lenovo-yoga-9i
+207,"Asus ROG Strix G15""",AMD Ryzen 7 5800H,16GB,NVIDIA GeForce RTX 3060,512GB SSD,Gaming,1499.99,88,https://www.example.com/asus-rog-strix-g15
+208,"HP Elite Dragonfly Max""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,512GB SSD,Business,1999.99,89,https://www.example.com/hp-elite-dragonfly-max
+209,"Dell XPS 17""",Intel Core i9-10885H,32GB,NVIDIA GeForce RTX 2060,1TB SSD,Ultrabook,2999.99,90,https://www.example.com/dell-xps-17
+210,"Microsoft Surface Pro 7""",Intel Core i5-1035G4,8GB,Intel Iris Plus Graphics,128GB SSD,Convertible,899.99,91,https://www.example.com/surface-pro-7
+211,"Apple MacBook Pro 13""",Apple M1,8GB,Apple M1 GPU,256GB SSD,Ultrabook,1299.99,92,https://www.example.com/macbook-pro-13
+212,"Asus VivoBook 14""",AMD Ryzen 5 4500U,8GB,AMD Radeon Graphics,512GB SSD,Everyday,599.99,93,https://www.example.com/asus-vivobook-14
+213,"Acer ConceptD 7""",Intel Core i7-9750H,32GB,NVIDIA GeForce RTX 2080,1TB SSD,Workstation,2399.99,94,https://www.example.com/acer-conceptd-7
+214,"HP Chromebook x360 12""",Intel Celeron N4000,4GB,Intel UHD Graphics 600,32GB eMMC,Chromebook,349.99,95,https://www.example.com/hp-chromebook-x360-12
+215,"Dell Inspiron 14 5000""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,256GB SSD,Everyday,749.99,96,https://www.example.com/dell-inspiron-14-5000
+216,"Lenovo Legion 7i 15""",Intel Core i7-10875H,16GB,NVIDIA GeForce RTX 2070,512GB SSD,Gaming,1799.99,97,https://www.example.com/lenovo-legion-7i
+217,"Asus ZenBook 13""",Intel Core i5-1135G7,8GB,Intel Iris Xe Graphics,512GB SSD,Ultrabook,999.99,98,https://www.example.com/asus-zenbook-13
+218,"Acer Aspire 7 15.6""",AMD Ryzen 7 3750H,8GB,NVIDIA GeForce GTX 1650,512GB SSD,Gaming,799.99,99,https://www.example.com/acer-aspire-7
+219,"HP ProBook 430 G7""",Intel Core i5-10210U,8GB,Intel UHD Graphics,256GB SSD,Business,899.99,100,https://www.example.com/hp-probook-430-g7
+220,"Dell Alienware m17 R4""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 3080,2TB SSD,Gaming,3499.99,101,https://www.example.com/alienware-m17-r4
+221,"Lenovo IdeaPad 5 14""",AMD Ryzen 5 4500U,8GB,AMD Radeon Graphics,256GB SSD,Everyday,649.99,102,https://www.example.com/lenovo-ideapad-5
+222,"Asus VivoBook Flip 14""",Intel Core i3-1115G4,4GB,Intel UHD Graphics,128GB SSD,Convertible,549.99,103,https://www.example.com/asus-vivobook-flip-14
+223,"Acer Swift 5 14""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,512GB SSD,Ultrabook,1299.99,104,https://www.example.com/acer-swift-5
+224,"HP Pavilion 14""",AMD Ryzen 3 3200U,4GB,AMD Radeon Vega 3,128GB SSD,Everyday,429.99,105,https://www.example.com/hp-pavilion-14
+225,"Dell Precision 3541""",Intel Core i5-9400H,8GB,NVIDIA Quadro P620,256GB SSD,Workstation,1099.99,106,https://www.example.com/dell-precision-3541
+226,"Microsoft Surface Laptop 3""",Intel Core i5-1035G7,8GB,Intel Iris Plus Graphics,128GB SSD,Ultrabook,999.99,107,https://www.example.com/surface-laptop-3
+227,"Apple MacBook Air 13""",Intel Core i5,8GB,Intel Iris Plus Graphics,512GB SSD,Ultrabook,1199.99,108,https://www.example.com/macbook-air-13
+228,"Lenovo ThinkPad T490""",Intel Core i7-8565U,16GB,Intel UHD Graphics 620,512GB SSD,Business,1499.99,109,https://www.example.com/thinkpad-t490
+229,"Asus ROG Flow X13""",AMD Ryzen 9 5900HS,32GB,NVIDIA GeForce GTX 1650,1TB SSD,Convertible,2299.99,110,https://www.example.com/rog-flow-x13
+230,"Acer Nitro 7 15.6""",Intel Core i7-9750H,16GB,NVIDIA GeForce GTX 1650,512GB SSD,Gaming,999.99,111,https://www.example.com/acer-nitro-7
+231,"HP Envy x360 13""",AMD Ryzen 5 4500U,8GB,AMD Radeon Graphics,256GB SSD,Convertible,849.99,112,https://www.example.com/hp-envy-x360-13
+232,"Dell Inspiron 15 3000""",Intel Core i5-1035G1,8GB,Intel UHD Graphics,256GB SSD,Everyday,649.99,113,https://www.example.com/dell-inspiron-15-3000
+233,"Lenovo IdeaPad L340 15""",Intel Core i5-9300H,8GB,NVIDIA GeForce GTX 1650,512GB SSD,Gaming,799.99,114,https://www.example.com/lenovo-ideapad-l340
+234,"Asus TUF Gaming FX505""",AMD Ryzen 5 3550H,8GB,NVIDIA GeForce GTX 1650,256GB SSD,Gaming,699.99,115,https://www.example.com/asus-tuf-gaming-fx505
+235,"Acer Chromebook 15""",Intel Celeron N3060,4GB,Intel HD Graphics 400,16GB eMMC,Chromebook,199.99,116,https://www.example.com/acer-chromebook-15
+236,"HP Elite x2 G4""",Intel Core i7-8665U,16GB,Intel UHD Graphics 620,512GB SSD,Convertible,1899.99,117,https://www.example.com/hp-elite-x2
+237,"Dell Precision 7540""",Intel Core i7-9750H,16GB,NVIDIA Quadro T2000,512GB SSD,Workstation,2499.99,118,https://www.example.com/dell-precision-7540
+238,"Lenovo ThinkPad L14""",AMD Ryzen 7 4750U,8GB,AMD Radeon Graphics,256GB SSD,Business,1149.99,119,https://www.example.com/lenovo-thinkpad-l14
+239,"Asus ROG Zephyrus S17""",Intel Core i7-10875H,32GB,NVIDIA GeForce RTX 2080 Super,1TB SSD,Gaming,3499.99,120,https://www.example.com/asus-rog-zephyrus-s17
+240,"Acer Predator Helios 700""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 2080 Super,2TB SSD,Gaming,4199.99,121,https://www.example.com/acer-predator-helios-700
+241,"HP ProBook 455 G7""",AMD Ryzen 7 4700U,16GB,AMD Radeon Graphics,512GB SSD,Business,999.99,122,https://www.example.com/hp-probook-455-g7
+242,"Dell XPS 13 2-in-1""",Intel Core i5-1035G1,8GB,Intel UHD Graphics,256GB SSD,Convertible,1299.99,123,https://www.example.com/dell-xps-13-2-in-1
+243,"Lenovo IdeaPad 1 14""",AMD A6-9220e,4GB,AMD Radeon R4,64GB eMMC,Everyday,249.99,124,https://www.example.com/lenovo-ideapad-1
+244,"Asus ZenBook S 13.9""",Intel Core i7-8550U,16GB,Intel UHD Graphics 620,512GB SSD,Ultrabook,1499.99,125,https://www.example.com/asus-zenbook-s
+245,"Acer Aspire 3 15.6""",Intel Core i3-8130U,6GB,Intel UHD Graphics 620,1TB HDD,Everyday,399.99,126,https://www.example.com/acer-aspire-3
+246,"HP ZBook Studio G7""",Intel Core i9-10885H,32GB,NVIDIA Quadro RTX 5000,1TB SSD,Workstation,3999.99,127,https://www.example.com/hp-zbook-studio-g7
+247,"Dell Inspiron 17 7000""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,1TB SSD,Everyday,1499.99,128,https://www.example.com/dell-inspiron-17-7000
+248,"Microsoft Surface Pro 6""",Intel Core i5-8250U,8GB,Intel UHD Graphics 620,128GB SSD,Convertible,799.99,129,https://www.example.com/surface-pro-6
+249,"Apple MacBook Pro 15""",Intel Core i7-9750H,16GB,AMD Radeon Pro 555X,512GB SSD,Ultrabook,2399.99,130,https://www.example.com/macbook-pro-15
+250,"Asus VivoBook 15""",AMD Ryzen 7 3700U,8GB,AMD Radeon RX Vega 10,512GB SSD,Everyday,749.99,131,https://www.example.com/asus-vivobook-15
+251,"Acer Chromebook Spin 13""",Intel Core i5-8250U,8GB,Intel UHD Graphics 620,128GB eMMC,Convertible,899.99,132,https://www.example.com/acer-chromebook-spin-13
+252,"HP EliteBook x360 1040 G6""",Intel Core i7-8665U,16GB,Intel UHD Graphics 620,512GB SSD,Convertible,1799.99,133,https://www.example.com/hp-elitebook-x360-1040-g6
+253,"Dell Latitude 7410""",Intel Core i7-10610U,16GB,Intel UHD Graphics,512GB SSD,Business,2199.99,134,https://www.example.com/dell-latitude-7410
+254,"Lenovo IdeaPad 3 Chromebook 11""",Intel Celeron N4020,4GB,Intel UHD Graphics 600,64GB eMMC,Chromebook,299.99,135,https://www.example.com/lenovo-ideapad-3-chromebook-11
+255,"Asus ROG Zephyrus G15""",AMD Ryzen 9 5900HS,16GB,NVIDIA GeForce RTX 3080,1TB SSD,Gaming,2499.99,136,https://www.example.com/asus-rog-zephyrus-g15
+256,"Acer Aspire 5 Slim 15.6""",AMD Ryzen 3 3200U,4GB,AMD Radeon Vega 3,128GB SSD,Everyday,349.99,137,https://www.example.com/acer-aspire-5-slim
+257,"HP Omen X 2S 15""",Intel Core i9-9880H,32GB,NVIDIA GeForce RTX 2080,1TB SSD,Gaming,3999.99,138,https://www.example.com/hp-omen-x-2s
+258,"Dell G5 15 SE""",AMD Ryzen 5 4600H,8GB,AMD Radeon RX 5600M,512GB SSD,Gaming,899.99,139,https://www.example.com/dell-g5-15-se
+259,"Lenovo ThinkPad X1 Extreme""",Intel Core i7-10850H,32GB,NVIDIA GeForce GTX 1650 Ti,1TB SSD,Business,2999.99,140,https://www.example.com/thinkpad-x1-extreme
+260,"Asus ZenBook 14 Ultralight""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,1TB SSD,Ultrabook,1699.99,141,https://www.example.com/asus-zenbook-14-ultralight
+261,"Acer Swift 1 14""",Intel Pentium Silver N5030,4GB,Intel UHD Graphics 605,64GB eMMC,Everyday,349.99,142,https://www.example.com/acer-swift-1
+262,"HP Chromebook 11""",MediaTek MT8183,4GB,ARM Mali-G72 MP3,32GB eMMC,Chromebook,229.99,143,https://www.example.com/hp-chromebook-11
+263,"Dell XPS 13 9310""",Intel Core i7-1185G7,16GB,Intel Iris Xe Graphics,1TB SSD,Ultrabook,2299.99,144,https://www.example.com/dell-xps-13-9310
+264,"Microsoft Surface Book 2""",Intel Core i7-8650U,16GB,NVIDIA GeForce GTX 1060,512GB SSD,Convertible,2199.99,145,https://www.example.com/surface-book-2
+265,"Apple MacBook Pro 14""",Apple M1 Pro,16GB,Apple M1 Pro GPU,512GB SSD,Ultrabook,1999.99,146,https://www.example.com/macbook-pro-14
+266,"Asus ZenBook 15""",Intel Core i7-10510U,16GB,NVIDIA GeForce GTX 1650,512GB SSD,Ultrabook,1399.99,147,https://www.example.com/asus-zenbook-15
+267,"Acer Chromebook 514""",Intel Celeron N3450,4GB,Intel HD Graphics 500,64GB eMMC,Chromebook,399.99,148,https://www.example.com/acer-chromebook-514
+268,"HP EliteBook 830 G6""",Intel Core i5-8265U,8GB,Intel UHD Graphics 620,256GB SSD,Business,1299.99,149,https://www.example.com/hp-elitebook-830-g6
+269,"Dell Latitude 5510""",Intel Core i7-10610U,16GB,Intel UHD Graphics,512GB SSD,Business,1799.99,150,https://www.example.com/dell-latitude-5510
+270,"HP Spectre x360 15""",Intel Core i7-10510U,16GB,NVIDIA GeForce MX250,2TB SSD,Convertible,1599.99,151,https://www.hp.com/us-en/shop/pdp/hp-spectre-x360-convertible-laptop-15t-eb000-touch-7xf32av-1
+271,"Dell XPS 15""",Intel Core i9-10885H,32GB,NVIDIA GeForce GTX 1650 Ti,2TB SSD,Ultrabook,2499.99,152,https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-7590-laptop
+272,"Apple MacBook Pro 16""",Apple M1 Pro,32GB,Apple M1 Pro GPU,2TB SSD,Ultrabook,3499.99,153,https://www.apple.com/macbook-pro-16/
+273,"Asus ROG Zephyrus G14""",AMD Ryzen 9 5900HS,32GB,NVIDIA GeForce RTX 3060,2TB SSD,Gaming,2199.99,154,https://www.asus.com/Laptops/ROG-Zephyrus-G14-Series/
+274,"Microsoft Surface Laptop 4""",Intel Core i7-1185G7,32GB,Intel Iris Xe Graphics,2TB SSD,Ultrabook,2399.99,155,https://www.microsoft.com/en-us/d/surface-laptop-4/946627fb12t1
+275,"HP Envy 15""",Intel Core i7-10750H,32GB,NVIDIA GeForce GTX 1660 Ti,2TB SSD,Ultrabook,1799.99,156,https://www.hp.com/us-en/shop/pdp/hp-envy-laptop-15t-ep100-touch-8n759av-1
+276,"Dell Alienware m15 R3""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 2080 Super,2TB SSD,Gaming,3499.99,157,https://www.dell.com/en-us/shop/alienware-m15-r3-gaming-laptop/spd/alienware-m15-r3-laptop
+277,"Apple MacBook Air 13""",Apple M1,16GB,Apple M1 GPU,2TB SSD,Ultrabook,2049.99,158,https://www.apple.com/macbook-air/
+278,"Asus ZenBook Pro Duo""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 3070,2TB SSD,Ultrabook,3499.99,159,https://www.asus.com/Laptops/For-Home/ZenBook/ZenBook-Pro-Duo-15-UX582/
+279,"Lenovo ThinkPad X1 Extreme""",Intel Core i7-10850H,32GB,NVIDIA GeForce GTX 1650 Ti,2TB SSD,Business,2999.99,160,https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/ThinkPad-X1-Extreme-Gen-4-Intel/p/20Y5000MUS
+280,"HP Omen 17""",Intel Core i9-10885H,32GB,NVIDIA GeForce RTX 2070,2TB SSD,Gaming,2999.99,161,https://www.hp.com/us-en/shop/pdp/omen-laptop-17-cb1087nr-8rj54ua-aba
+281,"Dell G7 17""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 2070,2TB SSD,Gaming,2799.99,162,https://www.dell.com/en-us/shop/dell-laptops/g7-17-gaming-laptop/spd/g-series-17-7700-laptop
+282,"Apple MacBook Pro 13""",Apple M1,16GB,Apple M1 GPU,2TB SSD,Ultrabook,2099.99,163,https://www.apple.com/macbook-pro-13/
+283,"Asus ROG Strix Scar 17""",AMD Ryzen 9 5900HX,32GB,NVIDIA GeForce RTX 3080,2TB SSD,Gaming,2999.99,164,https://www.asus.com/Laptops/ROG-Strix-SCAR-17-G733/
+284,"Microsoft Surface Book 3""",Intel Core i7-1065G7,32GB,NVIDIA GeForce GTX 1660 Ti,2TB SSD,Convertible,2999.99,165,https://www.microsoft.com/en-us/d/surface-book-3/8xbw9g3z71f1
+285,"HP Spectre x360 14""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Convertible,1999.99,166,https://www.hp.com/us-en/shop/pdp/hp-spectre-x360-convertible-laptop-14t-ea000-touch-9hp74av-1
+286,"Dell Precision 7550""",Intel Core i9-10885H,64GB,NVIDIA Quadro RTX 5000,2TB SSD,Workstation,4699.99,167,https://www.dell.com/en-us/work/shop/workstations-isv-certified-dell/precision-15-7550-mobile-workstation/spd/precision-15-7550-laptop
+287,"Apple MacBook Pro 14""",Apple M1 Pro,32GB,Apple M1 Pro GPU,2TB SSD,Ultrabook,3499.99,168,https://www.apple.com/macbook-pro-14/
+288,"Asus VivoBook S15""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Ultrabook,1199.99,169,https://www.asus.com/Laptops/For-Home/VivoBook/VivoBook-S15-S533/
+289,"Lenovo Legion 7i 15""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 2080 Super,2TB SSD,Gaming,3199.99,170,https://www.lenovo.com/us/en/laptops/legion-laptops/legion-7-series/Lenovo-Legion-7i-15/p/88GMY701421
+290,"HP EliteBook x360 1040 G7""",Intel Core i7-10810U,16GB,Intel UHD Graphics,2TB SSD,Convertible,2499.99,171,https://www.hp.com/us-en/shop/pdp/hp-elitebook-x360-1040-g7-notebook-pc-customizable-8cq01av-mb
+291,"Dell XPS 17""",Intel Core i9-11980HK,64GB,NVIDIA GeForce RTX 3080,2TB SSD,Ultrabook,3999.99,172,https://www.dell.com/en-us/shop/dell-laptops/xps-17-laptop/spd/xps-17-9700-laptop
+292,"Microsoft Surface Pro 7""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,2TB SSD,Convertible,1999.99,173,https://www.microsoft.com/en-us/p/surface-pro-7/8n17j0m5zzqs
+293,"Apple MacBook Pro 16""",Apple M1 Max,64GB,Apple M1 Max GPU,2TB SSD,Ultrabook,4699.99,174,https://www.apple.com/macbook-pro-16/
+294,"Asus TUF Dash F15""",Intel Core i7-11370H,32GB,NVIDIA GeForce RTX 3050 Ti,2TB SSD,Gaming,1499.99,175,https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Dash-F15-2021/
+295,"Lenovo ThinkPad T15g""",Intel Core i9-10885H,32GB,NVIDIA GeForce RTX 2080 Super,2TB SSD,Business,3799.99,176,https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T15g-Gen-1-Intel/p/20URT15G1A1
+296,"HP Omen 15""",AMD Ryzen 9 5900HX,32GB,NVIDIA GeForce RTX 3060,2TB SSD,Gaming,2499.99,177,https://www.hp.com/us-en/shop/pdp/omen-laptop-15-en1023dx
+297,"Dell Inspiron 15 7000""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Everyday,1499.99,178,https://www.dell.com/en-us/shop/dell-laptops/new-inspiron-15-7000-laptop/spd/inspiron-15-7501-laptop
+298,"Apple MacBook Air 13""",Apple M1,16GB,Apple M1 GPU,2TB SSD,Ultrabook,2049.99,179,https://www.apple.com/macbook-air/
+299,"Asus ZenBook Flip 15""",Intel Core i7-1165G7,16GB,NVIDIA GeForce MX450,2TB SSD,Convertible,1499.99,180,https://www.asus.com/Laptops/For-Home/ZenBook/ZenBook-Flip-15-UX564/
+300,"Lenovo Legion 5 Pro""",AMD Ryzen 7 5800H,32GB,NVIDIA GeForce RTX 3070,2TB SSD,Gaming,1999.99,181,https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Legion-5-Pro-16/p/82JQ005GUS
+301,"HP Pavilion x360 15""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,2TB SSD,Convertible,1299.99,182,https://www.hp.com/us-en/shop/pdp/hp-pavilion-x360-convertible-laptop-15t-dq200-touch-9gy24av-1
+302,"Dell G5 15""",Intel Core i7-10750H,32GB,NVIDIA GeForce RTX 2060,2TB SSD,Gaming,1799.99,183,https://www.dell.com/en-us/shop/dell-laptops/g5-15-gaming-laptop/spd/g-series-15-5500-laptop
+303,"Microsoft Surface Go 2""",Intel Core m3-8100Y,8GB,Intel UHD Graphics 615,2TB SSD,Convertible,999.99,184,https://www.microsoft.com/en-us/p/surface-go-2/8pt3s2vjmdr6
+304,"Apple MacBook Pro 13""",Apple M1,16GB,Apple M1 GPU,2TB SSD,Ultrabook,2099.99,185,https://www.apple.com/macbook-pro-13/
+305,"Asus ROG Zephyrus Duo 15""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 2080 Super,2TB SSD,Gaming,3999.99,186,https://www.asus.com/Laptops/ROG-Zephyrus-Duo-15-GX550/
+306,"Lenovo Yoga 9i 14""",Intel Core i7-1185G7,16GB,Intel Iris Xe Graphics,2TB SSD,Convertible,1899.99,187,https://www.lenovo.com/us/en/laptops/yoga/yoga-2-in-1-series/Yoga-9-14ITL5/p/82BG000CUS
+307,"HP Elite Dragonfly Max""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Business,2599.99,188,https://www.hp.com/us-en/shop/pdp/hp-elite-dragonfly-max-notebook-pc-customizable-314a6av-mb
+308,"Dell Precision 5750""",Intel Core i9-10885H,64GB,NVIDIA Quadro RTX 5000,2TB SSD,Workstation,4999.99,189,https://www.dell.com/en-us/work/shop/workstations-isv-certified-dell/precision-17-5750-mobile-workstation/spd/precision-17-5750-laptop
+309,"Apple MacBook Pro 16""",Apple M1 Max,64GB,Apple M1 Max GPU,2TB SSD,Ultrabook,4699.99,190,https://www.apple.com/macbook-pro-16/
+310,"Asus TUF Gaming F15""",Intel Core i7-11375H,32GB,NVIDIA GeForce RTX 3060,2TB SSD,Gaming,1599.99,191,https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-F15-2021/
+311,"Lenovo ThinkPad X1 Nano""",Intel Core i7-1160G7,16GB,Intel Iris Xe Graphics,2TB SSD,Business,2499.99,192,https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/ThinkPad-X1-Nano-Gen-1-Intel/p/20UN000EUS
+312,"HP Envy 17""",Intel Core i7-1165G7,32GB,NVIDIA GeForce MX450,2TB SSD,Ultrabook,1899.99,193,https://www.hp.com/us-en/shop/pdp/hp-envy-laptop-17t-cg100-8mp88av-1
+313,"Dell XPS 13 2-in-1""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Convertible,2199.99,194,https://www.dell.com/en-us/shop/dell-laptops/xps-13-2-in-1-laptop/spd/xps-13-9310-2-in-1-laptop
+314,"Microsoft Surface Laptop 4""",AMD Ryzen 7 4980U,32GB,AMD Radeon Graphics,2TB SSD,Ultrabook,2399.99,195,https://www.microsoft.com/en-us/d/surface-laptop-4/946627fb12t1
+315,"Apple MacBook Pro 14""",Apple M1 Pro,32GB,Apple M1 Pro GPU,2TB SSD,Ultrabook,3499.99,196,https://www.apple.com/macbook-pro-14/
+316,"Asus ZenBook Pro 15""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 3070,2TB SSD,Ultrabook,2999.99,197,https://www.asus.com/Laptops/For-Home/ZenBook/ZenBook-Pro-15-UX535/
+317,"Lenovo Legion 5i Pro""",Intel Core i7-11800H,32GB,NVIDIA GeForce RTX 3070,2TB SSD,Gaming,1999.99,198,https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Legion-5i-Pro-16/p/82JD001XUS
+318,"HP Pavilion x360 14""",Intel Core i5-1135G7,16GB,Intel Iris Xe Graphics,2TB SSD,Convertible,1199.99,199,https://www.hp.com/us-en/shop/pdp/hp-pavilion-x360-convertible-laptop-14t-dw100-touch-8rq14av-1
+319,"Dell G5 15 SE""",AMD Ryzen 7 4800H,32GB,AMD Radeon RX 5600M,2TB SSD,Gaming,1799.99,200,https://www.dell.com/en-us/shop/dell-laptops/g5-15-se-gaming-laptop/spd/g-series-15-se-5505-laptop
+320,"Microsoft Surface Pro X""",Microsoft SQ2,16GB,Microsoft SQ2 Adreno 690 GPU,2TB SSD,Convertible,1799.99,201,https://www.microsoft.com/en-us/p/surface-pro-x/8wq86hnq6h12
+321,"Apple MacBook Pro 13""",Apple M1,16GB,Apple M1 GPU,2TB SSD,Ultrabook,2099.99,202,https://www.apple.com/macbook-pro-13/
+322,"Asus ROG Strix G17""",AMD Ryzen 9 5900HX,32GB,NVIDIA GeForce RTX 3080,2TB SSD,Gaming,2999.99,203,https://www.asus.com/Laptops/For-Gaming/ROG-Strix/ROG-Strix-G17-2021/
+323,"Lenovo Yoga Slim 7i Pro""",Intel Core i7-11370H,16GB,Intel Iris Xe Graphics,2TB SSD,Ultrabook,1899.99,204,https://www.lenovo.com/us/en/laptops/yoga/yoga-slim-series/Yoga-Slim-7i-Pro-14/82NC002AUS
+324,"HP EliteBook x360 1030 G8""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Convertible,2199.99,205,https://www.hp.com/us-en/shop/pdp/hp-elitebook-x360-1030-g8-notebook-pc-customizable-37k44av-mb
+325,"Dell XPS 15""",Intel Core i9-11900H,64GB,NVIDIA GeForce RTX 3050 Ti,2TB SSD,Ultrabook,3299.99,206,https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9510-laptop
+326,"Microsoft Surface Book 3""",Intel Core i7-1065G7,32GB,NVIDIA GeForce GTX 1660 Ti,2TB SSD,Convertible,2999.99,207,https://www.microsoft.com/en-us/d/surface-book-3/8xbw9g3z71f1
+327,"Apple MacBook Pro 16""",Apple M1 Max,64GB,Apple M1 Max GPU,2TB SSD,Ultrabook,4699.99,208,https://www.apple.com/macbook-pro-16/
+328,"Asus ZenBook Duo 14""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Ultrabook,1999.99,209,https://www.asus.com/Laptops/For-Home/ZenBook/ZenBook-Duo-14-UX482/
+329,"Lenovo Legion 5i 15""",Intel Core i7-10750H,32GB,NVIDIA GeForce RTX 2060,2TB SSD,Gaming,1699.99,210,https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Lenovo-Legion-5i-15/p/82AU00A3US
+330,"HP Pavilion Gaming 15""",Intel Core i7-11370H,32GB,NVIDIA GeForce GTX 1660 Ti,2TB SSD,Gaming,1499.99,211,https://www.hp.com/us-en/shop/pdp/hp-pavilion-gaming-laptop-15z-ec200-2q956av-1
+331,"Dell Inspiron 14 7000""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,2TB SSD,Everyday,1299.99,212,https://www.dell.com/en-us/shop/dell-laptops/new-inspiron-14-7000-laptop/spd/inspiron-14-7490-laptop
+332,"Microsoft Surface Laptop Go""",Intel Core i5-1035G1,16GB,Intel UHD Graphics,2TB SSD,Ultrabook,999.99,213,https://www.microsoft.com/en-us/p/surface-laptop-go/94FC0BDGQ9DM
+333,"Apple MacBook Air 13""",Apple M1,16GB,Apple M1 GPU,2TB SSD,Ultrabook,2049.99,214,https://www.apple.com/macbook-air/
+334,"Asus ROG Zephyrus S17""",Intel Core i9-11900H,32GB,NVIDIA GeForce RTX 3080,2TB SSD,Gaming,3699.99,215,https://www.asus.com/Laptops/For-Gaming/ROG-Zephyrus/ROG-Zephyrus-S17-GX703/
+335,"Lenovo ThinkPad X1 Carbon Gen 9""",Intel Core i7-1165G7,32GB,Intel Iris Xe Graphics,2TB SSD,Business,2699.99,216,https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/ThinkPad-X1-Carbon-Gen-9-Intel/p/20XW000QUS
+336,"HP Omen 17""",Intel Core i9-11900H,32GB,NVIDIA GeForce RTX 3070,2TB SSD,Gaming,2799.99,217,https://www.hp.com/us-en/shop/pdp/omen-laptop-17-ck0010nr
+337,"Dell G7 15""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 2070 Super,2TB SSD,Gaming,2999.99,218,https://www.dell.com/en-us/shop/dell-laptops/g7-15-gaming-laptop/spd/g-series-15-7500-laptop
+338,"Apple MacBook Pro 13""",Apple M1,16GB,Apple M1 GPU,2TB SSD,Ultrabook,2099.99,219,https://www.apple.com/macbook-pro-13/
+339,"Asus VivoBook S14""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Ultrabook,1199.99,220,https://www.asus.com/Laptops/For-Home/VivoBook/VivoBook-S14-S433/
+340,"Lenovo Legion Y740 15""",Intel Core i7-9750H,32GB,NVIDIA GeForce RTX 2070 Max-Q,2TB SSD,Gaming,2299.99,221,https://www.lenovo.com/us/en/laptops/legion-laptops/legion-y-series/Legion-Y740-15/p/81UH0001US
+341,"HP EliteBook 850 G7""",Intel Core i7-10810U,32GB,Intel UHD Graphics,2TB SSD,Business,2299.99,222,https://www.hp.com/us-en/shop/pdp/hp-elitebook-850-g7-notebook-pc-customizable-8cq02av-mb
+342,"Dell XPS 17""",Intel Core i9-10885H,64GB,NVIDIA GeForce RTX 2060,2TB SSD,Ultrabook,3999.99,223,https://www.dell.com/en-us/shop/dell-laptops/xps-17-laptop/spd/xps-17-9700-laptop
+343,Microsoft Surface Pro 7+,Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Convertible,1899.99,224,https://www.microsoft.com/en-us/surface/business/surface-pro-7-plus
+344,"Apple MacBook Pro 16""",Apple M1 Pro,32GB,Apple M1 Pro GPU,2TB SSD,Ultrabook,3499.99,225,https://www.apple.com/macbook-pro-16/
+345,"Asus ZenBook 13""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Ultrabook,1399.99,226,https://www.asus.com/Laptops/For-Home/ZenBook/ZenBook-13-UX325/
+346,"Lenovo Legion 7 16""",AMD Ryzen 9 5900HX,32GB,NVIDIA GeForce RTX 3080,2TB SSD,Gaming,2999.99,227,https://www.lenovo.com/us/en/laptops/legion-laptops/legion-7-series/Legion-7-Gen-6-16-AMD/p/82N6008FUS
+347,"HP Spectre x360 14""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,2TB SSD,Convertible,1899.99,228,https://www.hp.com/us-en/shop/pdp/hp-spectre-x360-convertible-laptop-14t-ea000-touch-9hp74av-1
+348,"Dell Precision 7550""",Intel Core i9-10885H,64GB,NVIDIA Quadro RTX 5000,2TB SSD,Workstation,4699.99,229,https://www.dell.com/en-us/work/shop/workstations-isv-certified-dell/precision-15-7550-mobile-workstation/spd/precision-15-7550-laptop
+349,"Microsoft Surface Laptop Studio""",Intel Core i7-11370H,32GB,NVIDIA GeForce RTX 3050 Ti,2TB SSD,Convertible,2999.99,230,https://www.microsoft.com/en-us/d/surface-laptop-studio/94fg6d59q8kq
+350,"Apple MacBook Pro 14""",Apple M1 Pro,32GB,Apple M1 Pro GPU,2TB SSD,Ultrabook,3499.99,231,https://www.apple.com/macbook-pro-14/
+351,"Asus ROG Flow X13""",AMD Ryzen 9 5980HS,32GB,NVIDIA GeForce GTX 1650,2TB SSD,Convertible,2299.99,232,https://www.asus.com/Laptops/For-Gaming/ROG-Flow/ROG-Flow-X13-2021/
+352,"Lenovo ThinkPad T14s""",Intel Core i7-1165G7,32GB,Intel Iris Xe Graphics,2TB SSD,Business,2299.99,233,https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T14s-Gen-2-Intel/p/20WM000AUS
+353,"HP Omen 15""",AMD Ryzen 9 5900HX,32GB,NVIDIA GeForce RTX 3060,2TB SSD,Gaming,2499.99,234,https://www.hp.com/us-en/shop/pdp/omen-laptop-15-en1023dx
+354,"Dell G7 17""",Intel Core i9-10980HK,32GB,NVIDIA GeForce RTX 2070,2TB SSD,Gaming,2799.99,235,https://www.dell.com/en-us/shop/dell-laptops/g7-17-gaming-laptop/spd/g-series-17-7700-laptop
+355,"Microsoft Surface Pro 8""",Intel Core i7-1185G7,16GB,Intel Iris Xe Graphics,2TB SSD,Convertible,2399.99,236,https://www.microsoft.com/en-us/surface/devices/surface-pro-8
+356,"Apple MacBook Air 13""",Apple M1,16GB,Apple M1 GPU,2TB SSD,Ultrabook,2049.99,237,https://www.apple.com/macbook-air/
+357,"Asus ZenBook 14X OLED""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Ultrabook,1699.99,238,https://www.asus.com/Laptops/For-Home/ZenBook/ZenBook-14X-OLED-UX5400/
+358,"Lenovo Legion 5 Pro""",AMD Ryzen 7 5800H,32GB,NVIDIA GeForce RTX 3070,2TB SSD,Gaming,1999.99,239,https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Legion-5-Pro-16/p/82JQ005GUS
+359,"HP EliteBook x360 1040 G8""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Convertible,2199.99,240,https://www.hp.com/us-en/shop/pdp/hp-elitebook-x360-1040-g8-notebook-pc-customizable-37k44av-mb
+360,"Dell XPS 15""",Intel Core i9-11900H,64GB,NVIDIA GeForce RTX 3050 Ti,2TB SSD,Ultrabook,3299.99,241,https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9510-laptop
+361,"Microsoft Surface Book 3""",Intel Core i7-1065G7,32GB,NVIDIA GeForce GTX 1660 Ti,2TB SSD,Convertible,2999.99,242,https://www.microsoft.com/en-us/d/surface-book-3/8xbw9g3z71f1
+362,"Apple MacBook Pro 16""",Apple M1 Max,64GB,Apple M1 Max GPU,2TB SSD,Ultrabook,4699.99,243,https://www.apple.com/macbook-pro-16/
+363,"Asus ZenBook Duo 14""",Intel Core i7-1165G7,16GB,Intel Iris Xe Graphics,2TB SSD,Ultrabook,1999.99,244,https://www.asus.com/Laptops/For-Home/ZenBook/ZenBook-Duo-14-UX482/
+364,"Lenovo Legion 5i 15""",Intel Core i7-10750H,32GB,NVIDIA GeForce RTX 2060,2TB SSD,Gaming,1699.99,245,https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Lenovo-Legion-5i-15/p/82AU00A3US
+365,"HP Pavilion Gaming 15""",Intel Core i7-11370H,32GB,NVIDIA GeForce GTX 1660 Ti,2TB SSD,Gaming,1499.99,246,https://www.hp.com/us-en/shop/pdp/hp-pavilion-gaming-laptop-15z-ec200-2q956av-1
+366,"Dell Inspiron 14 7000""",Intel Core i7-1065G7,16GB,Intel Iris Plus Graphics,2TB SSD,Everyday,1299.99,247,https://www.dell.com/en-us/shop/dell-laptops/new-inspiron-14-7000-laptop/spd/inspiron-14-7490-laptop
+367,"Microsoft Surface Laptop Go""",Intel Core i5-1035G1,16GB,Intel UHD Graphics,2TB SSD,Ultrabook,999.99,248,https://www.microsoft.com/en-us/p/surface-laptop-go/94FC0BDGQ9DM
+368,"Apple MacBook Air 13""",Apple M1,16GB,Apple M1 GPU,2TB SSD,Ultrabook,2049.99,249,https://www.apple.com/macbook-air/
+369,"Asus ROG Zephyrus S17""",Intel Core i9-11900H,32GB,NVIDIA GeForce RTX 3080,2TB SSD,Gaming,3699.99,250,https://www.asus.com/Laptops/For-Gaming/ROG-Zephyrus/ROG-Zephyrus-S17-GX703/

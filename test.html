@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Laptop Recommendation Chat</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+            background-color: #1b1b1b;
+            color: #ffffff;
+        }
+        h1 {
+            color: #ff9900;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .chat-box {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #333;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        .message {
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #444;
+            border-radius: 5px;
+            color: #fff.
+        }
+        .message.bot {
+            text-align: left;
+            color: #fff;
+        }
+        .message.user {
+            text-align: right;
+            background-color: #555;
+        }
+        .input-container {
+            max-width: 600px;
+            align-self: center;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+        }
+        input[type="text"], input[type="number"] {
+            flex-grow: 1;
+            padding: 10px;
+            border-radius: 5px;
+            border: 2px solid #ccc;
+            background-color: #555;
+            color: #fff;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            background-color: #ff9900;
+            color: #000;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #ff9900;
+        }
+        .home-button, .refresh-button {
+            display: block;
+            width: 120px;
+            margin: 20px auto;
+            padding: 10px;
+            text-align: center;
+            background-color: #ff9900;
+            color: #000;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .home-button:hover, .refresh-button:hover {
+            background-color: #ffcc80;
+        }
+        .recommendation-container {
+            display: none;
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #333;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        .recommendation {
+            margin-bottom: 10px;
+            padding: 10px;
+            background-color: #444;
+            border-radius: 5px;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Laptop Recommendation Chat</h1>
+    <audio id="backgroundMusic" autoplay loop>
+        <source src="/static/music/background.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <div class="chat-box" id="chatBox">
+        <div class="message bot">Welcome! Let's find the perfect laptop for you.</div>
+        <div class="message bot" id="question">What's your budget? ($)</div>
+    </div>
+    <div class="input-container">
+        <input type="text" id="userInput" placeholder="Type your answer...">
+        <button onclick="submitAnswer()">Send</button>
+    </div>
+    <!-- Updated home button -->
+    <a href="http://localhost:5277" class="home-button">Back to Home</a>
+    <!-- Refresh button -->
+    <button class="refresh-button" onclick="refreshChat()">Refresh</button>
+    <!-- Recommendation container -->
+    <div class="recommendation-container" id="recommendationContainer">
+        <div class="message bot">Getting recommendations...</div>
+    </div>
+    <script>
+        const questions = [
+            "What's your budget? ($)",
+            "What will you use the laptop for? (e.g., Gaming, Work, School)",
+            "Do you have a preferred brand?",
+            "What's the minimum RAM you need? (GB)",
+            "What's the minimum storage you need? (GB)"
+        ];
+
+        let currentQuestionIndex = 0;
+        let answers = {};
+
+        function typeBotMessage(message, delay) {
+            const chatBox = document.getElementById('chatBox');
+            const botMessage = document.createElement('div');
+            botMessage.classList.add('message', 'bot');
+            const cursor = document.createElement('span');
+            cursor.classList.add('cursor');
+            botMessage.appendChild(cursor);
+            chatBox.appendChild(botMessage);
+
+            let charIndex = 0;
+            const typeEffect = setInterval(() => {
+                botMessage.lastChild.textContent += message.charAt(charIndex);
+                charIndex++;
+                if (charIndex > message.length) {
+                    clearInterval(typeEffect);
+                }
+            }, delay);
+        }
+
+        function submitAnswer() {
+            const userInput = document.getElementById('userInput');
+            const chatBox = document.getElementById('chatBox');
+
+            if (userInput.value.trim() === '') return;
+
+            const userMessage = document.createElement('div');
+            userMessage.classList.add('message', 'user');
+            userMessage.textContent = userInput.value;
+            chatBox.appendChild(userMessage);
+
+            answers[currentQuestionIndex] = userInput.value;
+
+            userInput.value = '';
+            currentQuestionIndex++;
+
+            if (currentQuestionIndex < questions.length) {
+                typeBotMessage(questions[currentQuestionIndex], 50);
+            } else {
+                sendRecommendationRequest();
+            }
+
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        function sendRecommendationRequest() {
+            const chatBox = document.getElementById('chatBox');
+            const recommendationContainer = document.getElementById('recommendationContainer');
+
+            const loadingMessage = document.createElement('div');
+            loadingMessage.classList.add('message', 'bot');
+            loadingMessage.textContent = 'Getting recommendations...';
+            chatBox.appendChild(loadingMessage);
+
+            const data = {
+                budget: answers[0],
+                usage: answers[1],
+                preferred_brand: answers[2],
+                min_ram: answers[3],
+                min_storage: answers[4]
+            };
+
+            fetch('/recommend', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(recommendations => {
+                chatBox.removeChild(loadingMessage);
+
+                if (recommendations.error) {
+                    const errorMessage = document.createElement('div');
+                    errorMessage.classList.add('message', 'bot');
+                    errorMessage.textContent = `Error: ${recommendations.error}`;
+                    chatBox.appendChild(errorMessage);
+                } else if (recommendations.length === 0) {
+                    const noResultsMessage = document.createElement('div');
+                    noResultsMessage.classList.add('message', 'bot');
+                    noResultsMessage.textContent = "We couldn't find any products matching your specifications.";
+                    chatBox.appendChild(noResultsMessage);
+                } else {
+                    recommendationContainer.style.display = 'block'; // Show recommendation container
+
+                    recommendations.forEach(laptop => {
+                        const laptopMessage = document.createElement('div');
+                        laptopMessage.classList.add('recommendation');
+                        laptopMessage.innerHTML = `
+                            <strong>${laptop.name}</strong><br>
+                            Processor: ${laptop.processor}<br>
+                            RAM: ${laptop.ram}GB<br>
+                            Video Card: ${laptop.video_card}<br>
+                            Storage: ${laptop.storage}GB<br>
+                            Category: ${laptop.category}<br>
+                            Price: $${laptop.price}<br>
+                            <a href="${laptop.url}" style="color: #ffc107;">More info</a>
+                        `;
+                        recommendationContainer.appendChild(laptopMessage);
+                    });
+                }
+
+                chatBox.scrollTop = chatBox.scrollHeight;
+            });
+        }
+
+        function refreshChat() {
+            currentQuestionIndex = 0;
+            answers = {};
+            const chatBox = document.getElementById('chatBox');
+            chatBox.innerHTML = `
+                <div class="message bot">Welcome! Let's find the perfect laptop for you.</div>
+                <div class="message bot" id="question">What's your budget? ($)</div>
+            `;
+            document.getElementById('userInput').value = '';
+            document.getElementById('recommendationContainer').style.display = 'none';
+            document.getElementById('recommendationContainer').innerHTML = '<div class="message bot">Getting recommendations...</div>';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,1460 @@
+Start--
+Page Meta
+{'playwright': True, 'playwright_include_page': True, 'playwright_page_methods': [<PageMethod for method 'wait_for_selector'>], 'download_timeout': 180.0}
+None
+[]
+[]
+No Content
+<!DOCTYPE html>
+<html dir="ltr" lang="ro">
+
+<head>
+
+	<base href="https://www.smart.md/"/>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Accesorizarea smartphone-ului dvs.: gadgeturi indispensabile pentru a va imbunatati experienta mobila.</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#ffcc33"/>
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#ffcc33">
+	<meta name="msapplication-navbutton-color" content="#ffcc33">
+	<meta name="robots" content="INDEX,FOLLOW">
+	<meta name="author" content="Smart Click SRL">
+	<meta property="og:title" content="Accesorizarea smartphone-ului dvs.: gadgeturi indispensabile pentru a va imbunatati experienta mobila.">
+			<meta property="og:image" content="https://www.smart.md/image/data/undefined/smart_logo.png">
+	
+			<meta property="og:description" content="Au trecut vremurile in care un smartphone era doar un dispozitiv pentru a efectua apeluri sau a trimite mesaje. In lumea de astazi, cunoscatoare de tehnologie, smartphone-urile noastre au devenit o parte integranta a vietii noastre, servind ca o solutie u">
+		<meta name="description" content="Au trecut vremurile in care un smartphone era doar un dispozitiv pentru a efectua apeluri sau a trimite mesaje. In lumea de astazi, cunoscatoare de tehnologie, smartphone-urile noastre au devenit o parte integranta a vietii noastre, servind ca o solutie u"/>
+	
+			<meta name="keywords" content="Smartphoane"/>
+		
+				<meta property="og:url" content="www.smart.md/smartphone">
+
+					<link rel="canonical" href="https://www.smart.md/smartphone_apple-iphone-11-64gb-green.html"/>
+		
+					<link href="//www.smart.md/catalog/view/smartv3/img/favicon_smart-o.png" rel="icon"/>
+			
+			
+					<script defer data-cfasync="false" src="catalog/view/javascript/jquery/livesearch-hh.js?v=1.0.22"></script>
+
+					<link rel="alternate" href="https://www.smart.md/ro/smartphone" hreflang="ro-md"/>
+					<link rel="alternate" href="https://www.smart.md/ru/smartphone" hreflang="ru-md"/>
+					<link rel="shortcut icon" type="image/x-icon" href="catalog/view/smartv3/img/favicon_smart-o.png"/>
+
+					<link rel="stylesheet" type="text/css" href="catalog/view/smartv3/css/header.css?v=1.1.20"/>
+
+
+					
+					<link rel="stylesheet" type="text/css" media="print" onload="if(media!='all')media='all'" href="catalog/view/javascript/slick/slick/slick.css?v=0.0.2"/>
+					<link rel="stylesheet" type="text/css" media="print" onload="if(media!='all')media='all'" href="catalog/view/javascript/slick/slick/slick-theme.css?v=0.0.3"/>
+										<script>
+					    mindbox = window.mindbox || function() { mindbox.queue.push(arguments); };
+					    mindbox.queue = mindbox.queue || [];
+					    mindbox('create');
+					</script>
+					<script src="https://api.mindbox.ru/scripts/v1/tracker.js" async></script>
+					<script data-cfasync="false" src="catalog/view/smartv3/js/jquery/jquery1.9.1.min.js"></script>
+					<script defer src="catalog/view/javascript/slick/slick/migrate.js"></script>
+					<script defer src="catalog/view/smartv3/js/header.js?v=0.0.17"></script>
+
+					<!-- Custom scrollbar -->
+					<link rel="stylesheet" media="print" onload="if(media!='all')media='all'" href="catalog/view/smartv3/css/jquery.mCustomScrollbar.css?v=1.0.3">
+
+					<!-- Google Tag Manager -->
+					<script>
+						(function (w, d, s, l, i) {
+							w[l] = w[l] || [];
+							w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+							var f = d.getElementsByTagName(s)[0],
+									j = d.createElement(s),
+									dl = l != 'dataLayer' ? '&l=' + l : '';
+							j.async = true;
+							j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+							f.parentNode.insertBefore(j, f);
+						})(window, document, 'script', 'dataLayer', 'GTM-PWKRK9S');
+					</script>
+					<!-- End Google Tag Manager -->
+
+					<script>
+						var fired = false;
+
+						window.addEventListener('scroll', () => {
+						    if (fired === false) {
+						        fired = true;
+
+						        setTimeout(() => {
+									!function (f, b, e, v, n, t, s) {
+										if (f.fbq)
+											return;
+
+
+
+										n = f.fbq = function () {
+											n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+										};
+										if (! f._fbq)
+											f._fbq = n;
+
+
+
+										n.push = n;
+										n.loaded = !0;
+										n.version = '2.0';
+										n.queue = [];
+										t = b.createElement(e);
+										t.async = !0;
+										t.src = v;
+										s = b.getElementsByTagName(e)[0];
+										s.parentNode.insertBefore(t, s)
+									}(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+									fbq('init', '699360150198708');
+									fbq('track', 'PageView');
+									$(document).trigger('fbq-init');
+								}, 1000)
+    						}
+						});
+					</script>
+
+				</head>
+
+				<body>
+
+					<!-- Roistat Counter Start -->
+					<script>
+					(function(w, d, s, h, id) {
+						w.roistatProjectId = id; w.roistatHost = h;
+						var p = d.location.protocol == "https:" ? "https://" : "http://";
+						var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init?referrer="+encodeURIComponent(d.location.href);
+						var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);
+					})(window, document, 'script', 'cloud.roistat.com', '1dc8baba8916679bba429e39975e406d');
+					</script>
+					<!-- Roistat Counter End -->
+
+										<script>
+						var mouseX = 0;
+						var mouseY = 0;
+						var popupCounter = 0;
+
+						document.addEventListener("mousemove", function (e) {
+							mouseX = e.clientX;
+							mouseY = e.clientY;
+						});
+
+						function lFadeIn() {
+							if (localStorage.getItem("popupShow") == null || localStorage.getItem("popupShow") == undefined || localStorage.getItem("popupShow") == 'no') {
+								$("#leave_popup, .leave_popup_back").fadeIn(200);
+							}
+						}
+						var userIpAddress = '84.95.71.50';
+						if ($(window).width() > 768) {
+							if ((userIpAddress != '212.56.203.142') && (userIpAddress != '188.237.161.84') && (userIpAddress != '212.56.203.143') && (userIpAddress != '95.65.46.230')) {
+								if (popupCounter < 1) {
+									setTimeout(lFadeIn, 60000);
+								}
+								popupCounter++;
+							}
+						}
+
+// ================
+$(window).load(function (event) {
+	validNavigation = false;
+	$(document).bind('keypress', function (e) {
+		if (e.keyCode == 116) {
+			validNavigation = true;
+		}
+	});
+
+	$("a").bind("click", function () {
+		validNavigation = true;
+	});
+
+	$("form").bind("submit", function () {
+		validNavigation = true;
+	});
+
+	$("input[type=submit]").bind("click", function () {
+		validNavigation = true;
+	});
+
+	function endSession() {
+		localStorage.setItem('popupShow', 'no');
+	}
+
+	function wireUpEvents() {
+		$(window).unload(function (e) {
+			if (validNavigation === false) {
+				endSession();
+			}
+		});
+	}
+	wireUpEvents();
+});
+// ===========================================
+$(document).ready(function () {
+	$('#leave_number, #precomanda_telefon, #numar_popup_abonament, #checkout_customer_main_telephone, input[introdu-telefon]').keydown(function (e) {
+		var oldvalue = $(this).val();
+		var field = this;
+		setTimeout(function () {
+			if (field.value.indexOf('0') !== 0) {
+				$(field).val(0);
+			}
+			if (field.value.length >= 2 && field.value.length<= 9) {
+				if(field.value.indexOf('6') !== 1 && field.value.indexOf('7') !== 1) {
+					$(field).val(0);
+				}
+			} else if(field.value.length> 9) {
+				$(field).val(oldvalue);
+			}
+		}, 0);
+	});
+});
+</script>
+
+<script>
+	function leave_fadein() {
+		$("#leave_popup, .leave_popup_back").fadeIn(200)
+	}
+
+	var userIpAddress = '84.95.71.50';
+
+	if ($(window).width() < 768) {
+		if ((userIpAddress != '212.56.203.142') && (userIpAddress != '188.237.161.84') && (userIpAddress != '212.56.203.143')) {
+			setTimeout(leave_fadein, 60000);
+		}
+	}
+	$(document).on('click', "#close_leave_popup, .leave_overlay, #close_leave_popup_ab", function () {
+		$("#leave_popup").fadeOut(300);
+	});
+	$(document).on('click', ".leave_button", function () {
+		if (($("#leave_number").val() != '') && ($("#leave_number").val().length == 9)) {
+
+			$("#leave_popup1 *").css("display", "none");
+			$("#leave_popup1 span:last-of-type").css("display", "block");
+			$("#close_leave_popup").css("display", "block");
+
+		} else {
+			if (($("#leave_number").val() == '') || ($("#leave_number").val().length < 9) || ($("#leave_number").val().length > 9)) {
+				$("#leave_number").css("border-bottom", "2px solid red");
+				$(this).parent().find('.nota-informare').html('<span class="nota-error">   Numarul trebuie sa contina 9 cifre, incepand cu 0.</span>');
+			}
+		}
+	});
+
+	$(document).on('click', ".leave_button", function () {
+		if (($("#numar_popup_abonament").val() != '') && ($("#numar_popup_abonament").val().length == 9)) {
+
+			$("#leave_popup1 *").css("display", "none");
+			$("#leave_popup1 span:last-of-type").css("display", "block");
+			$("#close_leave_popup_ab").css("display", "block");
+
+		} else {
+			if (($("#numar_popup_abonament").val() == '') || ($("#numar_popup_abonament").val().length < 9) || ($("#numar_popup_abonament").val().length > 9)) {
+				$("#numar_popup_abonament").css("border-bottom", "2px solid red");
+			}
+		}
+	});
+</script>
+
+<script data-cfasync="false">
+	$(document).ready(function () {
+		var intRegex = /[0-9 -()+]+$/;
+		$('.buy_one_click').live('click', function () {
+
+			var form = $(this).parents('form');
+
+			form.find('.phone_error').html('');
+			phone = form.find('input[name="tAP_CA_Mobile"]').val();
+
+			if (phone.length != 9 || phone.slice(0, 1) != 0) {
+				form.find('.nota-informare span').show();
+			} else {
+				form.find('.nota-informare span').hide();
+			}
+
+			if ((phone.length < 4) || (! intRegex.test(phone))) {
+				form.find('.phone_error').html('Numarul nu exista. Introduceti numarul corect!');
+				return;
+			}
+
+			post_data = form.serialize();
+			$.ajax({
+				type: 'post',
+				url: 'index.php?route=module/oneclick/order',
+				data: post_data,
+				dataType: 'json',
+				success: function (data) {
+					form.html(data);
+				}
+			});
+		});
+
+});
+</script>
+
+<script>
+	var windowOnloadAdd = function (event) {
+		if ( window.onload ){
+			window.onload = window.onload + event;
+		} else {
+			window.onload = event;
+		};
+	};
+
+	windowOnloadAdd(function() {
+		for (let i=0; i < $('input[name="roistat_visit"]').length; i++) {
+			$('input[name="roistat_visit"]').eq(i).val(roistat.visit);
+		}
+	});
+</script>
+
+
+<!--
+ -->
+
+<div class="popup_addcart_cond">
+	<div class="popup_addcart_content">
+		<svg class="new-svg-icon icon_close_popup_cart_added" onclick="popup_close_cart_succes()"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-close2"></use></svg>
+		<img class="__new_add_to_cart_basket_popup" src="catalog/view/smartv3/img/icons/cart-white.png" alt="" title="">
+		<span>Produsul a fost adaugat in cos</span>
+	</div>
+</div>
+
+<div id="overlayh" onclick="close__menu__elements()"></div>
+<header id="__new_desktop_header" class="__new_desktop_header">
+	<a href="/" title="SMART.MD">
+		<div id="__new_logo_header" class="__new_logo_header __new_header_elements">
+			<div class="__new_logo_header_container">
+				<img width="53" height="53" src='catalog/view/smartv3/img/suricat_msg_sfat-o.png' alt="online store smart" title="" class="__new_header_logo_btn">
+				<span class="__new_header_logo_name">
+					<span>SMART</span>.MD</span>
+				</div>
+			</div>
+		</a>
+
+		<div id="__new_search_button" class="__new_search_button __new_header_elements" onclick="open__new__search()">
+			<div class="__new_search_header_container">
+				<img class="__new_start_icon" src="catalog/view/smartv3/img/__new_header/cauta.png" alt="cauta in site" title="">
+				<svg class="new-svg-icon __new_end_icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-close2"></use></svg>
+				<span class="__new_search-title">Cauta</span>
+			</div>
+		</div>
+
+		<div id="__new_menu" class="__new_menu __new_header_elements" onclick="open__new__menu()">
+			<div class="__new_menu_header_container">
+				<img class="__new_start_icon" src="catalog/view/smartv3/img/__new_header/hamburger.png" alt="menu" title="">
+				<svg class="new-svg-icon __new_end_icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-close2"></use></svg>
+				<span class="__new_menu-title">MENIU</span>
+			</div>
+		</div>
+
+        <!-- CART ICON HEADER -->
+        <div id="__new_cart_compare" class="__new_cart_compare __new_header_elements">
+            <div class="__new_cart_compare_container">
+                <div id="__new_cart" class="__new_cart">
+                    <a href="/index.php?route=checkout/simplecheckout" class="__new_buy-btn __new_buy hide-count">
+	<img src="catalog/view/smartv3/img/__new_header/Cos.png" alt="cumpara">
+	<span class="__new_count_opt __new_cnt_2" id="__cos_count__">0</span>
+	<span class="__new_menu-title __new_cos-title">COȘ</span>
+</a>
+<style type="text/css">.hide-count{display:none;}</style>
+<script type="text/javascript">
+$(document).ready(function(){
+    $(".add_compare").click(function(){
+        $(".count_opt_compare").removeClass('hide-count');
+    });
+});</script>                </div>
+                <div id="__new_compare" class="__new_compare">
+                    <div class="__new_mobile_back_color">
+                        <a class="__new_compare_btn __new_count_opt_compare hide-count" href="https://www.smart.md/index.php?route=product/compare&compare=">
+                            <img src="catalog/view/smartv3/img/__new_header/Compare.png" alt="găsiti mai ieftin" title="">
+                            <span id="__new_compare-total" class="__new_count_opt __new_cnt_1">0</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END -->
+
+        <!-- START SCRIPT -->
+        <div id="__new_wishlist" class="__new_wishlist __new_header_elements" onclick="document.location.href='/favorite'">
+            <div class="__new_wishlist_container">
+		<div class="__new_wishlist_icons">
+	<svg class="s_wishlist" fill="#fff" height="30px" width="40px" viewBox="0 0 471.701 471.701" stroke="#fff" stroke-width="15" xml:space="preserve">
+                <g>
+                    <path d="M433.601,67.001c-24.7-24.7-57.4-38.2-92.3-38.2s-67.7,13.6-92.4,38.3l-12.9,12.9l-13.1-13.1
+                        c-24.7-24.7-57.6-38.4-92.5-38.4c-34.8,0-67.6,13.6-92.2,38.2c-24.7,24.7-38.3,57.5-38.2,92.4c0,34.9,13.7,67.6,38.4,92.3
+                        l187.8,187.8c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-3.9l188.2-187.5c24.7-24.7,38.3-57.5,38.3-92.4
+                        C471.801,124.501,458.301,91.701,433.601,67.001z M414.401,232.701l-178.7,178l-178.3-178.3c-19.6-19.6-30.4-45.6-30.4-73.3
+                        s10.7-53.7,30.3-73.2c19.5-19.5,45.5-30.3,73.1-30.3c27.7,0,53.8,10.8,73.4,30.4l22.6,22.6c5.3,5.3,13.8,5.3,19.1,0l22.4-22.4
+                        c19.6-19.6,45.7-30.4,73.3-30.4c27.6,0,53.6,10.8,73.2,30.3c19.6,19.6,30.3,45.6,30.3,73.3
+                        C444.801,187.101,434.001,213.101,414.401,232.701z"/>
+                </g>
+                </svg>
+		<span class="__new_wishlist-count"></span>
+                </div>
+                <span class="__new_wishlist-title">
+                    FAVORITE                </span>
+            </div>
+        </div>
+        <!-- END SCRIPT -->
+
+		<div id="__new_site_lang" class="__new_site_lang __new_header_elements ">
+			<div class="__new_language_container">
+				<div class="__new_lang_container">
+					<form style="margin-bottom: 0px;" action="https://www.smart.md/index.php?route=module/language" method="post" enctype="multipart/form-data">
+
+    <div id="language">
+                                                	<img onclick="$('input[name=\'language_code\']').attr('value', 'ru'); $('input[name=redirect]').attr('value', window.location.href); $(this).parent().parent().submit();" class="__new_language_mobile_img" src="catalog/view/smartv3/img/__new_header/flag.png" alt="stoc">
+     		<p onclick="$('input[name=\'language_code\']').attr('value', 'ru'); $('input[name=redirect]').attr('value', window.location.href); $(this).parent().parent().submit();">ру <p>
+                    </div>
+<input type="hidden" name="language_code" value="" />
+<input type="hidden" name="redirect" value="https://www.smart.md/smartphone" />
+</form>
+				</div>
+			</div>
+		</div>
+
+		<div id="__new_header_chat" onclick="MeTalk('openSupport');  return false;" class="__new_header_chat __new_header_elements ">
+			<div class="__new_header_chat_container">
+				<img src="catalog/view/smartv3/img/__new_header/scrie.png" alt="vom răspunde la întrebare">
+				<span class="__new_chat-title">Scrie</span>
+			</div>
+		</div>
+
+	</header>
+	<aside id="floating_meniu" class="floating floating_meniu">
+    <div class="fl_meniu_content mCustomScrollbar" data-mcs-axis="y" data-mcs-theme="minimal">
+    <div class="menu_arrow"></div>
+
+    <span class="menu-title_extended">
+      <div id="previousMenu">
+        <svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg>
+      </div>
+      <span class="manu_title_changeable"></span>
+      <svg class="new-svg-icon end_icon mobverile-close" onclick="close__new_mobile_menu()"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-close2"></use></svg>
+      <span style="display: none;" class="mobile_lang"></span>
+    </span>
+
+    <div id="menu_1Column" class="row meniu_table" menu-title="">
+
+      
+        
+                    <a option-id="27"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Telefoane, Tablete si Gadget<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="28"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Laptop, PC si Periferice<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="14"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Mobilier<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="50101"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">IKEA<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="3"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Electrocasnice si Climatizare<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="50237"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">TV, Audio-Video si Foto <svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="50210"  href="https://www.smart.md/ru/piscine"  class="option-link">
+            <div class="interactive-menu_1 element-Menu" >Piscine</div>
+          </a>
+
+        
+                    <a option-id="50189"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Casa si gradina<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="50692"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Gaming<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="50599"  href="https://www.smart.md/generatoare"  class="option-link">
+            <div class="interactive-menu_1 element-Menu" >Generatoare</div>
+          </a>
+
+        
+                    <a option-id="50432"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Sport si Transport Eco<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="13"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Articole pentru copii si Jucarii<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="50413"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Auto<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="50140"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Fashion<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="19"  href="ingrijire-personala"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Ingrijire personala<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="50716"  href="carti-si-birotica"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" >Carti si Birotica<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+        
+                    <a option-id="50050"  class="menu_has-children option-link">
+            <div class="interactive-menu_1 element-Menu" style="color: #EFEFEF">Info<svg class="new-svg-icon"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-arrow-point-to-right"></use></svg></div>
+          </a>
+
+            </div>
+  </div>
+</aside>
+<!--<aside id="floating_search" class="floating_search floating">
+		<div id="fl_search" style="height:100%;">
+			<div class="row meniu_table">
+				<form id="search_bar_form" autocomplete="off" method="POST" onsubmit="return false;">
+					<div id="search" class="box">
+						<div class="search_input_container">
+							<i id="close-mobile-search" class="close_search" onclick="cls_search()">
+								<svg class="new-svg-icon search-arrow-left"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-keyboard_arrow_left"></use></svg>
+							</i>
+							            <input id="cautare_input"  class="search_m form-control seach_bar" name="search" type="text" placeholder="Cauta produsul dorit..." value="">						</div>
+						<div class="border_line"></div>
+						<aside id="box_info_after_search">
+							<div class="row">
+								<div id="search-loader"></div>
+								<div class="nu_a_gasit">
+									Cu părere de rău la moment nu avem produse cu așa denumire pe site.								</div>
+								<div class="col s12 m12 l12 cels_info cleli1">
+
+									<ul id="sugestii_list" class="firs_lst">
+										<li>
+											<div class="title_sectio">Sugestii de cautare</div>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">Realme C2</a>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">Note 8</a>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">iPhone 11</a>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">A51</a>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">Realme XT</a>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">Redmi 8</a>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">Note 9s</a>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">S20</a>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">Note 8 pro</a>
+										</li>
+										<li class="opi_tel">
+											<a id="sugestii_a" for="search">IHunt p13000</a>
+										</li>
+									</ul>
+								</div>
+								<div class="col s12 m12 l12 cels_info celio2">
+									<ul id="categ_list" class="firs_lst" style="display:block !important;padding-left: 20px;font-size: 18px;color:#000;">
+										<li>
+											<div class="title_sectio">Mergi direct la categoria</div>
+										</li>
+										<li>
+											<a href="//www.smart.md/telefoane/smartphones">Smartphone</a>
+										</li>
+										<li>
+											<a href="//www.smart.md/mobila">Mobilier</a>
+										</li>
+										<li>
+											<a href="//www.smart.md/tv">Televizoare										</a>
+									</li>
+									<li>
+										<a href="//www.smart.md/ikea">Ikea</a>
+									</li>
+									<li>
+										<a href="//www.smart.md/frigidere">Frigidere</a>
+									</li>
+									<li>
+										<a href="//www.smart.md/aspiratoare">Aspiratoare</a>
+									</li>
+									<li>
+										<a href="//www.smart.md/power-bank">Powerbank</a>
+									</li>
+									<li>
+										<a href="//www.smart.md/masini-de-spalat-rufe">Maşini de spălat rufe</a>
+									</li>
+									<li>
+										<a href="//www.smart.md/laptopuri/notebook">Laptopuri									</a>
+								</li>
+							</ul>
+							<ul class="second_lst cel_categ_gasit">
+								<li>
+									<div class="title_sectio">Cauta									<b class="search_kw"></b>
+									in categoriile</div>
+								</li>
+								<li id="rezultate_categ"></li>
+							</ul>
+						</div>
+					</div>
+				</aside>
+			</div>
+		</form>
+	</div>
+</div>
+</aside> -->
+
+<aside id="floating_call" class="floating_call floating" style="overflow:hidden;">
+	<svg class="new-svg-icon end_icon close_call" onclick="cls_call()"><use xlink:href="/catalog/view/smartv3/svg/smart-sprite.svg?#svg-icon-close2"></use></svg>
+	<div class="fl_meniu_content mCustomScrollbar" data-mcs-axis="y" data-mcs-theme="minimal">
+		<div class="row meniu_table"></div>
+	</div>
+</aside>
+
+
+<div class="notification" id="notification"></div>
+<div id="ccx_tr_2befcd2e1c6e65c43e3a1440eec2ea59"></div>
+<div id="ccx_tr_2820114c4eed75d0b0fe92df77adf48f"></div>
+<script type="text/javascript">
+let ViselyResource = window.ViselyResource || {
+ theme: 'default',
+ page: 'collection',
+ locale: 'ro',
+ currency: 'MDL',
+ category: {
+  id: '4511',
+  name: 'Smartphone',
+  landing: false,
+  hasProducts: true,
+     labels:[]
+   }
+};
+window.ViselyResource = ViselyResource;
+</script>
+<div itemscope itemtype="//schema.org/WebPage" id="content">
+	<div style="display: none;">
+		<span itemprop="name">Smartphone</span>
+		<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<a itemprop="item" href="/">
+					<span itemprop="name"><</span></a>
+				<meta itemprop="position" content="1" />
+			</li>
+						<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<a itemprop="item" href="https://www.smart.md/telefoane-tablete-si-laptop">
+					<span itemprop="name">Telefoane,Tablete si Gadget</span></a>
+				<meta itemprop="position" content="2" />
+			</li>
+					</ol>
+	</div>
+</div>
+
+<div itemscope itemtype="//schema.org/Product" id="content">
+	<div style="display: none;">
+		<meta itemprop="name" content="Smartphone">
+		<div itemprop = "offers" itemscope itemtype = "//schema.org/AggregateOffer">
+			<meta itemprop="lowPrice" content="899.0000" />
+			<meta itemprop="priceCurrency" content="MDL" />
+		</div>
+	</div>
+</div>
+
+<link rel="stylesheet" type="text/css" href="catalog/view/smartv3/css/category.css?v=1.6">
+
+<div style="display: none;" class="referrer">https://www.smart.md/</div>
+
+
+<section id="category_section" >
+
+
+<input type="text" value="4511" id="category_id" style="display:none;">
+<input type="text" value="4511" id="category_path" style="display:none;">
+
+<div class="container content_in_main">
+
+	<!-- Custom banners -->
+
+  
+  
+  <!-- Custom banners -->
+
+		<div class="row special_padding">
+		<div class="col m10 s12 demumire">
+									<!-- BREADCRUMB -->
+			<div class="breadcrumb">
+								<a href="/"> <</a>								<a href="https://www.smart.md/telefoane-tablete-si-laptop"> Telefoane,Tablete si Gadget</a><span class="breadcrumb-separator">/</span>							</div>
+			<!-- BREADCRUMB -->
+						<h1 class="heading_title_style heading_title_cat">
+				Smartphone (1110)			</h1>
+		</div>
+
+	</div>
+
+	<div visely-results-top-container></div>
+
+			<style type="text/css">
+		.cautare_accesorii {
+			display: none;
+		}
+	</style>
+	
+
+
+		<!-- products block part -->
+
+	<div class="__new_description_category">
+				<div class="__new_description_category_content">
+			<h2>Accesorizarea smartphone-ului dvs.: gadgeturi indispensabile pentru a va imbunatati experienta mobila.</h2> 
+<p>Au trecut vremurile in care un smartphone era doar un dispozitiv pentru a efectua apeluri sau a trimite mesaje. In lumea de astazi, cunoscatoare de tehnologie, smartphone-urile noastre au devenit o parte integranta a vietii noastre, servind ca o solutie unica pentru comunicare, divertisment si productivitate. Pentru a debloca cu adevarat potentialul smartphone-ului dvs. si pentru a va duce experienta mobila la urmatorul nivel, este esential sa-l accesorizati cu cateva gadget-uri de ultima generatie. Aceste accesorii nu numai ca adauga stil, ci si imbunatatesc functionalitatea dispozitivului dvs., facandu-l o adevarata putere in palma.</p>
+
+<h3> Power Banks portabile: Incarcare din mers</h3>
+<p>Cu totii cunoastem frustrarea de a ramane fara baterie in momentele cele mai incomode. Cu un power bank portabil, va puteti lua ramas bun de la acele avertismente de baterie descarcata. Aceste salvatoare de buzunar va asigura ca nu ramaneti niciodata fara suc, permitandu-va sa va incarcati smartphone-ul din mers. Cu designul lor compact si capacitatile de incarcare rapida, power bank-urile au devenit un accesoriu obligatoriu pentru fiecare utilizator de smartphone, oferind libertate de la priza de perete.</p>
+
+<h3> Casti fara fir: Dezlantuiti Beats</h3>
+<p>Castile wireless au revolutionat modul in care ascultam muzica, vizionam videoclipuri si primim apeluri. S-au dus vremurile cu fire incurcate si cu mobilitate limitata. Cu castile wireless, va puteti bucura de sunet captivant fara nicio restrictie. Aceste gadgeturi minuscule ofera conectivitate perfecta, calitate a sunetului clara si durata lunga de viata a bateriei, oferindu-va libertatea de a asculta melodiile preferate sau de a raspunde la apeluri din miscare. Spune-ti adio castilor traditionale si imbratiseaza revolutia wireless.</p>
+
+<h3> Smartwatch: Companionul tau elegant</h3>
+<p>Un ceas inteligent este mai mult decat un simplu dispozitiv care spune timpul; este un insotitor care iti simplifica viata.Cu o gama larga de functii, cum ar fi urmarirea fitnessului, notificari si chiar capacitatea de a efectua apeluri, un ceas inteligent ofera confort chiar la indemana dumneavoastra. Ramaneti conectat si organizat, fara a ajunge constant la smartphone-ul dvs. In plus, ceasurile inteligente sunt disponibile in diferite stiluri si modele, permitandu-va sa va exprimati stilul personal in timp ce ramaneti conectat.</p>
+
+<h3> Accesorii pentru obiectivul camerei: capturati fotografia perfecta</h3>
+<p>Daca iti place fotografia, accesoriile pentru obiectivul camerei sunt o schimbare de joc pentru smartphone-ul tau. Aceste lentile suplimentare ofera zoom optic, capacitati cu unghi larg si fotografii macro, ridicand fotografia de pe smartphone la un nivel cu totul nou. Spune-ti adio purtarii DSLR-urilor voluminoase si imbratiseaza confortul de a capta imagini uimitoare cu dispozitivul tau de buzunar. Cu accesoriile pentru obiectivul camerei, dezlantuiti-va creativitatea si surprindeti momente uluitoare ca un profesionist.</p>
+
+<h3> Gimbal pentru smartphone: fotografii stabile in miscare</h3>
+<p>Indiferent daca sunteti vlogger, creator de continut sau pur si simplu doriti sa va imbunatatiti videografiile smartphone-ului, un cardan pentru smartphone este un accesoriu obligatoriu. Acesti stabilizatori portabili asigura inregistrari netede si stabile, eliminand imaginile instabile. Cu functii incorporate precum urmarirea obiectelor si time-lapse, cardanele faciliteaza capturarea videoclipurilor cu aspect profesional cu smartphone-ul tau, transformand momentele obisnuite in capodopere cinematografice.</p>
+
+<h3> Carcase de protectie: stil cu siguranta</h3>
+<p>Smartphone-ul tau este o investitie care merita protejata. O husa de protectie de inalta calitate nu numai ca adauga o nota de stil, dar asigura si siguranta dispozitivului dumneavoastra. Cu design elegant si materiale robuste, aceste huse ofera o protectie completa impotriva caderilor, socurilor si zgarieturilor. Pastrati-va smartphone-ul intact si elegant, fara a compromite functionalitatea acestuia.</p>
+
+<h3>Recomandari cheie</h3>
+<ul>
+<li>Accesorizarea smartphone-ului ii imbunatateste functionalitatea si stilul.</li>
+<li>Bateriile portabile de alimentare ofera confort de incarcare din mers.</li>
+<li>Castile wireless ofera libertate de fire incurcate.</li>
+<li>Ceasurile inteligente combina stilul si functionalitatea cu diverse caracteristici.</li>
+<li>Atasamentele obiectivelor camerei imbunatatesc fotografia de pe smartphone.</li>
+<li>Cardanele pentru smartphone asigura videoclipuri fluide si cu aspect profesional.</li>
+<li>Husele de protectie va mentin smartphone-ul in siguranta si elegant.</li>
+</ul>
+
+<p>Cu aceste gadget-uri obligatorii, va puteti accesoriza smartphone-ul si va puteti duce experienta mobila la noi culmi. Ramaneti conectat, surprindeti momente uimitoare si bucurati-va de divertisment neintrerupt din mers. Imbratisati lumea accesoriilor pentru smartphone si deblocati adevaratul potential al dispozitivului dvs. Actualizati jocul pentru smartphone-ul dvs. astazi!</p>
+<h2>Explorand tehnologia de ultima ora din spatele smartphone-urilor moderne.</h2> 
+<p>Smartphone-urile au devenit o parte integranta a vietii noastre, fiind insotitorii nostri constanti in aceasta lume digitala in ritm rapid. Dar te-ai intrebat vreodata despre tehnologia remarcabila care conduce aceste dispozitive? In acest articol, vom aprofunda in caracteristicile si specificatiile incredibile care fac smartphone-urile moderne cu adevarat de ultima generatie.</p>
+
+<h3>Design elegant si afisaj avansat</h3>
+
+<p>Unul dintre primele lucruri care ne atrage atentia cand vine vorba de smartphone-uri este designul lor elegant si atragator. Cu profile subtiri, curbe netede si finisaje uimitoare din sticla, aceste dispozitive sunt o bucurie pentru ochi. In plus, smartphone-urile moderne se lauda cu afisaje avansate care ofera o experienta vizuala captivanta, cu culori vibrante, rezolutii clare si rapoarte de contrast ridicate.</p>
+
+<p>Recomandari cheie:</p>
+<ul>
+<li>Modele elegante si atragatoare, care sunt placute din punct de vedere estetic.</li>
+<li>Afisaje avansate care ofera o experienta vizuala captivanta.</li>
+</ul>
+
+<h3>Putere puternica de procesare si conectivitate de mare viteza</h3>
+
+<p>Sub exteriorul lor frumos, smartphone-urile moderne ascund o putere de capacitate de procesare. Echipate cu procesoare de ultima generatie, aceste dispozitive se ocupa fara efort de sarcini complexe, cum ar fi multitasking, jocuri si rularea aplicatiilor care necesita mult resurse. In plus, smartphone-urile ofera conectivitate de mare viteza, permitandu-ne sa navigam pe internet, sa transmitem continut si sa descarcam fisiere la viteze fulgeratoare.</p>
+
+<p>Recomandari cheie:</p>
+<ul>
+<li>Procesoare puternice pentru multitasking si jocuri fara probleme.</li>
+<li>Conectivitate de mare viteza pentru navigare rapida pe internet si streaming de continut.</li>
+</ul>
+
+<h3>Capabilitati revolutionare ale camerei</h3>
+
+<p>Capacitatile camerei smartphone-urilor moderne au revolutionat modul in care surprindem si impartasim momentele. Cu senzori de imagine avansati, stabilizare optica a imaginii si setari cu mai multe obiective, aceste dispozitive produc fotografii si videoclipuri uimitoare in diferite conditii de iluminare.In plus, camerele smartphone ofera functii inovatoare, cum ar fi modul portret, modul noapte si imbunatatiri bazate pe inteligenta artificiala, permitandu-ne sa ne dezlantuim creativitatea si sa facem fotografii de calitate profesionala.</p>
+
+<p>Recomandari cheie:</p>
+<ul>
+<li>Senzori de imagine avansati si stabilizare optica a imaginii pentru fotografii si videoclipuri de inalta calitate.</li>
+<li>Configuratii cu mai multe obiective si functii inovatoare ale camerei pentru a realiza fotografii de calitate profesionala.</li>
+</ul>
+
+<h3>Functii de securitate si confidentialitate imbunatatite</h3>
+
+<p>Producatorii de smartphone-uri acorda prioritate securitatii si confidentialitatii utilizatorilor lor. Cu functii precum autentificarea biometrica, inclusiv senzorii de amprenta si tehnologia de recunoastere faciala, accesarea dispozitivelor noastre a devenit mai sigura si mai convenabila. In plus, smartphone-urile ofera criptare robusta, magazine de aplicatii securizate si actualizari regulate de software pentru a ne proteja datele personale de potentiale amenintari.</p>
+
+<p>Recomandari cheie:</p>
+<ul>
+<li>Autentificare biometrica pentru acces sigur la dispozitiv.</li>
+<li>Criptare robusta si magazine de aplicatii securizate pentru a proteja datele personale.</li>
+</ul>
+
+<h3>Durata de viata extinsa a bateriei si incarcare rapida</h3>
+
+<p>Durata lunga de viata a bateriei a fost intotdeauna o prioritate pentru utilizatorii de smartphone-uri. Din fericire, smartphone-urile moderne sunt echipate cu capacitati mai mari de baterie si procesoare eficiente din punct de vedere energetic, care asigura o utilizare pe tot parcursul zilei fara incarcare frecventa. In plus, aceste dispozitive ofera tehnologii de incarcare rapida, permitand utilizatorilor sa-si reincarce smartphone-urile in cateva minute.</p>
+
+<p>Recomandari cheie:</p>
+<ul>
+<li>Durata de viata extinsa a bateriei pentru utilizare neintrerupta.</li>
+<li>Tehnologii de incarcare rapida pentru reincarcare rapida.</li>
+</ul>
+
+<h4>In concluzie</h4>
+
+<p>Telefoanele inteligente moderne ne-au depasit asteptarile, dotate cu tehnologie de ultima ora care ne mentine conectati, distrati si productivi. Cu designul lor elegant, procesoarele puternice, afisajele uimitoare, camerele revolutionare, caracteristicile de securitate imbunatatite si durata de viata lunga a bateriei, aceste dispozitive au devenit o parte esentiala a vietii noastre de zi cu zi. Pe masura ce tehnologia continua sa evolueze, anticipam cu nerabdare caracteristicile inovatoare pe care le vor aduce viitoarele smartphone-uri.</p>
+<h2>Alegerea smartphone-ului perfect: factori de luat in considerare atunci cand cumparati un dispozitiv nou.</h2> 
+<p>
+Hei, pasionati de tehnologie! Doriti sa va actualizati smartphone-ul? Ei bine, ai ajuns la locul potrivit. Odata cu progresele rapide ale tehnologiei, alegerea smartphone-ului perfect poate fi o sarcina destul de descurajanta. Nu te teme! Va oferim spatele. In acest articol, va vom prezenta factorii esentiali pe care trebuie sa ii luati in considerare atunci cand cumparati un dispozitiv nou. Deci, haideti sa descoperim cel mai bun smartphone care va va ridica experienta digitala la un nivel cu totul nou. Sa fim groovy!
+</p>
+
+<h3>Afisajul si dimensiunea sunt King</h3>
+
+<p>
+In primul rand, afisajul este fereastra catre lumea digitala! Daca doriti sa va scufundati intr-o experienta vizuala cereasca, luati in considerare dimensiunea afisajului. In general, ecranele mai mari vor oferi o experienta multimedia mai placuta; totusi, retineti ca ar putea fi mai putin practice pentru utilizare cu o singura mana. Cu dimensiunile ecranului care variaza de la 5 inchi, pana la 2 inchi si mai mult, trebuie sa va luati in considerare preferintele si modelele de utilizare. Asadar, pregatiti-va si alegeti telefonul care se potriveste nevoilor dvs. de vizionare.
+</p>
+
+<h3>Performanta puternica pentru varful degetelor</h3>
+
+<p>
+Pregatiti-va, tocilari de putere! Cand vine vorba de performanta, procesorul smartphone-ului si memoria RAM sunt fortele motrice din spatele multitasking-ului rapid si eficient. Cautati smartphone-uri alimentate de cele mai noi cipuri de procesor, cum ar fi Qualcomm Snapdragon sau Apple A14 Bionic, pentru a gestiona fara probleme aplicatiile care necesita resurse si jocurile solicitante. In plus, o capacitate RAM suficienta, cum ar fi 6 GB sau 8 GB, asigura o navigare perfecta intre aplicatii si previne acele intarzieri neplacute. Asadar, creste-ti jocul de putere si cucereste taramul digital cu un smartphone care se potriveste nevoilor tale multitasking.
+</p>
+
+
+<h3>Camera – Elibereaza-ti fotograful interior</h3>
+
+<p>
+Spune branza! Camera foto este unul dintre cei mai influenti factori care determina ce smartphone este potrivit pentru tine.Indiferent daca sunteti un obturator ocazional sau un fotograf profesionist care aspira, acordati atentie unor factori precum numarul de megapixeli, dimensiunea diafragmei si capacitatile de stabilizare a imaginii. Cautati smartphone-uri echipate cu mai multe obiective, cum ar fi unghi larg si teleobiectiv, pentru o experienta de fotografie imbunatatita. Cu functii cheie, cum ar fi modul noapte si recunoasterea scenei bazata pe inteligenta artificiala, puteti captura fotografii uluitoare chiar si in conditii de iluminare dificile. Asadar, dezlantuieste-ti artistul interior si profita de momentele perfecte cu imaginea cu viitorul tau smartphone!
+</p>
+
+<h3>Durata de viata a bateriei - Pastrati sucul sa curga</h3>
+
+<p>
+Nimeni nu vrea un telefon care se stinge pe ei, nu? Durata de viata a bateriei este un aspect crucial de luat in considerare atunci cand alegeti noul smartphone. La urma urmei, nu vrei sa fii legat de un cablu de incarcare toata ziua. Cautati telefoane cu capacitati mai mari ale bateriei, de preferinta peste 4.000 mAh, pentru a va asigura o utilizare pe tot parcursul zilei, fara a cauta in mod constant o priza. Functiile suplimentare precum incarcarea rapida si incarcarea fara fir va pot imbunatati semnificativ experienta smartphone-ului. Asadar, tine sucul sa curga si accelereaza-ti jocul pe smartphone.
+</p>
+
+<h3>Sistem de operare – Android sau iOS?</h3>
+
+<p>
+Aici vine rivalitatea suprema, Android versus iOS! Alegerea dintre aceste doua sisteme de operare depinde in mare masura de preferintele si cerintele dumneavoastra personale. Android, cunoscut pentru personalizarea si gama larga de optiuni de dispozitiv, ofera posibilitati nesfarsite si se adreseaza utilizatorilor cunoscatori de tehnologie. Pe de alta parte, iOS, renumit pentru interfata sa eleganta cu utilizatorul si sistemul de operare neted, se adreseaza celor care cauta o experienta de utilizator fara probleme. Evalueaza-ti nevoile, compara avantajele si dezavantajele si alege sistemul de operare care se potriveste cel mai bine stilului tau.
+</p>
+
+<h3>Spatiu de stocare – Nu ramaneti niciodata fara incapere</h3>
+
+<p>
+A ramane fara spatiu de stocare pe smartphone-ul tau poate fi o adevarata ucidere. Prin urmare, este crucial sa aveti spatiu de stocare suficient, mai ales daca sunteti un pasionat de media sau un pasionat de jocuri.Luati in considerare smartphone-urile cu capacitati de stocare interna mai mari, de obicei incepand de la 64 GB si mai mult. Pentru a va asigura ca nu ramaneti niciodata fara spatiu, optati pentru dispozitive care accepta stocare extensibila prin intermediul unui card microSD. Cu spatiul de stocare vast la indemana, va puteti duce lumea digitala oriunde ati merge.
+</p>
+
+<h4>Recomandari cheie:</h4>
+
+<ul>
+<li>Luati in considerare dimensiunea si rezolutia afisajului care se potrivesc nevoilor dvs. multimedia.</li>
+<li>Opteaza pentru un smartphone cu un procesor robust si RAM suficienta pentru multitasking fara intreruperi.</li>
+<li>Alegeti un sistem de camera care se aliniaza cu abilitatile dvs. de fotografie si cu caracteristicile dorite.</li>
+<li>Asigurati-va ca capacitatea bateriei si capacitatile de incarcare ale smartphone-ului dvs. corespund cerintelor dvs. de utilizare.</li>
+<li>Decideti intre Android si iOS in functie de preferintele dvs. personale.</li>
+<li>Nu uitati sa verificati capacitatea de stocare interna si optiunile de extindere.</li>
+</ul>
+
+<p>
+In concluzie, gasirea smartphone-ului perfect nu trebuie sa fie o sarcina coplesitoare. Luand in considerare factorii discutati mai sus, va puteti porni cu incredere in calatoria dvs. pe smartphone. Amintiti-va, totul este sa gasiti locul ideal care se potriveste stilului dvs. de viata, preferintelor si bugetului dvs. Asadar, prindeti centura, pasionati de tehnologie si pregatiti-va sa faceti upgrade la smartphone-ul de vis. Cumparaturi fericite!
+</p>
+<h2>Evolutia smartphone-urilor: de la dispozitive de comunicare de baza la instrumente multifunctionale sofisticate.</h2> 
+<p>In lumea cu ritm rapid de astazi, smartphone-urile au devenit o parte esentiala a vietii noastre. Aceste dispozitive de buzunar au revolutionat modul in care comunicam, lucram si navigam in lume. De la inceputurile lor umile ca instrumente de comunicare de baza, smartphone-urile au evoluat in dispozitive multifunctionale sofisticate care ofera o gama larga de caracteristici si capabilitati.</p>
+
+<h3>Ascensiunea revolutiei smartphone-urilor</h3>
+<p>Era smartphone-urilor a inceput odata cu introducerea primului iPhone de catre Apple in 200. Acest dispozitiv revolutionar combina un telefon mobil, un comunicator de internet si un iPod intr-un singur dispozitiv. A pregatit scena pentru o noua era a tehnologiei mobile, schimband modul in care interactionam cu lumea.</p>
+
+<p>De atunci, smartphone-urile au evoluat rapid, datorita progreselor tehnologice si a concurentei acerbe dintre producatori. Cu fiecare noua generatie, smartphone-urile au devenit mai puternice, mai bogate in functii si mai capabile sa indeplineasca sarcini complexe.</p>
+
+<h4>Caracteristici cheie si avantaje</h4>
+<ul>
+<li><strong>Comunicare:</strong> Telefoanele inteligente ofera diverse optiuni de comunicare, cum ar fi apeluri vocale, aplicatii de mesagerie si apeluri video, permitandu-ne sa ramanem conectati cu prietenii, familia si colegii.</li>
+<li><strong>Acces la internet:</strong> Cu conectivitate Wi-Fi, 4G sau 5G incorporata, smartphone-urile ne permit sa accesam internetul oricand si oriunde, oferind acces instantaneu la informatii si servicii.</li>
+<li><strong>Divertisment:</strong> Smartphone-urile au devenit centre portabile de divertisment, oferind acces la muzica, videoclipuri, jocuri si platforme de streaming, oferind optiuni de divertisment nesfarsite.</li>
+<li><strong>Multifunctionalitate:</strong> Telefoanele inteligente de astazi sunt echipate cu camere avansate, permitandu-ne sa captam fotografii si videoclipuri de inalta rezolutie, facandu-le un dispozitiv all-in-one pentru pasionatii de fotografie.</li>
+<li><strong>Productivitate:</strong> Smartphone-urile vin cu aplicatii de productivitate, clienti de e-mail, editori de documente si integrare pentru stocarea in cloud, permitandu-ne sa lucram din mers si sa ramanem productivi.</li>
+<li><strong>Navigare:</strong> Capacitatile GPS incorporate in smartphone-uri ofera navigare in timp real, ajutandu-ne sa gasim directii de orientare, sa gasim locuri de interes si sa evitam traficul.</li>
+</ul>
+
+<h3>Era asistentilor inteligenti</h3>
+<p>Un progres semnificativ al smartphone-urilor este integrarea asistentilor inteligenti. Asistentii activati prin voce precum Siri, Google Assistant si Alexa au transformat modul in care interactionam cu dispozitivele noastre. Acesti asistenti inteligenti pot indeplini diverse sarcini, cum ar fi trimiterea de mesaje, efectuarea de apeluri, redarea muzicii, setarea mementourilor si raspunsul la intrebari, pur si simplu vorbind cu smartphone-urile noastre.</p>
+
+<p>Potrivit unui sondaj realizat de Statista, incepand cu 2020, aproape 56% dintre utilizatorii de smartphone-uri din intreaga lume au folosit un asistent activat vocal pe dispozitivele lor. Aceasta preluare evidentiaza dependenta tot mai mare de acesti asistenti inteligenti pentru interactiuni comode si fara maini cu smartphone-urile noastre.</p>
+
+<h4>Influenta aplicatiilor si a magazinelor de aplicatii</h4>
+<p>Smartphone-urile nu ar fi la fel de puternice si versatile fara gama larga de aplicatii disponibile prin magazinele de aplicatii. Aplicatiile mobile au transformat smartphone-urile in dispozitive extrem de personalizabile, adaptate nevoilor noastre individuale.</p>
+
+<p>Apple App Store si Google Play Store, cele doua platforme majore de distributie a aplicatiilor, ofera milioane de aplicatii din diferite categorii, inclusiv social media, productivitate, sanatate, jocuri si multe altele. Utilizatorii isi pot imbunatati fara efort experienta smartphone-ului instaland aplicatii care se potrivesc preferintelor lor si satisfac cerintele lor specifice.</p>
+
+<h4>Tehnologii emergente care modeleaza viitorul</h4>
+<p>Viitorul smartphone-urilor detine posibilitati si mai interesante. Progresele in tehnologiile emergente vor redefini peisajul smartphone-urilor:</p>
+
+<ul>
+<li><strong>Conectivitate 5G:</strong> Aparitia tehnologiei 5G este de asteptat sa imbunatateasca semnificativ vitezele de conectivitate mobila si sa reduca latenta.Aceasta tehnologie va debloca un nou potential pentru streaming media de inalta calitate, realitate virtuala si aplicatii bazate pe cloud in timp real.</li>
+<li><strong>Inteligenta artificiala:</strong> Integrarea inteligentei artificiale in smartphone-uri va permite procesarea avansata a imaginilor, recomandari personalizate, recunoastere imbunatatita a vocii si experiente de utilizator mai intuitive.</li>
+<li><strong>Display-uri pliabile:</strong> Telefoanele inteligente pliabile intra treptat pe piata, prezentand afisaje flexibile care pot fi extinse sau pliate pentru a oferi ecrane mai mari sau portabilitate sporita. Aceasta tehnologie ofera o modalitate inovatoare de a echilibra dimensiunea si functionalitatea.</li>
+<li><strong>Realitate augmentata:</strong> Smartphone-urile devin o poarta catre experiente de realitate augmentata. De la jocuri la design interior, tehnologia AR va revolutiona modul in care interactionam cu lumea digitala din jurul nostru.</li>
+</ul>
+
+<h3>Concluzie</h3>
+<p>Evolutia smartphone-urilor de la dispozitive de comunicare de baza la instrumente multifunctionale sofisticate a fost o calatorie remarcabila. Aceste centrale de buzunar au transformat modul in care ne conectam, lucram si ne bucuram de divertisment. Cu fiecare nou progres, smartphone-urile continua sa ne modeleze vietile, aducand functii unice, posibilitati nelimitate si o lume de confort la indemana noastra.</p>
+
+<p>Imbratisand cele mai noi tehnologii, smartphone-urile sunt gata sa devina si mai centrale in viata noastra de zi cu zi, promitand un viitor interesant, plin de inovatii nesfarsite.</p>
+<h2>Viitorul smartphone-urilor: previziuni si tendinte emergente in tehnologia mobila.</h2> 
+<p>Smartphone-urile au devenit o parte esentiala a vietii noastre de zi cu zi, revolutionand modul in care comunicam, lucram si ne distram. Odata cu progresele tehnologice, viitorul smartphone-urilor detine un potential imens si promite noi functii interesante, design de ultima ora si experiente imbunatatite pentru utilizator. In acest articol, analizam previziunile si tendintele emergente care vor modela viitorul tehnologiei mobile.</p>
+
+<h3> Conectivitate 5G: Era vitezelor fulgeratoare</h3>
+<p>Una dintre cele mai asteptate tendinte in tehnologia smartphone-urilor este adoptarea pe scara larga a conectivitatii 5G. Cu viteze care le pot depasi pe cele ale retelelor traditionale de banda larga, 5G va permite streaming fara intreruperi, jocuri de ultra-inalta rezolutie si descarcari mai rapide. Elementele cheie includ:</p>
+
+<ul>
+<li><strong>Viteze fulgeratoare:</strong> 5G va oferi viteze de descarcare de pana la 10 gigabiti pe secunda (Gbps), facand intarzierea sa apara in trecut.</li>
+<li><strong>Experienta imbunatatita a utilizatorului:</strong> Vitezele mai mari vor reduce latenta, rezultand o comunicare imbunatatita in timp real, experiente de realitate augmentata (AR) si realitate virtuala (VR).</li>
+<li><strong>Revolutia Internetului Lucrurilor (IoT):</strong> 5G va permite unui numar mare de dispozitive inteligente sa comunice fara probleme intre ele, transformandu-ne casele, orasele si industriile.</li>
+</ul>
+
+<h3> Ascensiunea telefoanelor pliabile: combinarea portabilitatii si functionalitatii</h3>
+<p>O alta tendinta la orizont este ascensiunea telefoanelor pliabile. Conceptualizate ca o solutie pentru a maximiza spatiul imobiliar al ecranului, mentinand in acelasi timp portabilitatea, telefoanele pliabile ofera tot ce este mai bun din ambele lumi. Elementele cheie includ:</p>
+
+<ul>
+<li><strong>Afisaje flexibile:</strong> Telefoanele pliabile incorporeaza ecrane flexibile care pot fi extinse sau contractate, permitand ecrane mai mari atunci cand este necesar si buzunare usoara.</li>
+<li><strong>Multitasking simplificat:</strong> Utilizatorii pot efectua mai multe sarcini in mod convenabil, ruland mai multe aplicatii simultan pe diferite parti ale afisajului deschis.</li>
+<li><strong>Productivitate imbunatatita:</strong> Telefoanele pliabile ofera o experienta de utilizare mai captivanta si mai eficienta, permitandu-le utilizatorilor sa vizualizeze mai mult continut si sa lucreze confortabil la sarcini complexe.</li>
+</ul>
+
+<h3> Integrare AI: abilitarea dispozitivelor mai inteligente</h3>
+<p>Inteligenta artificiala (AI) a facut deja progrese semnificative in industria smartphone-urilor, iar influenta sa va continua sa creasca in viitor. Prin valorificarea capabilitatilor AI, smartphone-urile vor deveni mai inteligente, mai personalizate si adaptabile la preferintele utilizatorilor. Elementele cheie includ:</p>
+
+<ul>
+<li><strong>Personalizare imbunatatita:</strong> Algoritmii AI vor invata modele de comportament ale utilizatorilor pentru a oferi recomandari personalizate, de la aplicatii la setarile interfetei cu utilizatorul.</li>
+<li><strong>Fotografie imbunatatita:</strong> Camerele alimentate cu inteligenta artificiala vor optimiza procesarea imaginii, rezultand o fotografie mai buna in conditii de lumina scazuta, o stabilizare superioara a imaginii si functii avansate de post-procesare.</li>
+<li><strong>Asistenti virtuali evoluati:</strong> Integrarea AI va supraalimenta asistentii virtuali, permitand procesarea limbajului natural, raspunsuri constiente de context si asistenta predictiva.</li>
+</ul>
+
+<h3> Securitate biometrica: deplasarea dincolo de amprenta</h3>
+<p>Caracteristicile de securitate biometrica au devenit deja obisnuite pe smartphone-uri, senzorii de amprenta fiind in frunte. Cu toate acestea, viitorul detine metode de autentificare si mai sigure si convenabile. Elementele cheie includ:</p>
+
+<ul>
+<li><strong>Recunoastere faciala:</strong> Tehnologia de recunoastere faciala va deveni mai avansata si mai raspandita, permitand utilizatorilor sa-si deblocheze telefoanele si sa autentifice tranzactiile cu o simpla privire.</li>
+<li><strong>Scanarea irisului:</strong> Scanarea irisului ofera o metoda foarte sigura de autentificare, valorificand unicitatea modelului irisului fiecarei persoane.</li>
+<li><strong>Recunoastere vocala:</strong> Recunoasterea vocala va continua sa evolueze, permitand autentificarea securizata si comenzile vocale personalizate.</li>
+</ul>
+
+<h3> Realitate extinsa (XR): experiente captivante</h3>
+<p>Convergenta realitatii augmentate (AR), a realitatii virtuale (VR) si a realitatii mixte (MR) in realitate extinsa (XR) va transforma si mai mult peisajul smartphone-urilor, oferind experiente captivante dincolo de imaginatie. Elementele cheie includ:</p>
+
+<ul>
+<li><strong>AR in viata de zi cu zi:</strong> Cu XR, AR se va integra perfect in activitatile de zi cu zi, oferind suprapunere de date in timp real pentru navigare, cumparaturi, educatie si divertisment.</li>
+<li><strong>VR dincolo de jocuri:</strong> VR va gasi aplicatii dincolo de jocuri, cum ar fi turismul virtual, povestirea interactiva si experiente de antrenament imersive.</li>
+<li><strong>Aplicatii de realitate mixta:</strong> MR va estompa granitele dintre taramurile fizice si cele digitale, permitand experiente interactive prin suprapunerea continutului digital in lumea reala.</li>
+</ul>
+
+<p>In concluzie, viitorul smartphone-urilor este gata sa ne ridice viata digitala la niveluri fara precedent. Integrarea conectivitatii 5G, a designului pliabil, a capabilitatilor AI, a biometricelor avansate si a tehnologiilor XR va revolutiona modul in care interactionam cu dispozitivele noastre. Ramaneti la curent cu aceste evolutii interesante, deoarece posibilitatile sunt nelimitate!</p> 
+<h2>
+Cumparati un telefon mobil online fara contract</h2>
+<p>
+Gama de telefoane mobile este imensa. Pe langa gigantii bine-cunoscuti Samsung,<strong> </strong>Huawei si Apple, din ce in ce mai multi producatori intra pe piata europeana, inclusiv multi din Asia, cum ar fi Xiaomi. Daca sunteti in cautarea unui nou smartphone, puteti gasi un model potrivit in gama imensa de telefoane mobile la un pret rezonabil printr-o cautare orientata. Daca doriti un <strong>telefon mobil fara contract</strong> dar sunteti un fan al ratelor lunare, puteti folosi finantarea noastra cu 0%!</p>
+<ul>
+<li>
+Ce telefon mobil sa cumparati? Faceti alegerea corecta</li>
+<li>
+Ce smartphone este potrivit pentru tine?
+<ul>
+<li>
+Smartphone entry-level sub 200 de euro</li>
+<li>
+Hardware solid intre 250 si 500 de euro</li>
+<li>
+Smartphone-uri de la 500 de euro pentru utilizatorii frecventi</li>
+<li>
+in raiul tehnologiei de la 900 de euro</li>
+</ul>
+</li>
+<li>
+Accesorii pentru telefoane mobile pentru mai multa siguranta si confort</li>
+</ul>
+Apple iPhone 13 miniSamsung S21Xiaomi Mi 11T Pro 5GXiaomi Poco X3 Pro<br />
+<br />
+<p>
+<strong>Modele actuale de telefoane mobile cu afisaj complet:</strong> Diferentele pot fi gasite in forma telefonului mobil si in pozitia si prezentarea camerei selfie. Producatorii o ascund in spatele unei crestaturi negre, direct in ecran sub forma unui mic punct sau in mod creativ sub forma unei camere pop-up.</p>
+<br />
+<br />
+<h2>
+Ce telefon mobil sa cumparati? Cum sa faceti alegerea corecta</h2>
+<p>
+Daca nu va doriti doar un simplu telefon cu buton, ar trebui sa va ganditi la ce doriti sa folositi smartphone-ul. in ultimii ani, designul diferitilor producatori s-a schimbat datorita caracteristicilor distinctive<strong> afisaj cu vedere completa</strong> afisare. Mare <strong>diferente optice</strong> diferentele exista doar in <strong>dispunerea obiectivelor camerei</strong> pe spate. Factorul decisiv intr-o comparatie intre smartphone-uri este, prin urmare, mai presus de toate <strong>calitatea componentelor incorporate</strong>care determina in cele din urma performanta!</p>
+<h3>
+Criteriile decisive dintr-o privire:</h3>
+<h3>
+<strong>Android sau iOS:</strong></h3>
+<p>
+Sistemul de operare. OS = sistem de operare) este <strong>creierul telefonului dvs. mobil</strong>. Acesta gestioneaza diferitele componente tehnice, cum ar fi procesorul (CPU) cu memoria interna (ROM) si memoria RAM. Astfel, sistemul de operare serveste drept interfata intre dumneavoastra, aplicatia pe care urmeaza sa o utilizati si hardware. La nivel mondial, exista doua sisteme care au o cota de piata combinata de peste 90%. <strong>Android si iOS</strong>.<br />
+<br />
+<strong>Asadar, aveti de unde alege:</strong> Android este puternic influentat de Google si are un control vocal uimitor. Selectia de aplicatii este putin mai mare pe Android - Apple filtreaza unele aplicatii printr-un control mai strict. Aplicatiile de top, cum ar fi. <strong>WhatsApp, Facebook, Instagram</strong> sau Ebay, precum si diverse jocuri pot fi, bineinteles, utilizate pe ambele sisteme. Din punct de vedere vizual, toate modelele Apple au acelasi aspect; pe Android, depinde de interfata de utilizator a producatorului.</p>
+<h3>
+Tipul de afisare</h3>
+<br />
+<p>
+Aici aveti de ales intre un ecran OLED, care economiseste bateria, si un ecran LCD mai ieftin, adesea cu un panou IPS. OLED-urile sunt mai subtiri, ofera un contrast mai mare al culorilor si raman mai mult timp reci. Cu toate acestea, pentru un profan, diferentele de calitate sunt greu de observat. in combinatie cu o rezolutie ridicata si o densitate buna a pixelilor, un LCD poate fi, de asemenea, convingator.</p>
+<h3>
+Memorie</h3>
+<br />
+<p>
+Cantitatea de memorie de care aveti nevoie depinde in mare masura de comportamentul utilizatorilor. Daca telefonul este utilizat in principal pentru comunicare si instalati putine aplicatii, 32 GB sunt suficienti. Daca colectionati fotografii si muzica pe dispozitivul dvs. pe perioade mai lungi de timp, ar trebui sa aveti cel putin 64 GB sau mai mult. Alternativ, le puteti stoca si pe un card micro SD, care este o modalitate practica de a extinde memoria pe multe telefoane Android. De asemenea, solutiile cloud devin din ce in ce mai frecvente!</p>
+<h3>
+Camera</h3>
+<br />
+<p>
+Daca faceti fotografii cu smartphone-ul mai des decat cu un aparat foto digital, ar trebui sa va uitati mai atent la aparatul foto. in mod traditional, este listat numarul de megapixeli, dar numai acest lucru nu spune prea multe. <strong>12 megapixeli</strong> este in regula, dar un numar mai mare nu inseamna neaparat rezultate mai bune. The <strong>Deschidere</strong> este in mod ideal <strong>f/1.8</strong> sau mai putin. Diafragma determina incidenta luminii si, prin urmare, cat de buna va fi imaginea in conditii de iluminare slaba. Un <strong>stabilizator optic de imagine</strong> faciliteaza fotografierea. Multe smartphone-uri combina <strong>mai multe lentile</strong> si, astfel, sa creasca calitatea.</p>
+<h3>
+Camera selfie</h3>
+<br />
+<p>
+Autoportretele realizate cu camera frontala a telefonului mobil au devenit parte din viata de zi cu zi pentru multi dintre noi. Ne impartasim viata in acest fel in diverse aplicatii. Pe langa realizarea de fotografii, camera selfie este utilizata si pentru apeluri video. <strong>telefonie video</strong> de importanta. <strong>Calitate HD</strong> de calitate ar trebui sa fie cel putin disponibila. Camera selfie are si ea <strong>Stabilizator de imagine</strong>, <strong>Autofocus</strong> si <strong>LED flash</strong>va puteti astepta la instantanee bune, in functie de conditiile de iluminare. Multe telefoane inteligente optimizeaza imaginile direct in momentul in care le realizeaza sau folosesc efecte precum <strong>Bokeh</strong> pentru a da portretului sau imaginii dvs. un aspect special.</p>
+<br />
+<p>
+<strong>Camera telefonului mobil in comparatie:</strong> Un obiectiv cu unghi larg este din ce in ce mai des combinat cu un unghi ultra-wide. Teleobiectivele sau senzorii de adancime extind posibilitatile de fotografiere. in prezent, multe smartphone-uri au deja o camera tripla cu lentile suplimentare.</p>
+<h3>
+Clasa de protectie IP</h3>
+<br />
+<p>
+Daca va place sa va luati telefonul mobil in aer liber, ar trebui sa luati in considerare <strong>protectie impotriva prafului si a apei</strong> de praf si apa. Puteti utiliza smartphone-ul sub apa doar cu <strong>clasa de protectie IP67</strong> protectie. Telefoanele mobile ieftine ofera adesea doar protectie impotriva stropilor de apa sau chiar nu ofera nicio protectie. Un clasic <strong>telefon mobil in aer liber</strong> cu <strong>Certificare IP68</strong> este Galaxy XCover 5, dar multe dintre iPhone-uri au, de asemenea, o clasa de protectie ridicata.</p>
+<h3>
+LTE</h3>
+<br />
+<p>
+Standardul de telefonie mobila 3G este in prezent in curs de retragere. Aproape toate telefoanele mobile <strong>suport</strong> suporta acum noile <strong>standard de telefonie mobila</strong> <strong>LTE</strong>Cu toate acestea, punctul nevralgic este viteza. Cu cat modelul este mai nou si mai scump, cu atat este mai mare probabilitatea ca viteza LTE sa fie buna. Cu toate acestea, trebuie sa fie disponibil si furnizorul si contractul potrivit.</p>
+<strong>Pentru smartphone-urile LTE!</strong>
+<h3>
+Baterie</h3>
+<br />
+<p>
+Un smartphone nu ar trebui sa aiba o capacitate a bateriei mai mica de 1.800 mAh, dar majoritatea dispozitivelor au deja o capacitate intre <strong>capacitati intre 3.000 si 4.000 mAh.</strong>. Modelele cu ecrane XL ofera din ce in ce mai mult. Cu toate acestea, doar capacitatea nu spune prea multe despre durata de viata finala pana la urmatoarea alimentare cu energie electrica. <strong>Streaming de muzica, luminozitatea ecranului, utilizarea intensiva a aplicatiilor</strong> si durata convorbirilor telefonice <strong>influenteaza consumul de energie</strong> enorm de mult. Eficienta energetica a procesorului incorporat influenteaza, de asemenea, durata de viata. in functie de intensitatea cu care folositi telefonul mobil, trebuie sa alegeti un numar corespunzator de miliamperi-ora si sa acordati atentie setarilor corespunzatoare care va pot economisi bateria.</p>
+<h3>
+Dual SIM</h3>
+<br />
+<p>
+Multe dintre telefoanele de pe piata ofera in prezent un slot dual SIM. Puteti <strong>utilizati doua cartele SIM diferite</strong>chiar si de la furnizori diferiti si cu numere diferite. Mai ales atunci cand sunteti in vacanta in strainatate, aceasta poate fi o modalitate atractiva de a economisi bani. Dar aveti grija! Multi producatori vorbesc despre un slot dual SIM, dar in realitate este vorba doar de un slot SIM hibrid. <strong>Slotul SIM hibrid</strong>. Ce inseamna asta? Cu aceasta versiune puteti utiliza doua cartele SIM in acelasi timp, dar cea de-a doua cartela SIM ocupa atunci slotul pentru cardul SD. Prin urmare, extinderea memoriei este omisa in acest caz.</p>
+<strong>Mai multe despre telefoanele dual-SIM</strong><br />
+<h2>
+Ce smartphone este potrivit pentru tine?<br />
+&nbsp;</h2>
+<h3>
+Smartphone entry-level sub 200 de euro</h3>
+<p>
+Odata cu smartphone-urile cu pret redus <strong>sub 200 de euro, obtineti o tehnologie dovedita care este</strong>care are ceva mai putin de oferit decat telefoanele high-end. in termeni concreti, aceasta inseamna ca majoritatea modelelor vin cu un <strong>afisaj cu tehnologie LCD </strong>si<strong> Rezolutie HD+.</strong> este utilizata rezolutia. The <strong>locuinte</strong> sunt de asemenea <strong>realizate in principal din plastic</strong> si trebuie sa reduci calitatea fotografiilor. De asemenea, telefoanele mobile ieftine nu dispun adesea de <strong>port de incarcare micro USB</strong> este adesea utilizat. Modelele mai bune folosesc in schimb portul flexibil USB-C, care suporta, de asemenea, incarcarea rapida. <strong>incarcare rapida</strong> sprijinit.</p>
+Marci la preturi accesibile: Xiaomi Nokia<br />
+<h2>
+Hardware solid intre 250 si 500 de euro</h2>
+<p>
+La cele mai multe modele primiti deja un <strong>Rezolutie Full HD</strong> si in parte un <strong>Afisaj OLED.</strong> De asemenea, puteti fi siguri de un port de incarcare USB Type-C. Smartphone-urile sunt adesea mai valoroase in constructia lor, iar aluminiul si sticla sunt folosite mai des la carcasa. The <strong>memorie</strong> nu este aproape niciodata mai mica decat <strong>64 GB</strong>.</p>
+Seria curenta: Galaxy A Xiaomi Mi<br />
+<br />
+<h2>
+Smartphone-uri de la 500 de euro pentru utilizatorii frecventi</h2>
+<p>
+Daca va folositi mult telefonul mobil si pastrati ecranul stralucitor, ar trebui sa bagati ceva mai adanc in buzunar. Multe telefoane mobile de la 500 de euro pot fi usor <strong>incarcare fara fir</strong> si poate supravietui chiar si unei ploi fara probleme. Cu Apple ca exceptie, toti producatorii din aceasta gama de preturi ofera <strong>cel putin 128 GB de memorie</strong> si <strong>un afisaj OLED</strong>din ce in ce mai des cu <strong>Rezolutie Quad HD</strong>.</p>
+Serie: Galaxy S20 Galaxy S21<br />
+<br />
+<h2>
+in raiul tehnic de la 900 de euro</h2>
+<p>
+in domeniul telefoanelor mobile Olympus, in principal Apple si Samsung concureaza pentru statutul de telefon mobil high-end de ultima generatie. HUAWEI si OnePlus sunt, de asemenea, reprezentate cu un model Pro. La clasa premium beneficiati de <strong>ecrane OLED de mari dimensiuni, incepand cu 6,5 inchi</strong> (cu exceptia iPhone 11 Pro) cu un top <strong>rezolutie de top</strong>. Un puternic <strong>camera tripla cu stabilizare a imaginii</strong> este standardul aici. Intern <strong>memorie</strong> este nu de putine ori <strong>256 GB</strong>. Tehnologia procesoarelor incorporate este conceputa pentru procesele solicitante de pe smartphone si pentru jocuri. De asemenea, unele dintre noile modele (cu exceptia Apple) iau deja in considerare <strong>Standardul de telefonie mobila 5G</strong>.</p>
+Seria curenta: Apple iPhone 13 Pro Max<br />
+<h2>
+Accesorii pentru telefoane mobile pentru mai multa siguranta si confort</h2>
+<p>
+Se poate intampla rapid ca smartphone-ul dvs. sa intalneasca podeaua, marginea unei mese, degetele unsuroase, apa sau praful. Accesorii adecvate pentru telefoane mobile, cum ar fi un <strong>husa pentru telefon mobil sau folie pentru ecran</strong>va poate proteja dispozitivul. Husele si carcasele sunt disponibile intr-o varietate de culori si modele. De asemenea, puteti incheia o asigurare de dispozitiv pentru insotitorul dumneavoastra inteligent. <strong>asigurarea dispozitivului</strong> sau extindeti <strong>extindeti garantia</strong>.</p>
+<p>
+Pentru a va asigura ca nu ramaneti fara baterie in timpul calatoriilor mai lungi, este util sa cumparati o banca de alimentare. <strong>Powerbank</strong>. Pentru o incarcare usoara acasa, exista statii de incarcare wireless pentru dispozitivele mai noi care suporta standardul Qi, unde trebuie doar sa asezi telefonul deasupra - placut de practic.</p>
+<strong>Accesorii pentru telefoane mobile si smartphone-uri</strong><br />
+<br />
+<h2>
+Oferte ieftine de telefoane mobile fara contract la SMART</h2>
+<p>
+Va oferim cele mai bune smartphone-uri si telefoane mobile fara contract si va oferim libertate totala in ceea ce priveste tarifele. <strong>Puncte de atractie actuale</strong> Le veti gasi clar sortate si veti putea compara cu usurinta preferatele smartphone-urilor in magazinul nostru. Nu trebuie sa fie noua? Aruncati o privire la <strong>priza de telefonie mobila</strong> de catre. Aici veti gasi o gama larga de telefoane mobile folosite. V-ati hotarat asupra unui smartphone? in timpul procesului de comanda, puteti alege in mod flexibil o metoda de plata care sa se potriveasca nevoilor dumneavoastra. Puteti primi noul dumneavoastra telefon mobil la adresa dorita sau il puteti ridica direct din unul dintre magazinele Smart. Daca aveti intrebari sau nelamuriri, echipa noastra de asistenta va fi bucuroasa sa va ajute online sau prin telefon.<br />
+&nbsp;</p>
+Acum <strong>economisiti si mai mult</strong> la <strong>Telefoane mobile si telefoane inteligente Outlet</strong> de la Smart! Bunuri de demonstratie si de ocazie, bunuri de tip B si stocuri restante <strong>puternic redus, strict testat, la fel de bun ca nou si cu garantie completa!</strong> La priza de telefonie mobila inapoi la produse		</div>
+	</div>
+	<div class="__new_chats_home">
+		<div class="__new_chats_container">
+			<div class="__new_chats_block1">
+				<span class="__new_chats_title">Hai sa vorbim!</span>
+				<img src="catalog/view/smartv3/img/__new_chats/Megafon.png" alt="magazinul" />
+			</div>
+			<div class="__new_chats_block2">
+				<a href="viber://pa?chatURI=smartclick">
+					<img src="catalog/view/smartv3/img/__new_chats/Viber.png" alt="detalii in viber" />
+				</a>
+				<a href="https://m.me/smart.md.moldova">
+					<img src="catalog/view/smartv3/img/__new_chats/Messenger.png" alt="facebook messenger" />
+				</a>
+				<a href="https://t.me/Smart_md_Bot">
+					<img src="catalog/view/smartv3/img/__new_chats/Telegram.png" alt="scrie in telegram" />
+				</a>
+			</div>
+		</div>
+	</div>
+
+</div>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	window.dataLayer.push({
+		'section_of_website' : 'category',
+		'event' : 'productcategoryview',
+		      'prod_cat_0' : 'Telefoane,Tablete si Gadget',
+            'prod_cat_1' : 'Telefoane,Tablete si Gadget / Smartphone',
+      	});
+</script>
+
+<script defer src="catalog/view/smartv3/js/jquery.pjax.js?v=1.0.4"></script>
+<!--<script src="catalog/view/smartv3/js/lazyload.min.js?v=1.0.0"></script>-->
+<script defer src="catalog/view/smartv3/js/category.js?v=1.0.3"></script>
+<script>
+	$('#lading_title').remove();
+	$('#lading_description').remove();
+	$('.heading_title_cat').appendTo('#title_cat');
+
+
+		$('.custom__banners_mob').prependTo('#title_cat').css("margin-top","10px");
+		$('.custom__banners_desk').prependTo('#title_cat').css("margin-top","20px");
+
+
+
+	$(document).on('click', ".__new_filtreaza_mobile", function() {
+		$('#aq_filter').click();
+	})
+</script>
+</section>
+
+<!-- END CONTENT BOTTOM edited 18.01.2023 -->
+
+
+
+
+        <script type="text/javascript" src="catalog/view/smartv3/js/smart.js?v=0.1.33"></script>
+    <link rel="stylesheet" href="catalog/view/smartv3/css/category-promo.css?v=0.0.47"/>
+
+  <link rel="stylesheet" type="text/css" media="none" onload="if(media!='all')media='all'" href="catalog/view/smartv3/css/footer.css?v=0.0.715">
+
+  <div class="__promo_content __new_content_home __categories_landing __footer_promo">
+    <div class="__new_content_center_align">
+      <div class="__new_categories_home">
+
+        <div class="__new_categories_home_block1 __new_categories_home_block1_laptop" style="margin-top: 40px;">
+
+          
+            <a href="https://www.smart.md/apple-iphone-11" class="__new_category_home_category">
+                            <div class="__new_categories_image_container">
+                <img class="__new_category_home_category_image" src="https://www.smart.md/image/cache/data/results-photos/thumbnails/771111-220x170.jpg" alt="Apple iPhone 11" />
+              </div>
+                            <h2 class="__new_category_home_category_name">Apple iPhone 11</h2>
+            </a>
+            
+            <a href="https://www.smart.md/apple-iphone-12" class="__new_category_home_category">
+                            <div class="__new_categories_image_container">
+                <img class="__new_category_home_category_image" src="https://www.smart.md/image/cache/data/results-photos/thumbnails/775555-220x170.png" alt="Apple iPhone 12" />
+              </div>
+                            <h2 class="__new_category_home_category_name">Apple iPhone 12</h2>
+            </a>
+            
+            <a href="https://www.smart.md/apple-iphone-13" class="__new_category_home_category">
+                            <div class="__new_categories_image_container">
+                <img class="__new_category_home_category_image" src="https://www.smart.md/image/cache/data/results-photos/thumbnails/776666-220x170.jpg" alt="Apple iPhone 13" />
+              </div>
+                            <h2 class="__new_category_home_category_name">Apple iPhone 13</h2>
+            </a>
+            
+            <a href="https://www.smart.md/apple-iphone-14" class="__new_category_home_category">
+                            <div class="__new_categories_image_container">
+                <img class="__new_category_home_category_image" src="https://www.smart.md/image/cache/data/Mobila/000053960412-220x170.jpg" alt="Apple iPhone 14" />
+              </div>
+                            <h2 class="__new_category_home_category_name">Apple iPhone 14</h2>
+            </a>
+            
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="__new_footer">
+    <span class="__new_product_disponibility">*Toate ofertele sunt valabile in limita stocului disponibil.</span>
+    <div class="__new_footer_suricat_container">
+      <img class="__new_footer_suricat img_lazy_load" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="catalog/view/smartv3/img/__new_footer/Footer-meerkats.png" alt="main background">
+    </div>
+    <div id="__new_cookie_disclaimer" class="__new_cookie_disclaimer">
+      <div>
+                  <div class="titolo">Navigarea pe acest site se considera acceptarea Dvs. cu privire la politica de utilizare a <a href="/cookies" target="_blank">cookie-urilor</a>.<span id="cookie_stop" style="display: none;">x</span></div>      </div>
+    </div>
+    <div class="payments" >
+      <img src="catalog/view/smartv3/img/payments/visa-box.svg">
+      <img src="catalog/view/smartv3/img/payments/master-box.svg">
+      <img src="catalog/view/smartv3/img/payments/apay-box.svg">
+      <img src="catalog/view/smartv3/img/payments/maib-box-1.svg">
+    </div>
+    <div class="__new_line_footer"></div>
+    <div class="__new_footer_bottom_block">
+      <img class="__new_footer_logo img_lazy_load" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="catalog/view/smartv3/img/footer/logo_smart_footer_2-1-o.png" alt="logo">
+      <span class="__new_copyright">© 2013-2023 Toate drepturile rezervate
+				<div>Smart Click SRL</div>
+				<div>Operator de date cu caracter personal cu Nr. 0001919</div>
+				<div>Republica Moldova, mun. Chișinău, str. Tighina 31, MD 2001</div>
+				<div>IDNO: 1013600016479 I TVA : 0507029</div>
+				<div>NOTIFICARE NR. P-14128/2020 DIN 16.09.2020</div>
+				<div>IBAN : MD71MO2224ASV62459567100 I Mobiasbanca – OTP Group S.A I C/B: MOBBMD22</div>
+				<div><a href="https://www.smart.md/index.php?route=common/home/apcsp" target="_blank">Agenția pentru Protecția Consumatorilor și Supravegherea Pieții</a></div>
+				<div><a href="/terms-and-conditions" target="_blank">Termeni și condiții</a></div></span>
+
+      <div class="__new_footer_social">
+        <div class="__new_ic_page_bott_1">
+          <a href="https://www.facebook.com/smart.md.moldova/" target="_blank"></a>
+        </div>
+        <div class="__new_ic_page_bott_2">
+          <a href="//instagram.com/smart.moldova" target="_blank"></a>
+        </div>
+      </div>
+    </div>
+    <div style="opacity: 0;">Administrat de <a target="_blank" href="https://minicode.md">Minicode</a></div>
+  </footer>
+  <!-- visely-js -->
+  <script type="text/javascript" async src="https://storage.googleapis.com/visely-assets/static/74mosv2covp1tqieoh6lu8edqd/visely-recommendations-core-31072023-locked.js"></script>
+  <script defer="defer" src="catalog/view/smartv3/js/materialize/components.min.js?v=1.4"></script>
+  
+    
+      <script type="text/javascript">
+        console.log('Test Category');
+        mindbox("async", {
+            operation: "Website.ViewCategory",
+            data: {
+		    customer: {
+		        area: {
+		            ids: {
+				externalId: 'md'
+		            }
+
+		        }
+		    },
+
+		    viewProductCategory: {
+		           productCategory: {
+		                ids: {
+		                   website: '4511'
+				}
+			   }
+		    }
+            },
+
+	    onSuccess: function() { },
+            onError: function(error) { }
+      });
+    </script>
+    
+
+  <!-- AnyQuery -->
+          <script type="text/javascript">
+        var digiScript = document.createElement('script');
+        digiScript.src = '//cdn.diginetica.net/2063/client.js?ts=' + Date.now();
+        digiScript.defer = true;
+        digiScript.async = true;
+        document.body.appendChild(digiScript);
+      </script>
+    
+  <script>
+    function addToCart(product_id,quantity) {
+      $.ajax({
+        url: 'index.php?route=checkout/cart/add',
+        type: 'post',
+        data: { product_id: product_id, quantity: quantity},
+        dataType: 'json',
+        success: function(json) {
+          if (json['success']) {
+            location.reload();
+          } else {
+            console.log('There was an error')
+          }
+        }
+      });
+    }
+
+  </script>
+  <!-- End AnyQuery -->
+
+
+  <!-- Roistat -->
+    <script>
+      window.roistatCurrentProductCategory_dev = "4485";
+      window.roistatCurrentProductCategory = "electronice";
+  </script>
+
+  <!--
+  <script>
+    (function(w, d, s, h, id) { w.roistatProjectId = id; w.roistatHost = h; var p = d.location.protocol == "https:" ? "https://" : "http://"; var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init"; var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);})(window, document, 'script', 'cloud.roistat.com', '1dc8baba8916679bba429e39975e406d');
+  </script>
+  -->
+
+  <script src="roistat/scripts.js?v=1.02"></script>
+
+  <script>
+    $(document).on('click', '#bingc-passive-phone-form-button', () => sendBinotelToRoistat(window.BinotelGetCall || null));
+    $(document).on('keyup', '#bingc-passive-get-phone-form-input', (event) => (Number(event.keyCode) === 13) && sendBinotelToRoistat(window.BinotelGetCall || null));
+
+    let checkDoubleSend = false;
+    let sendBinotelToRoistat = (data) => {
+      if (!checkDoubleSend) {
+        checkDoubleSend = true;
+
+        let phone = $("#bingc-passive-get-phone-form-input").val();
+        if (phone.length >= 9 && phone.match('^[0-9 ]+$')) {
+          data = data || {status: "error"};
+          data.phone = phone;
+          data.page = document.location.href;
+
+          $.ajax({
+              url: '/roistat/wbhook.binotel.form.php',
+              type: 'POST',
+              contentType: 'application/json',
+              data: JSON.stringify(data),
+              dataType: 'json'
+          });
+
+          setTimeout(() => {
+              checkDoubleSend = false;
+          }, 1000);
+        }
+      }
+    }
+  </script>
+
+  <script>
+    $(document).on('focus','#bingc-passive-get-phone-form-input',function(){
+      $(this).val('373');
+      $(this).attr('maxlength', '11').attr('minlength', '11');
+    });
+    $(document).on('input','#bingc-passive-get-phone-form-input',function(){
+      input = $(this);
+      val = input.val();
+      filteredVal = val.replace(new RegExp(/[^\d]/,'ig'), "");
+      input.val(filteredVal);
+      //handle the 4th element to prevent 0 after 373
+      if(val.length==4){
+        if(val.charAt(3) == 0){
+          input.val('373');
+        }
+      }
+      //prevent removing 373 from input
+      if(val.length<3){
+        input.val('373');
+      }
+    });
+  </script>
+  <!-- Roistat -->
+
+  <!-- Google Tag Manager (noscript) -->
+  <!--<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWKRK9S"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
+  <!-- End Google Tag Manager (noscript) -->
+
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=699360150198708&ev=PageView&noscript=1"; /></noscript>
+
+  <!-- Yadro CRM -->
+  <script type="text/javascript">
+  (function(d, w, k) {
+      w.introvert_callback = function() {
+          try {
+              w.II = new IntrovertIntegration(k);
+          } catch (e) {console.log(e)}
+      };
+
+      var n = d.getElementsByTagName("script")[0],
+          e = d.createElement("script");
+
+      e.type = "text/javascript";
+      e.async = true;
+      e.src = "https://api.yadrocrm.ru/js/cache/"+ k +".js";
+      n.parentNode.insertBefore(e, n);
+  })(document, window, '2fffd5b1');
+  </script>
+  <!-- Yadro CRM -->
+
+  <script>
+  $(document).on('fbq-init', function() {
+      $(document).on("click", "#bingc-passive-phone-form-button, .cerc_social.call.mobileVersion",function() {
+        fbq('track', 'Lead');
+      });
+    });
+  </script>
+
+    <!-- New Chat -->
+
+<script >
+
+  $( document ).ready(
+    function() {
+
+      $('.__new_header_chat_container').on('click', function() {
+
+        ( window.onload = function (a,m,o,c,r,m){a[m]={id:"266053",hash:"922df86c34f36724352aa8094c2a0400c767ac7438e4ddd4d96b134c191d38f9",locale:"ru",inline:false,setMeta:function(p){this.params=(this.params||[]).concat([p])}};a[o]=a[o]||function(){(a[o].q=a[o].q||[]).push(arguments)};var d=a.document,s=d.createElement('script');s.async=true;s.id=m+'_script';s.src='https://gso.amocrm.ru/js/button.js?1663017593';d.head&&d.head.appendChild(s)}(window,0,'amoSocialButton',0,20,'amo_social_button'));
+
+          $('.__new_header_chat_container').off('click');
+      });
+
+
+
+    }
+  );
+
+</script>
+
+   <!-- New Chat -->
+
+  <!-- Custom Scrollbar -->
+  <script defer src="catalog/view/smartv3/js/jquery.mCustomScrollbar.concat.min.js?v=1.0.4"></script>
+
+  <!-- Slick Slider -->
+  <script defer src="catalog/view/javascript/slick/slick/slick.min.js?v=0.0.1"></script>
+
+
+
+  </body>
+</html>
+
+<!--cache protocol [https] host [www.smart.md] device [desktop] uri [/smartphone] (en/USD) expires: 2023-08-03 11:49:01 UTC-->
+Start--
+Page Meta
+{'pyppeteer': True, 'download_timeout': 180.0}
+None
+[]
+[]
+No Content
+Start--
+Page Meta
+{'pyppeteer': True, 'download_timeout': 180.0}
+None
+[]
+[]
+No Content
+Start--
+Page Meta
+{'pyppeteer': True, 'download_timeout': 180.0}
+None
+[]
+[]
+No Content
